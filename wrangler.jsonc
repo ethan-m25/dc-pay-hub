@@ -1,1 +1,9 @@
-{"name": "dc-payhub", "vars": {"APP_BASE_URL": "https://dc.payhub.fyi"}}
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dc-payhub",
+  "compatibility_date": "2026-03-13",
+  "pages_build_output_dir": ".",
+  "vars": {
+    "APP_BASE_URL": "https://dc.payhub.fyi"
+  }
+}
