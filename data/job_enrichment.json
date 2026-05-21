@@ -1,0 +1,1131 @@
+{
+  "meta": {
+    "built_at": "2026-05-21T00:00:57.272446+00:00",
+    "total_jobs": 285,
+    "enriched": 49
+  },
+  "jobs": {
+    "associate-director---democracy-forwa-28696060": {
+      "summary": "Provides strategic leadership to advance pro-democracy and progressive policies through state government affairs efforts, acting as the staff expert and primary liaison with elected officials and partners.",
+      "key_skills": [
+        "state policy",
+        "legislative affairs",
+        "advocacy",
+        "policy expertise",
+        "strategic leadership",
+        "relationship building",
+        "bill drafting",
+        "regulatory analysis"
+      ],
+      "core_skills": [
+        "policy analysis",
+        "advocacy strategy",
+        "stakeholder engagement",
+        "legislative liaison"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director-of-the-futu-democracy-forwa-28696060": {
+      "summary": "Directs the redesign of federal government talent structures to create agile, interdisciplinary teams and future-ready talent models.",
+      "key_skills": [
+        "design",
+        "interdisciplinary",
+        "future-ready",
+        "talent",
+        "strategy",
+        "platform",
+        "training",
+        "co-design"
+      ],
+      "core_skills": [
+        "design",
+        "interdisciplinary",
+        "talent",
+        "strategy"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "oversight-counsel-democracy-forwa-28696060": {
+      "summary": "Oversight Counsel strategically drives legal and oversight strategies to protect democratic institutions from executive branch attacks, handling federal open records litigation, caseload management, and litigation strategy development.",
+      "key_skills": [
+        "federal litigation",
+        "open records",
+        "foia",
+        "legal research",
+        "complaint writing",
+        "discovery",
+        "oral arguments",
+        "litigation strategy"
+      ],
+      "core_skills": [
+        "legal research",
+        "complaint writing",
+        "discovery",
+        "oral arguments"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "paralegal-manager-democracy-forwa-28696060": {
+      "summary": "Manages a team of paralegals and legal assistants to ensure error-free and timely legal filings in federal and state courts while providing training and support.",
+      "key_skills": [
+        "paralegal management",
+        "legal support",
+        "litigation support",
+        "team leadership",
+        "workflow management",
+        "court filings",
+        "training",
+        "people management"
+      ],
+      "core_skills": [
+        "people management",
+        "litigation support",
+        "court filings",
+        "team leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-director-of-p-democracy-forwa-28696060": {
+      "summary": "Senior Director of People and Culture leads strategic HR initiatives, manages a team of six, and drives culture alignment in a mission-driven organization.",
+      "key_skills": [
+        "strategic",
+        "people-centered",
+        "change_management",
+        "scaling",
+        "high_performing_teams",
+        "diverse_talent",
+        "training_programs",
+        "hr_processes"
+      ],
+      "core_skills": [
+        "strategic_leadership",
+        "hr_operations",
+        "performance_management",
+        "employee_engagement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-manager--cli-axios-28696060": {
+      "summary": "Client Success Account Manager supports advertising teams by managing post-sale account relationships, delivering turnkey client experiences, and driving revenue through campaign optimization and client retention.",
+      "key_skills": [
+        "client success",
+        "campaign management",
+        "media planning",
+        "ad operations",
+        "digital marketing",
+        "account management",
+        "customer service",
+        "project management"
+      ],
+      "core_skills": [
+        "agile",
+        "strategic thinking",
+        "problem-solving",
+        "data-driven decision making"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "analytics-engineer-axios-28696060": {
+      "summary": "Analytics Engineer at Axios designs and maintains data products, dashboards, and visualizations to deliver actionable insights to business stakeholders through a medallion architecture.",
+      "key_skills": [
+        "sql",
+        "data_visualization",
+        "data_engineering",
+        "bi",
+        "dbt",
+        "snowflake",
+        "bigquery",
+        "redshift"
+      ],
+      "core_skills": [
+        "sql",
+        "data_visualization",
+        "data_engineering",
+        "bi"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "associate--business--axios-28696060": {
+      "summary": "Business Development Associate secures and grows client relationships for Axios' advertising sales team through proactive outreach and revenue generation.",
+      "key_skills": [
+        "customer service",
+        "sales pipeline management",
+        "project management",
+        "sales fundamentals",
+        "outbound outreach",
+        "prospecting",
+        "time management",
+        "prioritization"
+      ],
+      "core_skills": [
+        "customer service",
+        "sales pipeline management",
+        "project management",
+        "sales fundamentals"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "associate-director-o-axios-28696060": {
+      "summary": "Owns and grows local territories through outbound sales strategies to acquire new revenue and expand market presence in digital media.",
+      "key_skills": [
+        "sales",
+        "new_business_development",
+        "outbound_sales",
+        "revenue_growth",
+        "territory_management",
+        "digital_media",
+        "market_expansion",
+        "account_expansion"
+      ],
+      "core_skills": [
+        "sales",
+        "revenue_growth",
+        "outbound_sales",
+        "territory_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--total-rewa-axios-28696060": {
+      "summary": "Designs and leads a competitive, scalable total rewards strategy to attract, retain, and motivate talent while reinforcing company values and culture.",
+      "key_skills": [
+        "strategic",
+        "execution-focused",
+        "total_rewards",
+        "compensation",
+        "benefits",
+        "market_analysis",
+        "data_driven",
+        "analytics"
+      ],
+      "core_skills": [
+        "compensation_benchmarking",
+        "hris_workday",
+        "excel_google_sheets",
+        "project_management"
+      ],
+      "seniority_signal": "director",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "editor--axios-local--axios-28696060": {
+      "summary": "Manages and supports reporters through editorial brainstorming and execution, owns company vision, experiments with AI to drive workflow efficiencies, and delivers story and newsletter editing in Smart Brevity style.",
+      "key_skills": [
+        "newsroom",
+        "editorial",
+        "story",
+        "newsletter",
+        "ai",
+        "workflow",
+        "feedback",
+        "coaching"
+      ],
+      "core_skills": [
+        "newsroom",
+        "editorial",
+        "story",
+        "newsletter"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "engineering-manager-axios-28696060": {
+      "summary": "Engineering Manager leads a team of engineers while staying close to technical work, driving high-quality delivery, mentoring engineers, and collaborating across functions to ensure scalable systems and AI-assisted development.",
+      "key_skills": [
+        "engineering",
+        "backend",
+        "full-stack",
+        "ai",
+        "agentic",
+        "workflows",
+        "code",
+        "quality"
+      ],
+      "core_skills": [
+        "technical",
+        "leadership",
+        "execution",
+        "mentorship"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--brand-strat-axios-28696060": {
+      "summary": "Manages brand strategy execution for revenue growth through high-quality proposals, narrative development, and deep local market understanding.",
+      "key_skills": [
+        "brand strategy",
+        "narrative development",
+        "data storytelling",
+        "market intelligence",
+        "proposal execution",
+        "rfp responses",
+        "client partnerships",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "brand strategy",
+        "data storytelling",
+        "proposal execution",
+        "client partnerships"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "managing-director-of-axios-28696060": {
+      "summary": "Leads high-velocity sales teams to drive regional revenue growth through audience-based solutions and multi-product adoption in digital media.",
+      "key_skills": [
+        "digital media",
+        "sales",
+        "consultative selling",
+        "crm",
+        "ai",
+        "forecasting",
+        "multi-market sales",
+        "revenue generation"
+      ],
+      "core_skills": [
+        "sales leadership",
+        "team building",
+        "client partnership",
+        "digital media expertise"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote-optional"
+    },
+    "producer--data-autom-axios-28696060": {
+      "summary": "Owns data automation across Axios Local, ensuring data accuracy, standardization, and AI integration while training reporters and generating data-driven stories.",
+      "key_skills": [
+        "data",
+        "automation",
+        "ai",
+        "workflow",
+        "templates",
+        "guardrails",
+        "accuracy",
+        "standardization"
+      ],
+      "core_skills": [
+        "data_automation",
+        "ai_integration",
+        "editorial_judgment",
+        "collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "producer--data-visua-axios-28696060": {
+      "summary": "Builds and maintains automated visualization systems for data accuracy and chart quality across Axios Local markets while training reporters on data tools.",
+      "key_skills": [
+        "data visualization",
+        "automation",
+        "sql",
+        "chart quality",
+        "template standardization",
+        "ai literacy",
+        "data accuracy",
+        "visualization best practices"
+      ],
+      "core_skills": [
+        "data visualization",
+        "sql",
+        "template standardization",
+        "ai literacy"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "reporter--axios-loca-axios-28696060": {
+      "summary": "A reporter covers Phoenix news and writes newsletters in Axios' Smart Brevity style, using AI tools to enhance reporting and create scoops for local readers.",
+      "key_skills": [
+        "reporting",
+        "news",
+        "phoenix",
+        "ai",
+        "scoop",
+        "conceptual",
+        "break"
+      ],
+      "core_skills": [
+        "phoenix",
+        "news",
+        "reporting",
+        "ai"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer-axios-28696060": {
+      "summary": "Software Engineer develops high-quality, reliable services in Golang and Python codebase to power Axios' products, ensuring performance and stability across publishing and delivery platforms.",
+      "key_skills": [
+        "golang",
+        "python",
+        "rest apis",
+        "database",
+        "testing",
+        "performance",
+        "observability",
+        "ai tools"
+      ],
+      "core_skills": [
+        "golang",
+        "python",
+        "rest apis",
+        "database"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "director-of-protecti-democracy-forwa-69996119": {
+      "summary": "Directs security strategy and risk management for staff, leadership, offices, and events while coordinating travel security and personnel safety.",
+      "key_skills": [
+        "security",
+        "risk_management",
+        "strategy",
+        "leadership",
+        "travel_security",
+        "vendor_management",
+        "incident_response",
+        "training"
+      ],
+      "core_skills": [
+        "security_strategy",
+        "risk_management",
+        "travel_security",
+        "vendor_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-executive----ramp-69996119": {
+      "summary": "Owns and manages strategic federal opportunities, navigates complex federal procurement lifecycles, and acts as a trusted advisor to senior government stakeholders to drive Ramp's federal growth.",
+      "key_skills": [
+        "federal account executive",
+        "sales",
+        "procurement",
+        "compliance",
+        "contracting",
+        "government"
+      ],
+      "core_skills": [
+        "federal procurement",
+        "complex sales cycles",
+        "government stakeholder engagement",
+        "federal compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "customer-activation--ramp-69996119": {
+      "summary": "Customer Success Manager partners with public sector organizations to deliver measurable value through Ramp's product adoption, ensuring compliance and security while maximizing utilization across complex stakeholder environments.",
+      "key_skills": [
+        "customer success",
+        "implementation",
+        "public sector",
+        "onboarding",
+        "adoption",
+        "compliance",
+        "security",
+        "stakeholder management"
+      ],
+      "core_skills": [
+        "public sector compliance",
+        "stakeholder management",
+        "project management",
+        "ai fluency"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "partner-consultant-ramp-69996119": {
+      "summary": "Partner Consultant who collaborates with channel partners to provide technical accounting expertise, build integrations, and advise on financial workflows for Ramp's customers",
+      "key_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales",
+        "solutions_engineering",
+        "technical_specification",
+        "finance_systems",
+        "erp_integration"
+      ],
+      "core_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "procurement-architec-ramp-69996119": {
+      "summary": "Solutions Architect, Procurement (Pre-Sales, Enterprise) leads technical discovery and solution design for procurement workflows, ensuring seamless handoff to onboarding for enterprise clients.",
+      "key_skills": [
+        "solutions architect",
+        "procurement",
+        "p2p",
+        "erp",
+        "api",
+        "sftp",
+        "data migration",
+        "integration"
+      ],
+      "core_skills": [
+        "technical implementation",
+        "solution design",
+        "procurement domain expertise",
+        "enterprise evaluations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "software-engineer----modern-treasury-69996119": {
+      "summary": "Designs, deploys, and operates high-scale payment infrastructure using AWS, container orchestration, and automation to support multi-rail money movement and real-time payment systems.",
+      "key_skills": [
+        "aws",
+        "infrastructure",
+        "containerization",
+        "ci_cd",
+        "infrastructure_as_code",
+        "distributed_systems",
+        "observability",
+        "performance_tuning"
+      ],
+      "core_skills": [
+        "aws",
+        "infrastructure",
+        "containerization",
+        "ci_cd"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "backend-senior-softw-vanta-69996119": {
+      "summary": "Senior Software Engineer leads and mentors engineers, delivering high-value products for customers and infrastructure to scale security monitoring capabilities.",
+      "key_skills": [
+        "backend",
+        "authentication",
+        "identity",
+        "saml",
+        "oidc",
+        "authorization",
+        "rbac",
+        "policy-based-access-control"
+      ],
+      "core_skills": [
+        "technical-leadership",
+        "distributed-systems",
+        "security",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "brand-designer-vanta-69996119": {
+      "summary": "Brand Designer creates high-quality brand assets across digital, web, campaigns, and print while translating creative briefs into visual solutions that align with brand standards.",
+      "key_skills": [
+        "brand design",
+        "typography",
+        "composition",
+        "visual systems",
+        "layout",
+        "figma",
+        "adobe creative suite",
+        "ai tools"
+      ],
+      "core_skills": [
+        "brand identity",
+        "visual storytelling",
+        "cross-functional collaboration",
+        "typographic excellence"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "cpq-lead--business-s-vanta-69996119": {
+      "summary": "The CPQ Lead owns the vision, strategy, and execution of Vanta's Configure, Price, Quote ecosystem to ensure quoting, pricing, and contracting workflows scale with the business while remaining accurate, efficient, and user-friendly.",
+      "key_skills": [
+        "cpq",
+        "salesforce",
+        "pricing",
+        "quote",
+        "approval",
+        "workflow",
+        "automation",
+        "governance"
+      ],
+      "core_skills": [
+        "salesforce",
+        "cpq",
+        "pricing",
+        "approval"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "customer-success-man-vanta-69996119": {
+      "summary": "Serves as a trusted advisor for 5-10 strategic enterprise customers with 10,000+ employees, driving complex implementations and high-impact business outcomes through executive stakeholder engagement and multi-quarter projects.",
+      "key_skills": [
+        "customer success",
+        "strategic accounts",
+        "enterprise security",
+        "compliance",
+        "governance",
+        "risk management",
+        "implementation",
+        "project management"
+      ],
+      "core_skills": [
+        "strategic account management",
+        "executive stakeholder engagement",
+        "multi-quarter project execution",
+        "value realization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "design-recruiter-vanta-69996119": {
+      "summary": "Owns full-cycle recruiting for Vanta’s Design organization, partnering with design leadership to shape hiring strategy, define assessments, and close top-tier design talent in competitive markets.",
+      "key_skills": [
+        "design",
+        "recruiting",
+        "talent",
+        "strategy",
+        "portfolio",
+        "assessments",
+        "candidate",
+        "experience"
+      ],
+      "core_skills": [
+        "design_recruiting",
+        "talent_pipeline",
+        "hiring_strategy",
+        "candidate_experience"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--account-ma-vanta-69996119": {
+      "summary": "Directs upmarket account management strategy and team to drive customer retention and expansion in commercial and enterprise segments through GRC program implementation.",
+      "key_skills": [
+        "security",
+        "governance",
+        "risk",
+        "compliance",
+        "customer",
+        "retention",
+        "expansion",
+        "sales"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic_planning",
+        "team_building",
+        "cross_functional_collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--deal-desk-vanta-69996119": {
+      "summary": "Directs global deal desk strategy and execution to drive sales velocity while ensuring commercial integrity across complex international deals.",
+      "key_skills": [
+        "security",
+        "sales",
+        "strategy",
+        "deal_desk",
+        "compliance",
+        "ai"
+      ],
+      "core_skills": [
+        "leadership",
+        "stakeholder_management",
+        "process_optimization",
+        "strategic_thinking"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--global-sys-vanta-69996119": {
+      "summary": "Builds and leads strategic partnerships with global systems integrators to drive revenue growth through integrated solutions and joint go-to-market initiatives.",
+      "key_skills": [
+        "strategic_alliances",
+        "global_partnerships",
+        "gsi_engagement",
+        "compliance",
+        "third_party_risk_management",
+        "ai_capabilities",
+        "enterprise_sales",
+        "partner_gtm"
+      ],
+      "core_skills": [
+        "strategic_partnership_management",
+        "cross_functional_collaboration",
+        "revenue_growth",
+        "executive_influence"
+      ],
+      "seniority_signal": "director",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "engineering-director-vanta-69996119": {
+      "summary": "Directs engineering teams to scale and evolve Vanta's integrations platform and forward deployed engineering, ensuring seamless security monitoring and customer satisfaction through distributed systems infrastructure.",
+      "key_skills": [
+        "automation",
+        "integrations",
+        "platform",
+        "distributed_systems",
+        "ai",
+        "security",
+        "engineering",
+        "leadership"
+      ],
+      "core_skills": [
+        "engineering_leadership",
+        "scaling_teams",
+        "strategic_initiatives",
+        "business_acumen"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "engineering-manager--vanta-69996119": {
+      "summary": "Manages a scaling engineering team to build and scale AI agent products while ensuring customer control and human-in-the-loop decision-making.",
+      "key_skills": [
+        "ai",
+        "prompt engineering",
+        "rag",
+        "agent frameworks",
+        "llm",
+        "quality hill-climbing",
+        "prompt engineering",
+        "agentic evidence collection"
+      ],
+      "core_skills": [
+        "ai",
+        "prompt engineering",
+        "rag",
+        "agent frameworks"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "field-chief-informat-vanta-69996119": {
+      "summary": "Field CISO acts as a strategic security advisor to customers and prospects, driving enterprise security engagement through customer-facing conversations, strategic insights, and cross-functional collaboration.",
+      "key_skills": [
+        "cybersecurity",
+        "compliance",
+        "cloud-security",
+        "risk-management",
+        "threat-intelligence",
+        "incident-response",
+        "security-architecture",
+        "identity-management"
+      ],
+      "core_skills": [
+        "strategic-advisory",
+        "customer-engagement",
+        "executive-briefing",
+        "cross-functional-collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "field-marketing-mana-vanta-69996119": {
+      "summary": "Owns regional field marketing strategy and execution to drive pipeline, accelerate deals, and partner with sales leadership through in-person and virtual programs.",
+      "key_skills": [
+        "field marketing",
+        "regional strategy",
+        "pipeline generation",
+        "sales partnership",
+        "event execution",
+        "program optimization",
+        "data-driven",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "regional marketing strategy",
+        "pipeline ownership",
+        "sales partnership",
+        "event execution"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "group-product-manage-vanta-69996119": {
+      "summary": "Owns product strategy and outcomes across product groups to drive customer retention, expansion, and competitive differentiation while leading and developing product teams.",
+      "key_skills": [
+        "product management",
+        "governance",
+        "compliance",
+        "ai",
+        "security",
+        "strategy",
+        "customer-centric",
+        "high-agency"
+      ],
+      "core_skills": [
+        "product strategy",
+        "team leadership",
+        "strategic thinking",
+        "execution"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "head-of-data---analy-vanta-69996119": {
+      "summary": "Head of Data & Analytics delivers business insights by leading analysts and data engineering teams to build and scale AI-powered data infrastructure for Vanta’s business.",
+      "key_skills": [
+        "data engineering",
+        "data analytics",
+        "ai",
+        "snowflake",
+        "dbt",
+        "data governance",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "core_skills": [
+        "data engineering",
+        "data analytics",
+        "ai",
+        "snowflake"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "lead-technical-recru-vanta-69996119": {
+      "summary": "Owns full-cycle engineering hiring globally, partners with senior engineering and executive leaders to shape hiring strategy and close top-tier technical talent in competitive markets.",
+      "key_skills": [
+        "technical recruiting",
+        "hiring strategy",
+        "talent brand",
+        "candidate assessment",
+        "data analysis",
+        "strategic influence",
+        "stakeholder partnership",
+        "full-cycle recruiting"
+      ],
+      "core_skills": [
+        "technical recruiting",
+        "hiring strategy",
+        "talent brand",
+        "candidate assessment"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "lifecycle-marketing--vanta-69996119": {
+      "summary": "Owns lifecycle strategy and execution across email, in-product, and other channels to drive onboarding, activation, retention, and expansion while mapping end-to-end customer journeys and designing data-driven programs.",
+      "key_skills": [
+        "lifecycle marketing",
+        "b2b marketing",
+        "product marketing",
+        "marketing automation",
+        "crm",
+        "data analysis",
+        "customer journey mapping",
+        "experimentation"
+      ],
+      "core_skills": [
+        "b2b lifecycle marketing",
+        "customer journey mapping",
+        "marketing automation",
+        "experimentation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "people-operations-sp-vanta-69996119": {
+      "summary": "People Operations Specialist ensures data integrity, streamlines workflows through automation, and partners cross-functionally to improve internal processes and employee experience.",
+      "key_skills": [
+        "systems_minded",
+        "data_integrity",
+        "automation",
+        "workflow_optimization",
+        "employee_lifecycle",
+        "us_immigration",
+        "compliance_audits",
+        "policy_documentation"
+      ],
+      "core_skills": [
+        "systems_minded",
+        "data_integrity",
+        "automation",
+        "workflow_optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "principal-software-e-vanta-69996119": {
+      "summary": "Principal Software Engineer at Vanta identifies and solves complex engineering problems, sets technical direction for the engineering team, and designs new product functionality using modern frameworks like TypeScript, React, Node.js, and Terraform.",
+      "key_skills": [
+        "typescript",
+        "react",
+        "nodejs",
+        "terraform",
+        "ai",
+        "governance",
+        "risk",
+        "compliance"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "cross-functional collaboration",
+        "architectural design",
+        "mentorship"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "product-grc-sme-vanta-69996119": {
+      "summary": "Builds and maintains multi-framework GRC solutions for customers while bridging Product, Engineering, and Customer Success to ensure compliance and security standards.",
+      "key_skills": [
+        "governance",
+        "compliance",
+        "risk_management",
+        "security",
+        "frameworks",
+        "data_analysis",
+        "product_management",
+        "customer_success"
+      ],
+      "core_skills": [
+        "frameworks",
+        "compliance",
+        "risk_management",
+        "security"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "salesforce-product-m-vanta-69996119": {
+      "summary": "Owns post-opportunity workflows in Salesforce to optimize quote-to-cash processes through cross-functional collaboration and data-driven improvements.",
+      "key_skills": [
+        "product management",
+        "salesforce",
+        "quote-to-cash",
+        "revenue operations",
+        "cpq",
+        "contract lifecycle management",
+        "entitlements",
+        "provisioning"
+      ],
+      "core_skills": [
+        "data fluency",
+        "cross-functional collaboration",
+        "strategic roadmap execution",
+        "vendor relationship management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "salesforce-quality-e-vanta-69996119": {
+      "summary": "Builds and owns the Business Systems Quality Assurance program for Vanta's internal GTM and Finance systems, ensuring revenue-critical workflows are protected through end-to-end quality gates, automation frameworks, and observability infrastructure.",
+      "key_skills": [
+        "salesforce",
+        "quality assurance",
+        "automation",
+        "testing",
+        "apex",
+        "ui regression",
+        "integration testing",
+        "observability"
+      ],
+      "core_skills": [
+        "salesforce",
+        "quality assurance",
+        "automation",
+        "testing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-accountant-vanta-69996119": {
+      "summary": "Senior Accountant focuses on payroll accounting, reconciliations, and flux analysis while partnering with HR and Payroll to ensure accurate financial reporting.",
+      "key_skills": [
+        "payroll accounting",
+        "reconciliations",
+        "flux analysis",
+        "benefits allocation",
+        "accruals",
+        "variance analysis",
+        "AI tools",
+        "process improvement"
+      ],
+      "core_skills": [
+        "analytical skills",
+        "attention to detail",
+        "research and resolution",
+        "cross-functional partnership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-account-execu-vanta-69996119": {
+      "summary": "Account Executive focuses on identifying high-potential business verticals, turning inbound demand into closed new business, managing sales pipeline, defining customer-specific benefits, and collecting insights for product development.",
+      "key_skills": [
+        "sales",
+        "customer",
+        "outbound",
+        "pipeline",
+        "compliance",
+        "security",
+        "smb",
+        "midmarket"
+      ],
+      "core_skills": [
+        "sales",
+        "customer",
+        "outbound",
+        "pipeline"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-analyst--gtm--vanta-69996119": {
+      "summary": "Senior Analyst, GTM Analytics at Vanta partners with Sales, Overlay teams, and RevOps to analyze GTM performance, build scalable reporting, and improve revenue outcomes through data-driven insights.",
+      "key_skills": [
+        "sql",
+        "data_analysis",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling",
+        "sales_engineering",
+        "revenue_operations",
+        "gtm_analytics"
+      ],
+      "core_skills": [
+        "sql",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-copywriter-vanta-69996119": {
+      "summary": "Senior Copywriter at Vanta writes across channels including campaigns, web, paid ads, email, and video to maintain and scale the brand voice while collaborating with cross-functional teams to ensure clear, compelling, and strategic messaging.",
+      "key_skills": [
+        "copywriting",
+        "storytelling",
+        "strategy",
+        "content creation",
+        "brand voice",
+        "writing",
+        "AI tools",
+        "creative direction"
+      ],
+      "core_skills": [
+        "copywriting",
+        "storytelling",
+        "strategy",
+        "content creation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    }
+  }
+}
