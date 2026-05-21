@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-21T00:00:57.272446+00:00",
-    "total_jobs": 285,
-    "enriched": 49
+    "built_at": "2026-05-21T09:50:48.112159+00:00",
+    "total_jobs": 292,
+    "enriched": 58
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1126,6 +1126,213 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-product-manag-vanta-69996119": {
+      "summary": "Owns the product vision, strategy, and roadmap for Vanta's Personnel product, focusing on AI-enabled compliance and people data management to automate employee lifecycle workflows and ensure regulatory adherence.",
+      "key_skills": [
+        "product_management",
+        "ai",
+        "compliance",
+        "hris",
+        "data_infrastructure",
+        "customer_discovery",
+        "agentic_ai",
+        "solutions_engineering"
+      ],
+      "core_skills": [
+        "product_strategy",
+        "technical_fluency",
+        "ai_product_experience",
+        "customer_centric_discovery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-design-vanta-69996119": {
+      "summary": "Staff Product Designer at Vanta leads strategic projects to define AI-centric workflow builder experiences, partners cross-functionally to align on vision, and mentors designers while enhancing design systems for enterprise compliance solutions.",
+      "key_skills": [
+        "product_design",
+        "ai_centric",
+        "workflow_builder",
+        "compliance",
+        "b2b_saaS",
+        "customer_discovery",
+        "design_system",
+        "mentorship"
+      ],
+      "core_skills": [
+        "strategic_project_leads",
+        "customer_insights",
+        "design_strategy",
+        "systemic_thinking"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "channel-manager---se-headway-69996119": {
+      "summary": "Owns end-to-end SEM program including campaign architecture, keyword strategy, bidding, and performance optimization across Google Ads and Microsoft Ads while scaling spend to $50M+ annually and optimizing for booked appointments through collaboration with Engineering and Data Science teams.",
+      "key_skills": [
+        "sem",
+        "google ads",
+        "microsoft ads",
+        "ai tools",
+        "at-scale",
+        "incrementality testing",
+        "geo-lift studies",
+        "full funnel optimization"
+      ],
+      "core_skills": [
+        "google ads",
+        "microsoft ads",
+        "sql",
+        "data analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--peop-headway-69996119": {
+      "summary": "Designs and optimizes People Systems and Operations technology to support Headway's employee lifecycle and internal processes, ensuring scalable and efficient HR operations through Workday administration and cross-functional collaboration.",
+      "key_skills": [
+        "workday",
+        "hcm",
+        "automation",
+        "people_operations",
+        "systems_administration",
+        "technical_support",
+        "change_management",
+        "workforce_management"
+      ],
+      "core_skills": [
+        "workday",
+        "hcm",
+        "automation",
+        "people_operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-backend-engin-socure-69996120": {
+      "summary": "Senior Software Engineer designs, develops, and deploys distributed systems to combat identity fraud while mentoring junior engineers and ensuring high-quality, scalable solutions.",
+      "key_skills": [
+        "golang",
+        "distributed systems",
+        "microservices",
+        "restful apis",
+        "cloud computing",
+        "noSQL databases",
+        "big data analytics",
+        "machine learning"
+      ],
+      "core_skills": [
+        "design",
+        "problem-solving",
+        "analytical reasoning",
+        "concurrency"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-data-scientis-socure-69996120": {
+      "summary": "Senior Data Scientist leads international eKYC modeling, entity resolution, and global identity graph development to deploy scalable identity verification solutions across diverse international markets.",
+      "key_skills": [
+        "big data",
+        "ml",
+        "graph-based",
+        "entity resolution",
+        "eKYC",
+        "international",
+        "data quality",
+        "model governance"
+      ],
+      "core_skills": [
+        "international eKYC modeling",
+        "global identity graph",
+        "data quality frameworks",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-product-manag-socure-69996120": {
+      "summary": "Owns critical components of Socure's Document Verification platform, focusing on forensic engine, decisioning logic, and computer vision models to detect fraud vectors like injection attacks, deepfakes, and document manipulation while collaborating with Data Science and Engineering.",
+      "key_skills": [
+        "product_management",
+        "fraud_detection",
+        "computer_vision",
+        "machine_learning",
+        "identity_verification",
+        "decisioning",
+        "data_analysis",
+        "sql"
+      ],
+      "core_skills": [
+        "fraud_detection",
+        "computer_vision",
+        "machine_learning",
+        "identity_verification"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "staff-backend-engine-socure-69996120": {
+      "summary": "Staff Backend Engineer provides technical leadership by designing and implementing complex core components and distributed systems to eliminate identity fraud, while mentoring junior engineers and ensuring high-quality, scalable, secure products.",
+      "key_skills": [
+        "backend",
+        "distributed_systems",
+        "scalable_systems",
+        "security",
+        "system_design",
+        "performance_optimization",
+        "reliability",
+        "architecture"
+      ],
+      "core_skills": [
+        "system_design",
+        "distributed_systems",
+        "scalable_systems",
+        "security"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "ai-engineer-socure-86617442": {
+      "summary": "Designs and ships agentic systems to automate high-impact workflows across internal teams, enabling faster and more precise AI-driven identity solutions.",
+      "key_skills": [
+        "python",
+        "ai",
+        "llm",
+        "agentic",
+        "workflow",
+        "automation",
+        "systems",
+        "engineering"
+      ],
+      "core_skills": [
+        "python",
+        "ai",
+        "llm",
+        "agentic"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     }
   }
 }
