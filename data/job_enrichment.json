@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-21T09:50:48.112159+00:00",
-    "total_jobs": 292,
-    "enriched": 58
+    "built_at": "2026-05-22T09:48:57.375057+00:00",
+    "total_jobs": 298,
+    "enriched": 64
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1127,6 +1127,27 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-marketing-ana-vanta-69996119": {
+      "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
+      "key_skills": [
+        "sql",
+        "salesforce",
+        "marketing_automation",
+        "tableau",
+        "dbt",
+        "python",
+        "r"
+      ],
+      "core_skills": [
+        "analytical_mindset",
+        "action_oriented",
+        "communication_skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-product-manag-vanta-69996119": {
       "summary": "Owns the product vision, strategy, and roadmap for Vanta's Personnel product, focusing on AI-enabled compliance and people data management to automate employee lifecycle workflows and ensure regulatory adherence.",
       "key_skills": [
@@ -1196,6 +1217,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "executive-recruiting-headway-69996119": {
+      "summary": "Owns end-to-end candidate experience for senior and executive level searches, managing complex scheduling across multiple stakeholders and ensuring a seamless interview process.",
+      "key_skills": [
+        "executive_recruiting",
+        "candidate_experience",
+        "scheduling",
+        "multi_timezone_coordination",
+        "executive_search",
+        "candidate_logistics",
+        "interview_coordination",
+        "pipeline_management"
+      ],
+      "core_skills": [
+        "scheduling",
+        "candidate_experience",
+        "multi_timezone_coordination",
+        "executive_search"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-manager--peop-headway-69996119": {
       "summary": "Designs and optimizes People Systems and Operations technology to support Headway's employee lifecycle and internal processes, ensuring scalable and efficient HR operations through Workday administration and cross-functional collaboration.",
       "key_skills": [
@@ -1242,6 +1286,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "senior-data-engineer-socure-69996120": {
+      "summary": "Designs and builds scalable data platforms and pipelines to power identity verification products and analytics, while owning end-to-end delivery of complex data initiatives.",
+      "key_skills": [
+        "data engineering",
+        "data pipelines",
+        "cloud computing",
+        "sql",
+        "python",
+        "apache spark",
+        "data warehousing",
+        "data modeling"
+      ],
+      "core_skills": [
+        "data platform design",
+        "end-to-end delivery",
+        "cloud-native technologies",
+        "data operations automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "senior-data-scientis-socure-69996120": {
       "summary": "Senior Data Scientist leads international eKYC modeling, entity resolution, and global identity graph development to deploy scalable identity verification solutions across diverse international markets.",
       "key_skills": [
@@ -1265,6 +1332,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "senior-pre-sales-sol-socure-69996120": {
+      "summary": "Serves as a trusted technical and strategic advisor to financial institutions, fintechs, and gaming platforms to help them fight fraud and unlock access using Socure's identity verification and fraud prevention solutions.",
+      "key_skills": [
+        "identity",
+        "fraud",
+        "verification",
+        "compliance",
+        "api",
+        "cloud",
+        "data",
+        "machine_learning"
+      ],
+      "core_skills": [
+        "technical_strategy",
+        "solutioning",
+        "workshops",
+        "data_driven"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "senior-product-manag-socure-69996120": {
       "summary": "Owns critical components of Socure's Document Verification platform, focusing on forensic engine, decisioning logic, and computer vision models to detect fraud vectors like injection attacks, deepfakes, and document manipulation while collaborating with Data Science and Engineering.",
       "key_skills": [
@@ -1282,6 +1372,29 @@
         "computer_vision",
         "machine_learning",
         "identity_verification"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-software-engi-socure-69996120": {
+      "summary": "Builds and maintains scalable backend services for identity verification, integrates machine learning models for fraud detection, and ensures high performance and security for millions of users.",
+      "key_skills": [
+        "go",
+        "java",
+        "scalable",
+        "microservices",
+        "api",
+        "security",
+        "performance",
+        "cloud"
+      ],
+      "core_skills": [
+        "backend",
+        "microservices",
+        "api",
+        "security"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -1331,6 +1444,29 @@
       ],
       "seniority_signal": "staff",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "quality-assurance-le-headway-43287231": {
+      "summary": "Owns end-to-end QA program areas like calibration, AI analytics, and partner quality oversight to drive continuous improvements in customer experience through data-driven insights and automation.",
+      "key_skills": [
+        "quality assurance",
+        "ai-powered analytics",
+        "conversation intelligence",
+        "cx operations",
+        "data analysis",
+        "process optimization",
+        "ai tools",
+        "automation"
+      ],
+      "core_skills": [
+        "ai tools",
+        "data analysis",
+        "process optimization",
+        "cx operations"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "lead",
       "red_flags": [],
       "work_mode_derived": "unknown"
     }
