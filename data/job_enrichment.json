@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-22T09:48:57.375057+00:00",
-    "total_jobs": 298,
-    "enriched": 64
+    "built_at": "2026-05-23T09:48:39.692470+00:00",
+    "total_jobs": 307,
+    "enriched": 68
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1194,6 +1194,28 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "detection-and-respon-benchling-69996119": {
+      "summary": "Detects and responds to security threats using AI and automation, building scalable incident response processes and threat detection mechanisms for biotech R&D platforms.",
+      "key_skills": [
+        "ai",
+        "security",
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation",
+        "cloud"
+      ],
+      "core_skills": [
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "channel-manager---se-headway-69996119": {
       "summary": "Owns end-to-end SEM program including campaign architecture, keyword strategy, bidding, and performance optimization across Google Ads and Microsoft Ads while scaling spend to $50M+ annually and optimizing for booked appointments through collaboration with Engineering and Data Science teams.",
       "key_skills": [
@@ -1239,6 +1261,29 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "recruiting-coordinat-headway-69996119": {
+      "summary": "Schedules and coordinates end-to-end interviews for candidates, ensuring smooth logistics and positive candidate experiences across high-volume hiring operations.",
+      "key_skills": [
+        "scheduling",
+        "coordination",
+        "recruiting",
+        "talent",
+        "operations",
+        "candidate_experience",
+        "logistics",
+        "data_hygiene"
+      ],
+      "core_skills": [
+        "scheduling",
+        "coordination",
+        "candidate_experience",
+        "data_hygiene"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "senior-manager--peop-headway-69996119": {
       "summary": "Designs and optimizes People Systems and Operations technology to support Headway's employee lifecycle and internal processes, ensuring scalable and efficient HR operations through Workday administration and cross-functional collaboration.",
@@ -1469,6 +1514,52 @@
       "role_type": "lead",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "senior-counsel-democracy-forwa-29680423": {
+      "summary": "Attorneys handle litigation, regulatory advocacy, and coalition partnerships to promote pro-democracy policies through legal work and regulatory engagement.",
+      "key_skills": [
+        "litigation",
+        "regulatory",
+        "client_development",
+        "coalition_management",
+        "legal_research",
+        "drafting",
+        "advocacy",
+        "policy"
+      ],
+      "core_skills": [
+        "litigation",
+        "regulatory",
+        "client_development",
+        "coalition_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "associate-principal--headway-29680423": {
+      "summary": "Supports growing care partners by managing executive steering committees, building relationships with health systems and medical clinics, leveraging data for insights, and collaborating with cross-functional teams to ensure partner satisfaction and growth.",
+      "key_skills": [
+        "healthcare",
+        "partner_management",
+        "customer_success",
+        "strategic_partnerships",
+        "data_analysis",
+        "relationship_building",
+        "operational_excellence",
+        "ambiguity_management"
+      ],
+      "core_skills": [
+        "healthcare",
+        "partner_management",
+        "customer_success",
+        "strategic_partnerships"
+      ],
+      "seniority_signal": "associate_principal",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
