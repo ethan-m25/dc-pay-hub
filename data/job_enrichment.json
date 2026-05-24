@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-23T09:48:39.692470+00:00",
+    "built_at": "2026-05-24T09:48:26.331213+00:00",
     "total_jobs": 307,
-    "enriched": 68
+    "enriched": 71
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1127,6 +1127,28 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-manager--reve-vanta-69996119": {
+      "summary": "Senior Manager leads 7 GTM recruiters to drive hiring across Pre and Post sales teams in North America while partnering with leadership to prioritize talent acquisition and meet quarterly goals.",
+      "key_skills": [
+        "recruiting",
+        "talent",
+        "hiring",
+        "gathering",
+        "data",
+        "metrics",
+        "stakeholder"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic_planning",
+        "problem_solving",
+        "metrics_driven"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-marketing-ana-vanta-69996119": {
       "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
       "key_skills": [
@@ -1167,6 +1189,25 @@
         "customer_centric_discovery"
       ],
       "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "solutions-engineer---vanta-69996119": {
+      "summary": "Solutions Engineer leads technical discussions with customers to ensure seamless adoption of Vanta's security solutions, develops deep product understanding, and drives technical evaluations for pre-sales engagements.",
+      "key_skills": [
+        "solutions engineering",
+        "cloud platforms",
+        "scripting languages",
+        "project management",
+        "cybersecurity"
+      ],
+      "core_skills": [
+        "technical discussion",
+        "customer relationship",
+        "product capabilities"
+      ],
+      "seniority_signal": "mid",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -1261,6 +1302,29 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "prescriber-clinical--headway-69996119": {
+      "summary": "Clinical Quality Manager supports clinical quality monitoring initiatives and Ongoing Professional Practice Evaluation for providers, conducting chart reviews, providing feedback, creating remediation plans, and collaborating with cross-functional teams to optimize workflows.",
+      "key_skills": [
+        "clinical quality monitoring",
+        "chart review",
+        "evidence-based practices",
+        "documentation standards",
+        "quality improvement",
+        "clinical oversight",
+        "remediation planning",
+        "provider network management"
+      ],
+      "core_skills": [
+        "clinical documentation",
+        "quality assurance",
+        "healthcare compliance",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "recruiting-coordinat-headway-69996119": {
       "summary": "Schedules and coordinates end-to-end interviews for candidates, ensuring smooth logistics and positive candidate experiences across high-volume hiring operations.",
