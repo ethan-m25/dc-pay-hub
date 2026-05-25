@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-24T09:48:26.331213+00:00",
+    "built_at": "2026-05-25T09:45:18.683066+00:00",
     "total_jobs": 307,
-    "enriched": 71
+    "enriched": 72
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1148,6 +1148,30 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-manager--secu-vanta-69996119": {
+      "summary": "Senior Manager of Security leads security engineering team to implement robust security protocols, assess risks, and ensure secure product development through AI-driven security practices.",
+      "key_skills": [
+        "security engineering",
+        "application security",
+        "ai security",
+        "sast",
+        "dast",
+        "owasp top 10",
+        "nist 800-53",
+        "gdpr",
+        "iso 27001"
+      ],
+      "core_skills": [
+        "leadership",
+        "risk assessment",
+        "compliance",
+        "security operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "senior-marketing-ana-vanta-69996119": {
       "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
