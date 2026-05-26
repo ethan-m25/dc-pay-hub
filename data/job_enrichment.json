@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-25T09:45:18.683066+00:00",
+    "built_at": "2026-05-26T09:45:11.652166+00:00",
     "total_jobs": 307,
-    "enriched": 72
+    "enriched": 73
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1172,6 +1172,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "senior-manager--stra-vanta-69996119": {
+      "summary": "Owns marketing strategy and growth for AWS and strategic VAR partners, building executive relationships and driving revenue through joint business plans and campaigns.",
+      "key_skills": [
+        "aws",
+        "partner_marketing",
+        "strategic_partnerships",
+        "revenue_growth",
+        "joint_go_to_market",
+        "pipeline_acceleration",
+        "account_based_marketing",
+        "executive_relationships"
+      ],
+      "core_skills": [
+        "strategic_planning",
+        "cross_functional_stakeholder_management",
+        "revenue_optimization",
+        "executive_influence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "senior-marketing-ana-vanta-69996119": {
       "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
