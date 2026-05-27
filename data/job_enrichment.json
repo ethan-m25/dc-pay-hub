@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-26T09:45:11.652166+00:00",
-    "total_jobs": 307,
-    "enriched": 73
+    "built_at": "2026-05-27T09:45:18.803356+00:00",
+    "total_jobs": 321,
+    "enriched": 74
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1671,6 +1671,29 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "power-platform-manag-erg-50482744": {
+      "summary": "Designs and configures scalable Power Platform solutions while managing SharePoint site structures to improve business processes through automation and data modernization.",
+      "key_skills": [
+        "power platform",
+        "sharepoint",
+        "power apps",
+        "power bi",
+        "power automate",
+        "dataverse",
+        "microsoft 365",
+        "sql"
+      ],
+      "core_skills": [
+        "problem solving",
+        "communication",
+        "collaboration",
+        "security clearance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
