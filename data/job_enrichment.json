@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-27T09:45:18.803356+00:00",
-    "total_jobs": 321,
-    "enriched": 74
+    "built_at": "2026-05-28T10:42:37.499156+00:00",
+    "total_jobs": 592,
+    "enriched": 85
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -1694,6 +1694,240 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "product-security-eng-lattice-64602312": {
+      "summary": "Lattice is hiring for a role that requires quick registration to secure seats for Lattiverse 2026",
+      "key_skills": [
+        "lattice",
+        "lattice"
+      ],
+      "core_skills": [
+        "lattice"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "analyst-ii--full-sta-affirm-64602312": {
+      "summary": "The role involves analyzing and developing fraud strategies using data analytics, collaborating with cross-functional teams to optimize fraud decisioning and improve conversion rates.",
+      "key_skills": [
+        "data analytics",
+        "fraud strategy",
+        "machine learning",
+        "sql",
+        "python",
+        "risk management",
+        "payment processing"
+      ],
+      "core_skills": [
+        "data analytics",
+        "fraud strategy",
+        "machine learning"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "compliance-lead--fai-affirm-64602312": {
+      "summary": "The Compliance Lead supports second-line oversight of Fair Lending risk across the credit lifecycle, partners cross-functionally with product, credit, machine learning, engineering, and legal teams to embed fair lending considerations into product design and model development, and owns key components of Affirm’s Fair Lending Program including governance, risk assessments, monitoring, and testing frameworks.",
+      "key_skills": [
+        "compliance",
+        "fair lending",
+        "regulatory",
+        "risk assessment",
+        "fair lending program",
+        "ecoa",
+        "reg b",
+        "udaap"
+      ],
+      "core_skills": [
+        "compliance",
+        "fair lending",
+        "regulatory",
+        "risk assessment"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-director--tec-affirm-64602312": {
+      "summary": "Senior Director leads technical program management to enhance financial products through strategic planning, cross-functional alignment, and operational maturity.",
+      "key_skills": [
+        "technical program management",
+        "planning",
+        "cross-functional collaboration",
+        "strategic alignment",
+        "okr development",
+        "process improvement",
+        "change management",
+        "operational maturity"
+      ],
+      "core_skills": [
+        "technical program management",
+        "planning",
+        "cross-functional collaboration",
+        "strategic alignment"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--affi-affirm-64602312": {
+      "summary": "The BSA Officer develops, implements, and administers the Bank’s BSA/AML/CFT and OFAC Compliance Program to ensure adherence to financial crime regulations and regulatory requirements.",
+      "key_skills": [
+        "bsa",
+        "aml",
+        "cft",
+        "ofac",
+        "compliance",
+        "regulatory"
+      ],
+      "core_skills": [
+        "regulatory",
+        "compliance",
+        "risk_management",
+        "training"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-product-secur-affirm-64602312": {
+      "summary": "Senior Product Security Engineer works with product and engineering teams to ensure security is integrated into every phase of product development, conducting threat modeling, code reviews, and vulnerability assessments to protect Affirm's financial products.",
+      "key_skills": [
+        "python",
+        "kotlin",
+        "java",
+        "aws",
+        "azure",
+        "saml",
+        "oauth2",
+        "threat modeling"
+      ],
+      "core_skills": [
+        "threat modeling",
+        "security vulnerabilities",
+        "pci compliance",
+        "continuous integration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer-ii-affirm-64602312": {
+      "summary": "Engineer who designs, develops, and launches backend systems to support ML feature platforms and data infrastructure for decisioning teams.",
+      "key_skills": [
+        "python",
+        "kotlin",
+        "aws",
+        "mysql",
+        "kubernetes"
+      ],
+      "core_skills": [
+        "distributed systems",
+        "backend systems"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-analytics-engi-affirm-64602312": {
+      "summary": "Builds and owns the Financial Subledger Data Platform using dbt and Snowflake to transform operational events into trusted accounting outputs while ensuring data quality and reconciliation.",
+      "key_skills": [
+        "dbt",
+        "snowflake",
+        "sql",
+        "data modeling",
+        "data quality",
+        "reconciliation",
+        "ai-assisted reconciliation",
+        "data engineering"
+      ],
+      "core_skills": [
+        "dbt",
+        "snowflake",
+        "sql",
+        "data modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-design-affirm-64602312": {
+      "summary": "Owns and drives design initiatives for Affirm’s App and Card experience, delivering customer-centric solutions that align with business objectives while collaborating cross-functionally to innovate and deliver seamless user experiences.",
+      "key_skills": [
+        "product design",
+        "user experience",
+        "interaction design",
+        "design systems",
+        "data-driven",
+        "agile",
+        "cross-functional collaboration",
+        "test-and-learn"
+      ],
+      "core_skills": [
+        "product sense",
+        "data-informed",
+        "risk-taking",
+        "collaborative mindset"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-engineering-m-asana-64602313": {
+      "summary": "Senior Engineering Manager, Security leads and mentors a multi-disciplinary engineering team to ensure infrastructure resilience and security compliance while collaborating with cross-functional teams.",
+      "key_skills": [
+        "security",
+        "engineering",
+        "management",
+        "leadership",
+        "cloud",
+        "architecture",
+        "threat",
+        "risk"
+      ],
+      "core_skills": [
+        "security",
+        "engineering",
+        "management",
+        "leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "cx-automation-perfor-betterment-64602313": {
+      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
+      "key_skills": [
+        "python",
+        "data_analysis",
+        "machine_learning",
+        "statistics",
+        "sql",
+        "cloud_computing",
+        "big_data",
+        "data_science"
+      ],
+      "core_skills": [
+        "python",
+        "data_analysis",
+        "machine_learning"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
