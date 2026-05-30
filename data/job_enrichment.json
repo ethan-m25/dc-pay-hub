@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-29T12:20:16.383392+00:00",
-    "total_jobs": 694,
-    "enriched": 296
+    "built_at": "2026-05-30T14:50:29.938576+00:00",
+    "total_jobs": 705,
+    "enriched": 486
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -989,6 +989,19 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "revenue-enablement-c-vanta-69996119": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "salesforce-product-m-vanta-69996119": {
       "summary": "Owns post-opportunity workflows in Salesforce to optimize quote-to-cash processes through cross-functional collaboration and data-driven improvements.",
       "key_skills": [
@@ -1341,6 +1354,19 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-procurement-a-vanta-69996119": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "senior-product-desig-vanta-69996119": {
       "summary": "Senior Product Designer at Vanta drives user-centric projects in a rapidly scaling company trusted by hundreds of organizations to protect their most critical data, working closely with Engineering and Product Managers to create intuitive interfaces for complex workflows.",
       "key_skills": [
@@ -1408,6 +1434,19 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-salesforce-ad-vanta-69996119": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "senior-software-engi-vanta-69996119": {
       "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
@@ -1808,6 +1847,19 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "clinical-quality-lea-headway-69996119": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "cx-programs-sr--asso-headway-69996119": {
       "summary": "Senior Associate on CX Programs team improves customer experience by analyzing feedback, designing processes, and leveraging AI tools to enhance support efficiency and satisfaction metrics.",
       "key_skills": [
@@ -1939,6 +1991,19 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "manager--operations-headway-69996119": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "medical-clinical-dir-headway-69996119": {
       "summary": "Medical/Clinical Director leads payer partnerships strategy and operations.",
       "key_skills": [
@@ -1979,6 +2044,19 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "principal--prescribe-headway-69996119": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "recruiting-coordinat-headway-69996119": {
       "summary": "Schedules and coordinates end-to-end interviews for candidates, ensuring smooth logistics and positive candidate experiences across high-volume hiring operations.",
@@ -2133,6 +2211,19 @@
       ],
       "seniority_signal": "executive",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "analyst-relations-le-socure-69996119": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
@@ -2848,6 +2939,1489 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "manager--risk-data-p-capital-one-01825123": {
+      "summary": "Collaborates with internal and external partners to research, ideate, and deliver reusable data products while driving day-to-day prioritization of work and troubleshooting issues.",
+      "key_skills": [
+        "data",
+        "product",
+        "management",
+        "risk",
+        "cloud",
+        "governance",
+        "analytics",
+        "ai"
+      ],
+      "core_skills": [
+        "data",
+        "product",
+        "management",
+        "risk"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "lead-software-engine-capital-one-01825123": {
+      "summary": "Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions that help meet regulatory needs for the company",
+      "key_skills": [
+        "go",
+        "aws"
+      ],
+      "core_skills": [
+        "cloud",
+        "microservices"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "business-manager---d-capital-one-01825123": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-associate--da-capital-one-01825123": {
+      "summary": "Partners with cross-functional teams to deliver data-driven products using Python, machine learning, and big data technologies to analyze customer data and build predictive models.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "python",
+        "aws",
+        "spark",
+        "sql",
+        "xgboost",
+        "scikit-learn"
+      ],
+      "core_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-associate--ca-capital-one-01825123": {
+      "summary": "Develops and implements interest rate risk mitigation strategies, conducts daily and monthly risk monitoring, performs scenario analyses, and prepares risk reports for senior leadership.",
+      "key_skills": [
+        "capital markets",
+        "risk management",
+        "interest rate risk",
+        "fx markets",
+        "derivatives",
+        "fixed income",
+        "algorithms",
+        "qrm"
+      ],
+      "core_skills": [
+        "risk management",
+        "interest rate risk",
+        "fx markets",
+        "derivatives"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-administrativ-capital-one-01825123": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "kippsdesanto---inves-capital-one-01825123": {
+      "summary": "Investment banking associate performs critical functions throughout the transaction process including preparing financial models, conducting due diligence, and managing client relationships in M&A transactions.",
+      "key_skills": [
+        "investment banking",
+        "financial modeling",
+        "mergers and acquisitions",
+        "due diligence",
+        "financial analysis",
+        "client management",
+        "market research"
+      ],
+      "core_skills": [
+        "financial modeling",
+        "mergers and acquisitions",
+        "due diligence",
+        "client management"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "director--product-ma-capital-one-01825123": {
+      "summary": "Directs product strategy for transaction and financial ledger domain, leading teams to modernize banking platforms and ensure seamless transaction authorization and ledger integration.",
+      "key_skills": [
+        "product management",
+        "financial ledger",
+        "transaction processing",
+        "banking platform",
+        "real-time payments",
+        "ach",
+        "wires",
+        "rtp",
+        "fednow"
+      ],
+      "core_skills": [
+        "product management",
+        "financial core",
+        "banking platform modernization",
+        "us payments landscape"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "commercial-cybersecu-booz-allen-hami-07554937": {
+      "summary": "Sells, designs, and supports enterprise security solutions for Fortune 200 clients in financial services or oil and gas, driving sales from lead generation to deal closure while managing client relationships.",
+      "key_skills": [
+        "cybersecurity",
+        "business development",
+        "sales",
+        "account management",
+        "financial services",
+        "oil and gas",
+        "cloud security",
+        "ai solutions"
+      ],
+      "core_skills": [
+        "sales process",
+        "client relationship management",
+        "technical sales expertise",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "linux-systems-admini-booz-allen-hami-07554937": {
+      "summary": "Linux Systems Administrator provides daily technical support for cross-domain solutions in a federal government environment, managing infrastructure, monitoring networks, and improving system performance.",
+      "key_skills": [
+        "linux",
+        "systems",
+        "administration",
+        "redhat",
+        "centos",
+        "vmware",
+        "firewall",
+        "networking",
+        "dns",
+        "python",
+        "aws",
+        "infrastructure",
+        "as-code"
+      ],
+      "core_skills": [
+        "linux",
+        "systems",
+        "administration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "acquisition-analyst-booz-allen-hami-07554937": {
+      "summary": "Acquisition Analyst analyzes, assesses, plans, and supports enterprise communication infrastructure and network services acquisitions for national security missions, acting as a trusted advisor to clients on contracting principles and acquisition planning.",
+      "key_skills": [
+        "acquisition",
+        "analysis",
+        "defense",
+        "mission",
+        "national",
+        "security",
+        "contracting",
+        "policy"
+      ],
+      "core_skills": [
+        "acquisition",
+        "analysis",
+        "defense",
+        "mission"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "contractor-program-s-booz-allen-hami-07554937": {
+      "summary": "Coordinates with government Program Security Officers to ensure DoD-accredited facilities and networks, manages security incidents, and conducts training and self-inspections for program access.",
+      "key_skills": [
+        "doa",
+        "security",
+        "clearance",
+        "accreditation",
+        "networks",
+        "training",
+        "incident",
+        "management"
+      ],
+      "core_skills": [
+        "dodm",
+        "opsec",
+        "diiss",
+        "rmf"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "real-world-data-prog-booz-allen-hami-07554937": {
+      "summary": "Implements and maintains organizational programs to support client mission objectives, including managing data linkages for federal and non-federal datasets, securing federated cloud environments, and leading Privacy-Preserving Record Linkage initiatives.",
+      "key_skills": [
+        "program management",
+        "federated cloud",
+        "data linkages",
+        "privacy-preserving record linkage",
+        "federal datasets",
+        "risk management",
+        "data security",
+        "stakeholder management"
+      ],
+      "core_skills": [
+        "federal procedures",
+        "data governance",
+        "technical assistance",
+        "program operations"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ship-modernization-s-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "modeling-and-simulat-booz-allen-hami-07554937": {
+      "summary": "Designs and implements advanced models to evaluate system performance and support strategic decision-making for national defense applications.",
+      "key_skills": [
+        "modeling",
+        "simulation",
+        "quantitative_analysis",
+        "agent_based_modeling",
+        "physics_based_modeling",
+        "optimization",
+        "ai_ml_algorithms",
+        "reinforcement_learning"
+      ],
+      "core_skills": [
+        "python",
+        "java",
+        "c++",
+        "c#"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "talent-acquisition-s-booz-allen-hami-07554937": {
+      "summary": "Designs and implements innovative recruitment strategies to attract top talent in government spaces while improving hiring processes through data-driven solutions and change management.",
+      "key_skills": [
+        "talent acquisition",
+        "recruitment strategies",
+        "data analysis",
+        "government recruiting",
+        "onboarding",
+        "change management",
+        "candidate experience",
+        "recruiting process improvement"
+      ],
+      "core_skills": [
+        "data analysis",
+        "government recruiting",
+        "recruitment strategies",
+        "change management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "information-systems--booz-allen-hami-07554937": {
+      "summary": "Works with system owners to discover cyber risks, understand policies, and develop mitigation plans by assessing threats and translating security concepts for clients.",
+      "key_skills": [
+        "cybersecurity",
+        "information assurance",
+        "risk management",
+        "nist standards",
+        "threat assessment",
+        "mitigation planning",
+        "system security",
+        "authorization processes"
+      ],
+      "core_skills": [
+        "threat assessment",
+        "risk mitigation",
+        "nist 800-37",
+        "nist 800-53"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "all-source-cyber-int-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "aws-network-architec-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "product-support-anal-booz-allen-hami-07554937": {
+      "summary": "Product Support Analyst provides strategic technical and data-driven solutions to Navy clients to enhance product flow and improve fleet use while delivering end-to-end integrated warfighting capabilities.",
+      "key_skills": [
+        "acquisition",
+        "sustainment logistics",
+        "product support",
+        "program management",
+        "logistics",
+        "ram",
+        "hsi",
+        "human systems integration"
+      ],
+      "core_skills": [
+        "acquisition",
+        "logistics",
+        "program management",
+        "product support"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "all-source-analyst-booz-allen-hami-07554937": {
+      "summary": "All-Source Analyst reviews classified and unclassified intelligence data daily to build actionable assessments for government and military clients, develops tailored products for policy makers, and coordinates with intelligence community members.",
+      "key_skills": [
+        "intelligence analysis",
+        "data analysis",
+        "intelligence tradecraft",
+        "classified data",
+        "unclassified data",
+        "analytic tools",
+        "strategic analysis",
+        "problem-solving"
+      ],
+      "core_skills": [
+        "analytical skills",
+        "problem-solving mindset",
+        "intelligence tradecraft standards",
+        "IC coordination"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "data-engineer--lead-booz-allen-hami-07554937": {
+      "summary": "Data engineer lead oversees development and deployment of data pipelines, mentors cross-functional teams, and ensures scalable data solutions for mission-driven projects.",
+      "key_skills": [
+        "data engineering",
+        "python",
+        "sql",
+        "scala",
+        "java",
+        "aws",
+        "azure",
+        "google cloud"
+      ],
+      "core_skills": [
+        "data pipelines",
+        "etl",
+        "real-time data processing"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "data-scientist--lead-booz-allen-hami-07554937": {
+      "summary": "Data scientist leads team in developing algorithms and systems to solve complex problems using data, while mentoring team and guiding data-driven decision-making for clients.",
+      "key_skills": [
+        "iot",
+        "machine_learning",
+        "artificial_intelligence",
+        "data_analysis",
+        "data_visualization",
+        "data_cleaning",
+        "data_mining",
+        "statistical_analysis"
+      ],
+      "core_skills": [
+        "data_science",
+        "machine_learning",
+        "ai",
+        "leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "lead",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "military-deception-p-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "ai-ml-engineer-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "naval-it-project-man-booz-allen-hami-07554937": {
+      "summary": "Naval IT Project Manager works with clients and stakeholders to deliver IT solutions using Agile methodologies, ensuring project alignment with mission objectives and quality standards.",
+      "key_skills": [
+        "project management",
+        "agile methodologies",
+        "it project delivery",
+        "stakeholder management",
+        "client engagement",
+        "azure devops",
+        "service now",
+        "jira"
+      ],
+      "core_skills": [
+        "agile frameworks",
+        "it requirements analysis",
+        "project planning",
+        "stakeholder coordination"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "data-engineer-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-product-suppo-booz-allen-hami-07554937": {
+      "summary": "Provides logistics support for Navy acquisition programs, develops logistics documentation, and coordinates with cross-functional teams to ensure program execution and sustainment.",
+      "key_skills": [
+        "product support",
+        "logistics",
+        "acquisition",
+        "sustainment",
+        "data-driven",
+        "national defense",
+        "unmanned technologies",
+        "rapid prototyping"
+      ],
+      "core_skills": [
+        "logistics support",
+        "program documentation",
+        "stakeholder engagement",
+        "data analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "naval-program-analys-booz-allen-hami-07554937": {
+      "summary": "Program analyst supporting Navy programs from concept to completion with focus on program management, financial oversight, and DoD PPBE process execution.",
+      "key_skills": [
+        "program management",
+        "financial management",
+        "dod ppbe",
+        "microsoft office",
+        "consulting",
+        "technical advisement",
+        "research",
+        "communication"
+      ],
+      "core_skills": [
+        "program management",
+        "financial management",
+        "dod ppbe",
+        "microsoft office"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "special-security-off-booz-allen-hami-07554937": {
+      "summary": "Processes and maintains company and government inspectable records for employees to obtain security clearances while mentoring team members",
+      "key_skills": [
+        "special security",
+        "national security adjudicator",
+        "background investigator",
+        "security manager",
+        "document control",
+        "physical security",
+        "security education"
+      ],
+      "core_skills": [
+        "ts/sci clearance",
+        "nispom knowledge",
+        "scif procedures"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "analytic-methodologi-booz-allen-hami-07554937": {
+      "summary": "Analytic Methodologist leads complex data exploration and analytics projects using analytic methodologies, knowledge graphs, and ontologies for Department of Defense clients.",
+      "key_skills": [
+        "data exploration",
+        "analytics",
+        "machine learning",
+        "artificial intelligence",
+        "iot",
+        "semantic web",
+        "knowledge modeling",
+        "ontology development"
+      ],
+      "core_skills": [
+        "semantic web standards",
+        "data modeling",
+        "ontology development",
+        "department of defense analytics"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "systems-administrato-booz-allen-hami-07554937": {
+      "summary": "System administrator responsible for implementing and maintaining security solutions using Zero Trust Architectures and virtualization technologies to protect national infrastructure.",
+      "key_skills": [
+        "zero trust",
+        "virtualization",
+        "hypervisor",
+        "cloud infrastructure",
+        "network security",
+        "cybersecurity",
+        "vulnerability assessment",
+        "risk management"
+      ],
+      "core_skills": [
+        "zero trust architecture",
+        "virtualization",
+        "hypervisor tools",
+        "cloud security"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "devops-engineer-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "cloud-application-ar-booz-allen-hami-07554937": {
+      "summary": "Cloud Application Architect leads teams in designing and deploying hybrid cloud architectures for mission-critical capabilities within cleared environments, working with software development teams in Agile settings.",
+      "key_skills": [
+        "cloud architecture",
+        "aws",
+        "microservices",
+        "networking",
+        "dod",
+        "stigs",
+        "cis benchmarks",
+        "infrastructure-as-code"
+      ],
+      "core_skills": [
+        "cloud architecture",
+        "aws",
+        "microservices",
+        "networking"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ai-software-engineer-booz-allen-hami-07554937": {
+      "summary": "AI Software Engineer designs and maintains core agentic systems, implements A2A communication patterns, integrates MCPs, and builds RAG features to support AI-enabled health research programs.",
+      "key_skills": [
+        "ai",
+        "software",
+        "engineering",
+        "python",
+        "java",
+        "go",
+        "rust",
+        "cloud"
+      ],
+      "core_skills": [
+        "prompt engineering",
+        "llm orchestration",
+        "rag",
+        "agentic systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "cybersecurity-analys-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "petroleum-engineer-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "ai-ml-engineer--mid-booz-allen-hami-07554937": {
+      "summary": "Designs and implements AI solution architecture using various AI technologies to address Marine Corps operational needs, develops innovative solutions to complex problems, and mentors team members.",
+      "key_skills": [
+        "ai",
+        "ml",
+        "python",
+        "c#",
+        "java",
+        "spark",
+        "hadoop",
+        "databricks"
+      ],
+      "core_skills": [
+        "ai",
+        "ml",
+        "python",
+        "spark"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "biosurveillance-prod-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "fusion-engineer-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "logistics-product-su-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "defense-congressiona-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "data-and-ai-solution-booz-allen-hami-07554937": {
+      "summary": "Lead the design of end-to-end data, analytics, cloud, AI / ML, and MLOps solutions for Navy clients.",
+      "key_skills": [
+        "data",
+        "ai",
+        "solutions",
+        "architect",
+        "lead"
+      ],
+      "core_skills": [
+        "aws",
+        "azure",
+        "databricks",
+        "python"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "it-project-manager-booz-allen-hami-07554937": {
+      "summary": "Manages complex IT projects with high visibility and mission-critical environments, ensuring successful delivery through risk mitigation, stakeholder alignment, and compliance with government standards.",
+      "key_skills": [
+        "project management",
+        "it",
+        "technical",
+        "government",
+        "risk management",
+        "stakeholder management",
+        "deliverables",
+        "compliance"
+      ],
+      "core_skills": [
+        "project management",
+        "it",
+        "technical",
+        "government"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "naval-combat-systems-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "power-platform-devel-booz-allen-hami-07554937": {
+      "summary": "Designs, develops, and implements Power Platform solutions using out-of-the-box features and custom code to create custom pages, site templates, features, and web parts while supporting installation and configuration of Power Platform instances in cloud environments.",
+      "key_skills": [
+        "powerplatform",
+        "powerapps",
+        "powerbi",
+        "powerautomate",
+        "sharepoint",
+        "dataverse",
+        "restapis",
+        "microsoflow"
+      ],
+      "core_skills": [
+        "powerplatform",
+        "powerapps",
+        "powerbi",
+        "powerautomate"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "m-s-system-engineer-booz-allen-hami-07554937": {
+      "summary": "Designs immersive experiences for federal and commercial clients using 3d game engines and simulation software to create digital twins and interactive environments for mission-critical decision-making.",
+      "key_skills": [
+        "immersive design",
+        "3d game engines",
+        "simulation software",
+        "real-world physics modeling",
+        "gaming development",
+        "digital twins",
+        "interactive environments",
+        "scenario planning"
+      ],
+      "core_skills": [
+        "3d game engines",
+        "simulation software",
+        "real-world physics modeling",
+        "gaming development"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "full-stack-developer-booz-allen-hami-07554937": {
+      "summary": "Full Stack Developer supports development of applications and services for a Digital Twin and Modeling & Simulation platform, contributing to building prototype solutions using modern technology stacks and evolving them into production-ready systems.",
+      "key_skills": [
+        "react",
+        "angular",
+        "javascript",
+        "python",
+        "sql",
+        "restful apis",
+        "microservices",
+        "aws",
+        "azure",
+        "gcp"
+      ],
+      "core_skills": [
+        "full-stack development",
+        "agile/scrum",
+        "object-oriented programming",
+        "cloud environments"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "data-scientist-booz-allen-hami-07554937": {
+      "summary": "Data scientist uses data science programming languages, creates ETL pipelines, and develops algorithms to solve complex data problems for clients in private and public sectors.",
+      "key_skills": [
+        "python",
+        "r",
+        "machine learning",
+        "artificial intelligence",
+        "iot",
+        "statistical analysis",
+        "predictive modeling",
+        "etl pipelines"
+      ],
+      "core_skills": [
+        "data science",
+        "algorithm development",
+        "data visualization",
+        "statistical analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "game-designer-booz-allen-hami-07554937": {
+      "summary": "Game designer at Booz Allen who uses data science expertise to analyze complex datasets, develop predictive models, and provide strategic insights to clients across public and private sectors.",
+      "key_skills": [
+        "data exploration",
+        "data cleaning",
+        "data analysis",
+        "data visualization",
+        "data mining",
+        "modeling and simulation",
+        "game design",
+        "c++"
+      ],
+      "core_skills": [
+        "data science",
+        "algorithm development",
+        "client collaboration",
+        "technical leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "project-manager-booz-allen-hami-07554937": {
+      "summary": "Project Manager leads strategic coordination and execution of programs to ensure alignment with U.S. defense objectives, synchronizes infrastructure projects with modernization initiatives, and manages end-to-end lifecycle using data-driven decision-making tools.",
+      "key_skills": [
+        "project management",
+        "program management",
+        "intelligence analysis",
+        "defense objectives",
+        "data interpretation",
+        "geospatial planning",
+        "enterprise data platforms",
+        "risk assessment"
+      ],
+      "core_skills": [
+        "project management",
+        "intelligence analysis",
+        "defense objectives",
+        "data interpretation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "all-source-intellige-booz-allen-hami-07554937": {
+      "summary": "All-Source Intelligence Analysts research, analyze, and synthesize information from diverse sources to support national security decision-making for DoD customers.",
+      "key_skills": [
+        "intelligence",
+        "analysis",
+        "research",
+        "data"
+      ],
+      "core_skills": [
+        "all-source intelligence",
+        "strategic analysis",
+        "intelligence tradecraft",
+        "intelligence cycle"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "cartographer--senior-booz-allen-hami-07554937": {
+      "summary": "Senior cartographer responsible for producing cartographic-based requests, maintaining geographic databases, ensuring map quality, and overseeing cartographic standards and procedures.",
+      "key_skills": [
+        "cartography",
+        "gis",
+        "arcgis",
+        "shapefiles",
+        "rasters",
+        "vectors",
+        "imagery"
+      ],
+      "core_skills": [
+        "gis",
+        "arcgis",
+        "data_management",
+        "quality_control"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "scheduling-specialis-booz-allen-hami-07554937": {
+      "summary": "Scheduling Specialist implements and maintains organizational programs for client projects, working with program leadership to review contracts, project cost accounting, and tactical planning using tools like MS Project, Jira, and Confluence.",
+      "key_skills": [
+        "project management",
+        "scheduling",
+        "ms project",
+        "atlassian jira",
+        "confluence",
+        "department of defense",
+        "federal program",
+        "contract management"
+      ],
+      "core_skills": [
+        "scheduling",
+        "project management",
+        "contract management",
+        "federal program"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "workforce-transforma-booz-allen-hami-07554937": {
+      "summary": "Workforce Transformation Analyst supports strategic planning and process improvement using change management principles to align talent, capabilities, and business operations while developing data-driven talent strategies.",
+      "key_skills": [
+        "data-driven",
+        "talent management",
+        "workforce transformation",
+        "change management",
+        "human capital",
+        "strategic planning",
+        "process improvement",
+        "surveys"
+      ],
+      "core_skills": [
+        "data analysis",
+        "change management",
+        "talent strategy",
+        "workforce development"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "network-development--booz-allen-hami-07554937": {
+      "summary": "Network Development Analysts explore new data sources, create effective queries, and combine information from disparate sources to help clients understand their mission environment while validating information and applying client tradecraft to build assessments for senior policy makers.",
+      "key_skills": [
+        "network development",
+        "data analysis",
+        "intelligence analysis",
+        "all-source analysis",
+        "palantir",
+        "analyst notebook",
+        "dataexplorer",
+        "voltron"
+      ],
+      "core_skills": [
+        "analytical skills",
+        "problem-solving",
+        "critical thinking",
+        "flexibility"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "security-operations--booz-allen-hami-07554937": {
+      "summary": "Monitors and analyzes threats in real-time using tools like Splunk and Microsoft Sentinel to respond to and mitigate cyber threats.",
+      "key_skills": [
+        "security operations center",
+        "incident response",
+        "cyber threat intelligence",
+        "threat assessment",
+        "splunk",
+        "microsoft sentinel",
+        "networking concepts",
+        "tcp/ip"
+      ],
+      "core_skills": [
+        "incident response",
+        "cyber threat intelligence",
+        "threat assessment",
+        "splunk"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "leadership-developme-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "financial-management-booz-allen-hami-07554937": {
+      "summary": "Creates financial management strategies to secure funding for client goals while ensuring efficient fund usage through tracking and communication with project teams.",
+      "key_skills": [
+        "financial analysis",
+        "funding allocation",
+        "regulatory compliance",
+        "budget management",
+        "reporting",
+        "risk identification",
+        "cross-functional collaboration",
+        "financial planning"
+      ],
+      "core_skills": [
+        "microsoft office",
+        "financial reporting",
+        "regulatory compliance",
+        "budget management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "naval-programs-actio-booz-allen-hami-07554937": {
+      "summary": "Coordinates and executes policies, programs, and initiatives within an organization, supporting project completion on time and within budget while acting as a liaison between functional teams, civilian and military leadership, and external stakeholders.",
+      "key_skills": [
+        "project management",
+        "policy implementation",
+        "data analysis",
+        "stakeholder communication",
+        "cross-functional teams",
+        "military leadership",
+        "secret clearance"
+      ],
+      "core_skills": [
+        "project management",
+        "stakeholder communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "executive-support-sp-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "technical-targeting--booz-allen-hami-07554937": {
+      "summary": "Turns reams of data into actionable intelligence for government and military stakeholders daily",
+      "key_skills": [
+        "technical targeting",
+        "network link analysis",
+        "functional requirements",
+        "cyberspace concepts",
+        "problem-solving",
+        "data analysis"
+      ],
+      "core_skills": [
+        "analytical skills",
+        "problem-solving mindset"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "naval-project-manage-booz-allen-hami-07554937": {
+      "summary": "Provides program management support to an Assistant Program Manager by tracking schedule, financial, and risk execution, developing risk mitigation strategies, and creating presentations for senior military and civilian leaders.",
+      "key_skills": [
+        "project management",
+        "program management",
+        "risk mitigation",
+        "contract deliverables",
+        "schedule execution",
+        "financial execution",
+        "military operations",
+        "unmanned vessels"
+      ],
+      "core_skills": [
+        "project management",
+        "program management",
+        "risk mitigation",
+        "contract deliverables"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "intelligence-planner-booz-allen-hami-07554937": {
+      "summary": "Intelligence planners analyze and interpret data to help clients understand challenges, develop mitigations, and execute missions.",
+      "key_skills": [
+        "intelligence planning",
+        "intelligence analysis",
+        "intelligence plans",
+        "joint planning process",
+        "ipts",
+        "opt",
+        "indopacom aor",
+        "oplans"
+      ],
+      "core_skills": [
+        "intelligence planning",
+        "joint planning process",
+        "ipts",
+        "opt"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "data-scientist--seni-booz-allen-hami-07554937": {
+      "summary": "Senior data scientist who uses data science expertise to create real-world impact by turning complex data sets into useful information for clients across private and public sectors, including fraud detection, cancer research, and national intelligence.",
+      "key_skills": [
+        "python",
+        "r",
+        "machine learning",
+        "artificial intelligence",
+        "iot",
+        "statistical analysis",
+        "data visualization",
+        "etl pipelines"
+      ],
+      "core_skills": [
+        "data science",
+        "machine learning",
+        "python",
+        "statistical analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "internal-controls-au-booz-allen-hami-07554937": {
+      "summary": "Conducts internal audits and reviews of ARPA-H programs, processes, and operations to ensure compliance and identify risks, while developing recommendations for process improvements and corrective actions.",
+      "key_skills": [
+        "internal controls",
+        "auditing",
+        "risk management",
+        "financial analysis",
+        "program evaluation",
+        "compliance",
+        "government auditing standards",
+        "governance"
+      ],
+      "core_skills": [
+        "internal audits",
+        "audit planning",
+        "financial data analysis",
+        "risk assessment"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "computer-scientist-booz-allen-hami-07554937": {
+      "summary": "As an advanced data scientist on the national security team, the individual leads complex data exploration and analytics projects using statistics and AI methodologies to evaluate real-world impact on strategic intelligence, while growing skills in continuous auditing, testing, evaluation, verification, and validation (TEVV) and AI risk mitigation.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "ai",
+        "iot",
+        "statistics",
+        "data engineering",
+        "data warehousing",
+        "data mining"
+      ],
+      "core_skills": [
+        "ts/sci clearance",
+        "ai risk mitigation",
+        "tevv procedures",
+        "classified networks"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "post-quantum-cryptog-booz-allen-hami-07554937": {
+      "summary": "Implements post-quantum cryptography solutions across reference architectures, transitions products to post-quantum standards, and ensures information system security.",
+      "key_skills": [
+        "post-quantum cryptography",
+        "network engineering",
+        "software development",
+        "cybersecurity",
+        "python",
+        "rust",
+        "c++",
+        "low-level programming"
+      ],
+      "core_skills": [
+        "post-quantum cryptography",
+        "network engineering",
+        "software development",
+        "cybersecurity"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "icam-engineer-booz-allen-hami-07554937": {
+      "summary": "The IAM Engineer supports large-scale identity and access management projects for government clients, analyzing identity lifecycles, defining access requirements, and deploying enterprise-class solutions to secure digital assets in a zero trust environment.",
+      "key_skills": [
+        "identity management",
+        "access control",
+        "zero trust",
+        "cybersecurity",
+        "iam",
+        "directory services",
+        "active directory",
+        "pki"
+      ],
+      "core_skills": [
+        "iam implementation",
+        "cloud security",
+        "threat response",
+        "identity lifecycle management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "agentic-ai-engineer-booz-allen-hami-07554937": {
+      "summary": "Designs and implements intelligent agent architectures using LangChain, LangGraph, and AutoGen to build proactive multi-agent systems for autonomous AI tasks.",
+      "key_skills": [
+        "agentic ai",
+        "langchain",
+        "langgraph",
+        "autogen",
+        "rag",
+        "knowledge graphs",
+        "slms",
+        "edge deployment"
+      ],
+      "core_skills": [
+        "langchain",
+        "langgraph",
+        "autogen",
+        "rag"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "quantum-go-to-market-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "agentic-ai-machine-l-booz-allen-hami-07554937": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "application-develope-booz-allen-hami-07554937": {
+      "summary": "Senior Application Developer designs and implements complex software solutions using modern technologies to address intelligence sector challenges.",
+      "key_skills": [
+        "node.js",
+        "typescript",
+        "sql",
+        "postgresql",
+        "redis",
+        "elasticsearch"
+      ],
+      "core_skills": [
+        "complex problem solving",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "field-service-repres-tapestry---g0g-07554937": {
+      "summary": "Supports the Tomahawk program by developing, deploying, and maintaining computing and information security controls in compliance with government regulations, including defining and enforcing compliance, security policies, and data protection requirements.",
+      "key_skills": [
+        "information security",
+        "cybersecurity",
+        "compliance",
+        "data protection",
+        "system administration",
+        "it support",
+        "windows",
+        "sql"
+      ],
+      "core_skills": [
+        "information security",
+        "cybersecurity",
+        "compliance",
+        "data protection"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "caf--ambassador---an-capital-one-07554937": {
+      "summary": "Café Ambassador empowers customers through digital banking guidance and community engagement in a high-energy environment without traditional sales pressures.",
+      "key_skills": [
+        "customer_service",
+        "community_engagement",
+        "digital_banking",
+        "problem_solving",
+        "compliance",
+        "de_escalation",
+        "brand_advocacy",
+        "financial_health"
+      ],
+      "core_skills": [
+        "customer_service",
+        "community_engagement",
+        "digital_banking"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "information-system-s-booz-allen-hami-56888872": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "marketing-specialist-booz-allen-hami-56888872": {
+      "summary": "Designs, develops, and implements marketing campaigns and materials for the Army using SEO best practices and digital communication tools.",
+      "key_skills": [
+        "seo",
+        "digital_content",
+        "content_marketing",
+        "social_media",
+        "data_driven_decision_making",
+        "stakeholder_communication",
+        "strategic_messaging",
+        "innovative_solutions"
+      ],
+      "core_skills": [
+        "content_creation",
+        "digital_marketing",
+        "stakeholder_management",
+        "cross_functional_collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "graphic-design-speci-booz-allen-hami-56888872": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "knowledge-manager-booz-allen-hami-56888872": {
+      "summary": "Analyses client operations to identify improvement areas, designs data collection plans, facilitates workshops, and communicates research using knowledge management tools to enhance stakeholder understanding and agreement.",
+      "key_skills": [
+        "process improvement",
+        "business process",
+        "knowledge management",
+        "project management",
+        "data analysis",
+        "ai governance",
+        "itil",
+        "six sigma"
+      ],
+      "core_skills": [
+        "process improvement",
+        "business process",
+        "knowledge management",
+        "project management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "manager--grc-subject-vanta-56888872": {
       "summary": "Manages GRC Product Subject Matter Experts team to develop and maintain security frameworks, compliance content, and testing processes for diverse customer needs.",
       "key_skills": [
@@ -2893,6 +4467,70 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "project-management-a-booz-allen-hami-43287231": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "collection-requireme-booz-allen-hami-43287231": {
+      "summary": "Collection Requirements Manager uses analytical skills to identify intelligence gaps, prioritize data collection needs, and provide actionable intelligence to government clients while managing collection requirements across various intelligence disciplines.",
+      "key_skills": [
+        "intelligence",
+        "analysis",
+        "data",
+        "collection",
+        "requirements",
+        "management",
+        "intelligence_disciplines",
+        "sigint"
+      ],
+      "core_skills": [
+        "analytical_skills",
+        "problem_solving",
+        "collection_requirements",
+        "intelligence_gaps"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "graphic-designer--se-booz-allen-hami-43287231": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "order-of-battle-anal-booz-allen-hami-43287231": {
+      "summary": "Order of Battle Analyst performs all-source intelligence analysis to provide strategic insights and actionable intelligence to clients across tactical to strategic levels.",
+      "key_skills": [
+        "intelligence analysis",
+        "all-source intelligence",
+        "mids",
+        "mars",
+        "do",
+        "ic",
+        "ts/sci",
+        "clearance"
+      ],
+      "core_skills": [
+        "intelligence analysis",
+        "all-source intelligence",
+        "mids",
+        "mars"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "quality-assurance-le-headway-43287231": {
       "summary": "Owns end-to-end QA program areas like calibration, AI analytics, and partner quality oversight to drive continuous improvements in customer experience through data-driven insights and automation.",
@@ -3201,6 +4839,138 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "security-engineer--s-booz-allen-hami-75091210": {
+      "summary": "Senior security engineer provides cybersecurity engineering support for secure systems in cloud and on-premises environments, designing and implementing security controls to ensure compliance with federal cybersecurity requirements.",
+      "key_skills": [
+        "aws",
+        "azure",
+        "m365",
+        "vmware",
+        "citrix",
+        "nist",
+        "fisma",
+        "fedramp"
+      ],
+      "core_skills": [
+        "security_operations",
+        "incident_response",
+        "federal_compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "cost-analyst-booz-allen-hami-75091210": {
+      "summary": "Cost analyst transforms program requirements into data-driven cost estimates for the Navy, collaborating with engineers and project managers to ensure accurate funding allocation across defense systems.",
+      "key_skills": [
+        "cost analysis",
+        "financial analysis",
+        "data modeling",
+        "regression analysis",
+        "risk analysis",
+        "government procurement",
+        "wbs"
+      ],
+      "core_skills": [
+        "cost estimating",
+        "data collection",
+        "financial modeling"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "sharepoint-administr-booz-allen-hami-75091210": {
+      "summary": "SharePoint Administrator designs, develops, and advises on internal and external materials to support the U.S. Navy, creating solutions for complex problems while bridging gaps between SharePoint and development teams.",
+      "key_skills": [
+        "sharepoint",
+        "power automate",
+        "power apps",
+        "microsoft teams",
+        "sharepoint development",
+        "sharepoint architecture",
+        "out-of-the-box solutions"
+      ],
+      "core_skills": [
+        "sharepoint administration",
+        "system integration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "program-office-chief-booz-allen-hami-75091210": {
+      "summary": "Supports program managers by researching projects, managing calendars, handling travel vouchers, and ensuring compliance with government security protocols.",
+      "key_skills": [
+        "program management",
+        "project management",
+        "ms office",
+        "defense travel system",
+        "ms planner",
+        "ms project",
+        "ai tools",
+        "tactical planning"
+      ],
+      "core_skills": [
+        "program management",
+        "project management",
+        "ms office",
+        "defense travel system"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "naval-acquisition----booz-allen-hami-75091210": {
+      "summary": "Senior Naval Acquisition & Sustainment Logistics Analyst leads teams to analyze modernization and logistics plans for product distribution and inventory, ensuring fleet readiness and integrated warfighting capabilities while managing multiple projects and global client collaborations.",
+      "key_skills": [
+        "acquisition",
+        "logistics",
+        "sustainment",
+        "product support",
+        "supply chain",
+        "maintenance",
+        "readiness",
+        "ram"
+      ],
+      "core_skills": [
+        "program management",
+        "logistics analysis",
+        "acquisition support",
+        "human systems integration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "model-based-systems--booz-allen-hami-75091210": {
+      "summary": "Model Based Systems Engineer contributes to Digital Engineering working groups by defining requirements and use-cases for Digital Engineering Environment across government and shipbuilder communities, identifying digital threads and workflows, and supporting pilot activities and trade studies for tool selection within the DEE.",
+      "key_skills": [
+        "model-based systems engineering",
+        "sysml",
+        "unified architecture framework",
+        "uaf",
+        "digital engineering environment",
+        "digital threads",
+        "trade studies",
+        "modeling standards"
+      ],
+      "core_skills": [
+        "sysml",
+        "unified architecture framework",
+        "digital engineering environment",
+        "modeling standards"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "staff-attorney---sen-democracyforwar-64602312": {
       "summary": "Staff Attorney or Senior Attorney conducts regulatory monitoring, legal research, and advocacy for pro-democracy causes, analyzing federal regulations and drafting legal submissions to support litigation and coalition partnerships.",
       "key_skills": [
@@ -3223,6 +4993,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "head-of-claims-lyft-64602312": {
+      "summary": "Head of Claims leads the claims strategy and operations for Lyft's rideshare services, managing third-party administrators and carriers while driving cost-mitigation and predictive risk intelligence.",
+      "key_skills": [
+        "claims",
+        "risk_management",
+        "liability",
+        "casualty",
+        "litigation",
+        "reserving",
+        "actuarial",
+        "predictive_analytics"
+      ],
+      "core_skills": [
+        "claims_strategy",
+        "tpa_management",
+        "severe_casualty",
+        "predictive_intelligence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "ai-tech-partner-lead-amplitude-64602312": {
       "summary": "Owns the full partnership lifecycle for strategic AI technology partners, designing repeatable GTM motions and driving product integration roadmaps to scale AI ecosystem partnerships.",
@@ -6062,6 +7855,142 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "mission-support-anal-booz-allen-hami-64602313": {
+      "summary": "Provides mission support to DoW or Navy clients throughout the annual Defense Authorization and Appropriations process using PPBE systems to coordinate, track, report, and make analysis recommendations for government decisions.",
+      "key_skills": [
+        "mission support",
+        "defense authorization",
+        "appropriations process",
+        "ppbe systems",
+        "requirements analysis",
+        "risk-based strategies",
+        "metrics tracking",
+        "client interactions"
+      ],
+      "core_skills": [
+        "congressional affairs",
+        "do w legislative process",
+        "requirements identification",
+        "data analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "baseline-assessment--booz-allen-hami-64602313": {
+      "summary": "Analyst who leads teams to analyze development and implementation of modernization and logistics plans affecting product distribution and inventory to enhance fleet operations and warfighting capabilities.",
+      "key_skills": [
+        "acquisition",
+        "logistics",
+        "baseline assessment memorandum",
+        "dod logistics",
+        "program management",
+        "ppbe cycle",
+        "navsea"
+      ],
+      "core_skills": [
+        "logistics",
+        "acquisition",
+        "program management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "financial-solutions--13-5674085-merr-64602313": {
+      "summary": "Provides comprehensive financial advice and customized solutions to clients to help achieve financial goals through building financial plans, recommending brokerage products, and managing client relationships.",
+      "key_skills": [
+        "financial planning",
+        "client advisory",
+        "investment products",
+        "brokerage services",
+        "risk mitigation",
+        "regulatory compliance",
+        "client triage",
+        "referral management"
+      ],
+      "core_skills": [
+        "client goal alignment",
+        "financial planning",
+        "investment product knowledge",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "merrill-advisor-deve-13-5674085-merr-64602313": {
+      "summary": "Develops relationships with high-net worth individuals, identifies financial needs, and provides investment recommendations to align with client goals while meeting performance targets.",
+      "key_skills": [
+        "financial advisor",
+        "wealth management",
+        "client relationship",
+        "investment planning",
+        "client needs assessment",
+        "portfolio management",
+        "compliance",
+        "performance goals"
+      ],
+      "core_skills": [
+        "client relationship management",
+        "financial planning",
+        "investment strategy",
+        "compliance"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "cadillac-district-sa-general-motors--64602313": {
+      "summary": "Manages and engages Cadillac dealers in Washington DC/Baltimore, ensuring sales objectives through direct store visits, partnership development, and customer retention strategies.",
+      "key_skills": [
+        "sales",
+        "customer_service",
+        "marketing",
+        "product_launches",
+        "inventory_management",
+        "financial_analysis",
+        "training",
+        "customer_retention"
+      ],
+      "core_skills": [
+        "relationship_building",
+        "time_management",
+        "flexibility",
+        "data_orientation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "information-security-salesforce--inc-64602313": {
+      "summary": "Owns security responsibilities with minimal guidance, drives initiatives to reduce compliance risks, and advises business partners on security requirements within Salesforce Government Cloud Division.",
+      "key_skills": [
+        "information security",
+        "cybersecurity",
+        "government cloud",
+        "fedramp",
+        "compliance",
+        "incident response",
+        "continuous monitoring",
+        "agile"
+      ],
+      "core_skills": [
+        "government cloud environments",
+        "security frameworks",
+        "change management",
+        "stakeholder communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-product-manag-vanta-64602313": {
       "summary": "Owns the Test Experience roadmap, focuses on helping customers surface compliance gaps fast, resolve issues through automated and agentic means, and generate audit-ready evidence.",
       "key_skills": [
@@ -6486,6 +8415,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "full-stack-engineer--oneapp-64602313": {
+      "summary": "Full Stack Engineer leads design and delivery of high-impact lending platform projects while mentoring engineers and optimizing systems for scalability and reliability.",
+      "key_skills": [
+        "node",
+        "typescript",
+        "nestjs",
+        "kubernetes",
+        "aws",
+        "react-native",
+        "microservices",
+        "distributed-systems"
+      ],
+      "core_skills": [
+        "technical-leadership",
+        "full-stack",
+        "distributed-systems",
+        "payments"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "full-stack-software--oneapp-64602313": {
       "summary": "Designs and delivers scalable banking features for seamless mobile money management while collaborating with engineers to ensure high-quality code and documentation.",
       "key_skills": [
@@ -6576,6 +8528,1904 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-product-manag-oneapp-64602313": {
+      "summary": "Owns the credit card product roadmap, defines features and user experience, and works with credit, engineering, design, compliance, and marketing teams to ship products using AI for real-time customer behavior analysis.",
+      "key_skills": [
+        "fintech",
+        "product_management",
+        "ai",
+        "credit_cards",
+        "rewards_programs",
+        "customer_ltv",
+        "interchange",
+        "card_economics"
+      ],
+      "core_skills": [
+        "product_ownership",
+        "cross_functional_collaboration",
+        "real_time_data_analysis",
+        "ai_integration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-visual-creati-oneapp-64602313": {
+      "summary": "Senior Visual Creative Lead designs and directs visual craft within the app, setting standards for icons, illustrations, interstitials, color, and motion while translating cross-functional inputs into cohesive product visual direction.",
+      "key_skills": [
+        "visual",
+        "creative",
+        "design",
+        "product",
+        "ai",
+        "motion",
+        "illustration",
+        "figma"
+      ],
+      "core_skills": [
+        "ai-native",
+        "systems-thinking",
+        "translating",
+        "independent-leader"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "social-producer-cont-oneapp-64602313": {
+      "summary": "Social Producer/Content Specialist creates and manages high-volume social-first content across TikTok, Instagram, Threads, LinkedIn, and YouTube while monitoring trends and optimizing for platform performance.",
+      "key_skills": [
+        "social media",
+        "content creation",
+        "video editing",
+        "tiktok",
+        "instagram",
+        "threads",
+        "linkedin",
+        "youtube"
+      ],
+      "core_skills": [
+        "content strategy",
+        "social trends analysis",
+        "cross-functional collaboration",
+        "content calendar management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer--p-oneapp-64602313": {
+      "summary": "Builds and ships high-quality software features, APIs, and products for financial services platforms while collaborating with cross-functional teams to solve complex problems at scale.",
+      "key_skills": [
+        "node",
+        "typescript",
+        "nestjs",
+        "kubernetes",
+        "aws",
+        "reactnative",
+        "api",
+        "microservices"
+      ],
+      "core_skills": [
+        "backend",
+        "api development",
+        "scalable systems"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer--s-oneapp-64602313": {
+      "summary": "Builds and maintains systems, tools, and workflows for customer servicing and operations teams to support millions of customers",
+      "key_skills": [
+        "fintech",
+        "software engineering",
+        "distributed systems",
+        "microservices",
+        "event driven architecture",
+        "node.js",
+        "typescript",
+        "nestjs"
+      ],
+      "core_skills": [
+        "distributed systems",
+        "microservices",
+        "event driven architecture",
+        "node.js"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-applied-scient-oneapp-64602313": {
+      "summary": "Designs and deploys machine learning, deep learning, and LLM models to enhance customer experience, drive business growth, and improve operational efficiency through personalization and recommendation systems.",
+      "key_skills": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "recommendation systems",
+        "search optimization",
+        "ai",
+        "productionizing models",
+        "personalization"
+      ],
+      "core_skills": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "ai"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategy-lead-oneapp-64602313": {
+      "summary": "Strategy Lead at OnePay focuses on defining strategic direction, translating industry trends into product priorities, and building frameworks for decision-making in fast-paced fintech environment.",
+      "key_skills": [
+        "fintech",
+        "ai",
+        "strategy",
+        "product",
+        "consulting",
+        "consumer_tech",
+        "competitive_intelligence",
+        "business_model"
+      ],
+      "core_skills": [
+        "strategy",
+        "product",
+        "consulting",
+        "competitive_intelligence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "treasury-operations--oneapp-64602313": {
+      "summary": "This Treasury leader oversees end-to-end treasury operations including cash forecasting, liquidity management, funding execution, and banking partnerships to ensure optimal cash utilization and financial resilience.",
+      "key_skills": [
+        "cash_forecasting",
+        "liquidity_management",
+        "treasury_operations",
+        "funding_execution",
+        "cash_strategy",
+        "banking_partnerships",
+        "financial_forecasting",
+        "cash_utilization"
+      ],
+      "core_skills": [
+        "cash_forecasting",
+        "liquidity_management",
+        "treasury_operations",
+        "funding_execution"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--legi-radiant-industr-64602313": {
+      "summary": "Leads engagement with Congress to shape policy, authorization, and appropriations for deploying nuclear microreactors across U.S. government customers",
+      "key_skills": [
+        "congressional affairs",
+        "policy strategy",
+        "legislative strategy",
+        "appropriations process",
+        "government relations",
+        "regulatory compliance",
+        "nuclear energy policy",
+        "national security policy"
+      ],
+      "core_skills": [
+        "congressional strategy",
+        "appropriations process",
+        "government affairs",
+        "policy translation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "commercial-enablemen-zip-64602313": {
+      "summary": "Builds and delivers enablement programs to support Go to Market teams through learning journeys, change management, and competency frameworks.",
+      "key_skills": [
+        "procurement",
+        "enablement",
+        "learning",
+        "program",
+        "sales",
+        "product",
+        "leadership",
+        "change_management"
+      ],
+      "core_skills": [
+        "program_management",
+        "cross_functional",
+        "data_analysis",
+        "learning_strategy"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "enterprise-solution--zip-64602313": {
+      "summary": "Serves as the primary pre-sales technical point of contact for Zip's solution suite, helping prospects understand how the platform delivers value in procurement and technical landscapes while collaborating with sales teams to close deals.",
+      "key_skills": [
+        "solution selling",
+        "pre-sales",
+        "technical point of contact",
+        "procurement",
+        "billing",
+        "ap automation",
+        "integration platforms",
+        "api"
+      ],
+      "core_skills": [
+        "solution selling",
+        "procurement",
+        "technical expertise",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "head-of-technical-re-zip-64602313": {
+      "summary": "Head of Technical Recruiting leads and scales technical recruiting for engineering, product, data, and design teams, developing the team, elevating processes, and ensuring consistent hiring of exceptional talent.",
+      "key_skills": [
+        "technical recruiting",
+        "hiring strategy",
+        "talent acquisition",
+        "people leadership",
+        "data fluency",
+        "recruiting operations",
+        "technical talent",
+        "sourcing"
+      ],
+      "core_skills": [
+        "technical recruiting",
+        "hiring strategy",
+        "talent acquisition",
+        "people leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "strategic-account-ex-zip-64602313": {
+      "summary": "Drives Zip's expansion into global enterprises with $7B+ revenue by owning the full sales cycle, engaging C-level executives, and acting as a strategic advisor for procurement transformation.",
+      "key_skills": [
+        "ai",
+        "enterprise",
+        "procurement",
+        "sales",
+        "consultative",
+        "solutions",
+        "strategic",
+        "account"
+      ],
+      "core_skills": [
+        "sales",
+        "consultative",
+        "solutions",
+        "strategic"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "technical-sourcer----zip-64602313": {
+      "summary": "Technical Sourcer identifies, engages, and screens high-quality Product & Design candidates for Zip's Engineering, Product, & Design team.",
+      "key_skills": [
+        "ai",
+        "procurement",
+        "engineering",
+        "product",
+        "design",
+        "sourcing",
+        "talent",
+        "recruiting"
+      ],
+      "core_skills": [
+        "sourcing",
+        "engagement",
+        "vetting",
+        "interviewing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager-grc-kpmg-64602313": {
+      "summary": "Senior Manager GRC oversees governance, risk, and compliance programs across KPMG's Toronto office.",
+      "key_skills": [
+        "governance",
+        "risk",
+        "compliance",
+        "security",
+        "data",
+        "privacy"
+      ],
+      "core_skills": [
+        "governance",
+        "risk",
+        "compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--grc-kpmg-64602313": {
+      "summary": "Manages IT internal audit and IT risk advisory engagements, defines enterprise GRC architecture, and leads complex use cases in risk and compliance.",
+      "key_skills": [
+        "governance",
+        "risk_management",
+        "compliance",
+        "cloud",
+        "it_security",
+        "data_modeling",
+        "agile",
+        "service_now"
+      ],
+      "core_skills": [
+        "governance",
+        "risk_management",
+        "compliance",
+        "cloud"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--d-kpmg-64602313": {
+      "summary": "Senior Consultant works on data engineering and AI projects using Databricks.",
+      "key_skills": [
+        "databricks",
+        "data_engineering",
+        "data_ai"
+      ],
+      "core_skills": [
+        "databricks"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "attorney--us-immigra-kpmg-64602313": {
+      "summary": "Attorney specializing in US immigration law who provides legal advice and assistance to clients in Toronto, Canada.",
+      "key_skills": [
+        "attorney",
+        "us immigration"
+      ],
+      "core_skills": [
+        "us immigration"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--data-analyt-kpmg-64602313": {
+      "summary": "Manages data analytics and automation projects for data modernization initiatives.",
+      "key_skills": [
+        "data analytics",
+        "automation",
+        "data modernization"
+      ],
+      "core_skills": [
+        "data analytics",
+        "automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--reso-kpmg-64602314": {
+      "summary": "Senior Manager leads audit teams across multiple locations, managing resources and ensuring compliance with audit standards.",
+      "key_skills": [
+        "resource management",
+        "audit"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--d-kpmg-64602314": {
+      "summary": "Senior Consultant works on data modernization projects involving data analytics and automation solutions.",
+      "key_skills": [
+        "data analytics",
+        "automation",
+        "data modernization"
+      ],
+      "core_skills": [
+        "data analytics",
+        "automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--data-analyt-kpmg-64602314": {
+      "summary": "Manages data analytics and data governance initiatives within the Governance, Risk & Compliance Services (GRCS) team in Ottawa, Canada.",
+      "key_skills": [
+        "data analytics",
+        "data governance"
+      ],
+      "core_skills": [
+        "data governance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "talent-manager---cen-veterinaryemerg-50728071": {
+      "summary": "Provides 24/7 emergency veterinary care for pets",
+      "key_skills": [
+        "veterinary",
+        "emergency",
+        "pets"
+      ],
+      "core_skills": [
+        "veterinary"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "autonomy-software-en-appliedintuitio-50728071": {
+      "summary": "Develops, integrates, and tests core path planning capabilities for aerial platforms including fighter aircraft, UAVs, and maritime vessels, collaborating with cross-functional teams to integrate GNC algorithms into military and commercial applications.",
+      "key_skills": [
+        "autonomous vehicle motion planning",
+        "robotics",
+        "path planning",
+        "3d path planning",
+        "2d grid planning",
+        "c++",
+        "python",
+        "control systems"
+      ],
+      "core_skills": [
+        "path planning",
+        "autonomy algorithms",
+        "software architecture",
+        "git"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "brand-designer-appliedintuitio-50728071": {
+      "summary": "The Brand Designer creates engaging visuals for digital and physical platforms, maintains brand guidelines, and collaborates with cross-functional teams to deliver consistent visual identity solutions.",
+      "key_skills": [
+        "brand design",
+        "visual identity",
+        "digital assets",
+        "ui/ux",
+        "print design",
+        "graphic design",
+        "illustration",
+        "iconography"
+      ],
+      "core_skills": [
+        "brand design",
+        "visual identity",
+        "digital assets",
+        "ui/ux"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "cloud-security-engin-appliedintuitio-50728071": {
+      "summary": "Secures multi-cloud infrastructure and Kubernetes clusters through robust guardrails, IAM policies, and continuous compliance monitoring.",
+      "key_skills": [
+        "cloud security",
+        "kubernetes",
+        "infrastructure as code",
+        "identity and access management",
+        "container security",
+        "cloud security posture management",
+        "compliance automation",
+        "runtime security"
+      ],
+      "core_skills": [
+        "kubernetes",
+        "aws",
+        "infrastructure as code",
+        "identity and access management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "command-center-manag-appliedintuitio-50728071": {
+      "summary": "Oversees real-time operations of the autonomous fleet, ensuring safe, efficient, and reliable execution of all missions while leading the Command Center team for incident response and cross-functional alignment.",
+      "key_skills": [
+        "autonomy operations",
+        "fleet management",
+        "real-time operations",
+        "dispatch systems",
+        "incident management",
+        "robotics",
+        "transportation",
+        "autonomous vehicles"
+      ],
+      "core_skills": [
+        "real-time operations",
+        "fleet dispatch",
+        "incident management",
+        "cross-functional coordination"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "commercial-counsel-appliedintuitio-50728071": {
+      "summary": "Tech transactions attorney supports Sales, Product, and Engineering by drafting, negotiating complex contracts with hardware suppliers and automotive OEMs, navigating supply chain obligations, and collaborating cross-functionally on legal initiatives.",
+      "key_skills": [
+        "tech transactions",
+        "legal",
+        "contracts",
+        "negotiation",
+        "compliance",
+        "ip"
+      ],
+      "core_skills": [
+        "contract drafting",
+        "commercial agreements",
+        "supply chain",
+        "automotive industry"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "contingent-workforce-appliedintuitio-50728071": {
+      "summary": "Manages contingent workforce program operations, contractor onboarding/offboarding, vendor partnerships, and compliance across global operations.",
+      "key_skills": [
+        "workforce management",
+        "contractor management",
+        "compliance",
+        "payroll",
+        "vendor management",
+        "process improvement",
+        "operational excellence",
+        "global labor regulations"
+      ],
+      "core_skills": [
+        "contractor management",
+        "compliance",
+        "payroll",
+        "vendor management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "contracts-manager-appliedintuitio-50728071": {
+      "summary": "Negotiates and drafts contracts with vendors and customers while collaborating with cross-functional teams to ensure efficient legal and compliance services delivery.",
+      "key_skills": [
+        "contracts",
+        "negotiation",
+        "legal",
+        "compliance",
+        "contract administration",
+        "legal ops",
+        "contract lifecycle management",
+        "project management"
+      ],
+      "core_skills": [
+        "contracts management",
+        "legal compliance",
+        "contract administration",
+        "project management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "data---ml-pipeline-s-appliedintuitio-50728071": {
+      "summary": "Builds and maintains large-scale data processing pipelines for ingesting and curating driving datasets, automating data selection and model iteration to improve autonomous vehicle performance.",
+      "key_skills": [
+        "python",
+        "data pipelines",
+        "distributed systems",
+        "ml infrastructure",
+        "kafka",
+        "spark",
+        "airflow"
+      ],
+      "core_skills": [
+        "data engineering",
+        "ml infrastructure",
+        "distributed systems",
+        "python"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "embedded-ai-engineer-appliedintuitio-50728071": {
+      "summary": "Owns end-to-end lifecycle of embedded ML systems for Android Automotive platform ensuring models behave predictably in production under real-world constraints.",
+      "key_skills": [
+        "android",
+        "ml",
+        "embedded",
+        "c++",
+        "onnx",
+        "tflite",
+        "llm",
+        "quantization"
+      ],
+      "core_skills": [
+        "c++",
+        "android automotive",
+        "model optimization",
+        "safety boundaries"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "field-deployment-eng-appliedintuitio-50728071": {
+      "summary": "Owns end-to-end field deployment of Applied’s product lines at customer sites, leading integrations from initial setup through steady-state operations while ensuring safe operational readiness and acting as the technical escalation point for issue resolution.",
+      "key_skills": [
+        "physical ai",
+        "autonomous vehicles",
+        "field deployment",
+        "customer engagement",
+        "safety protocols",
+        "software-centric ai",
+        "heavy equipment",
+        "construction machinery"
+      ],
+      "core_skills": [
+        "field installations",
+        "troubleshooting",
+        "customer operations",
+        "safety compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "fleet-reliability-en-appliedintuitio-50728071": {
+      "summary": "Fleet Reliability Engineer maintains and enhances vehicle fleet reliability through root cause analysis, implementing long-term fixes for hardware and software, and creating robust testing procedures.",
+      "key_skills": [
+        "vehicle",
+        "reliability",
+        "fleets",
+        "sensor",
+        "software",
+        "testing",
+        "diagnostics",
+        "onboard"
+      ],
+      "core_skills": [
+        "root cause analysis",
+        "systemic quality",
+        "hardware reliability",
+        "software testing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "government-contracts-appliedintuitio-50728071": {
+      "summary": "Provides cradle-to-grave contract support for government contracts, negotiates NDAs and Teaming Agreements, manages subcontractor relationships, and ensures FAR/DFARS compliance for defense programs.",
+      "key_skills": [
+        "government contracts",
+        "contract management",
+        "federal contracting",
+        "federal regulations",
+        "fars",
+        "dfars",
+        "proposal development",
+        "contract negotiations"
+      ],
+      "core_skills": [
+        "government contracts",
+        "contract management",
+        "federal regulations",
+        "proposal development"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "gtm-systems-architec-appliedintuitio-50728071": {
+      "summary": "Owns the design and roadmap of the GTM tech stack, architecting integrations between Salesforce and other GTM tools while ensuring scalability and alignment with business needs.",
+      "key_skills": [
+        "gtm systems architecture",
+        "revenue operations",
+        "salesforce",
+        "data governance",
+        "integration architecture",
+        "ai-driven solutions",
+        "quote-to-cash",
+        "system optimization"
+      ],
+      "core_skills": [
+        "salesforce",
+        "integration architecture",
+        "data governance",
+        "system optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "international-trade--appliedintuitio-50728071": {
+      "summary": "Manages trade compliance policies and technology control plans, conducts restricted party screenings, makes export jurisdiction and classification determinations, and provides strategic compliance advice to product and engineering teams.",
+      "key_skills": [
+        "international trade controls",
+        "export compliance",
+        "it ar",
+        "ear",
+        "hts classification",
+        "import entry review",
+        "customs brokers",
+        "freight forwarders",
+        "sanctions regimes",
+        "licensing systems"
+      ],
+      "core_skills": [
+        "export jurisdiction determination",
+        "trade compliance policy implementation",
+        "restricted party screening",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "marketing-manager-appliedintuitio-50728071": {
+      "summary": "Marketing Manager shapes how the world understands Applied Intuition's brand and products, driving the company's position as the leader in physical AI through multi-channel marketing programs and cross-functional collaboration.",
+      "key_skills": [
+        "marketing",
+        "ai",
+        "project_management",
+        "content_creation",
+        "strategic_rigour",
+        "creative_judgement",
+        "curious_mind",
+        "industry_understanding"
+      ],
+      "core_skills": [
+        "project_management",
+        "content_creation",
+        "strategic_rigour",
+        "creative_judgement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ml-perception-softwa-appliedintuitio-50728071": {
+      "summary": "Software engineer builds perception modules for autonomous vehicles, creating 4D world representations and computer vision techniques to enable self-driving capabilities.",
+      "key_skills": [
+        "perception",
+        "autonomous vehicles",
+        "computer vision",
+        "machine learning",
+        "4d world representations",
+        "end-to-end autonomy",
+        "self-driving vehicles",
+        "real-world perception"
+      ],
+      "core_skills": [
+        "c++",
+        "python",
+        "machine learning models",
+        "algorithm development"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ml-runtime-optimizat-appliedintuitio-50728071": {
+      "summary": "Optimizes ML models for embedded platforms and deploys them across automotive and industrial applications",
+      "key_skills": [
+        "ml optimization",
+        "embedded systems",
+        "model deployment",
+        "pytorch",
+        "jax",
+        "onnx",
+        "tensorrt",
+        "cuda"
+      ],
+      "core_skills": [
+        "embedded programming",
+        "model profiling",
+        "quantization",
+        "pruning"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "pipeline-technical-a-appliedintuitio-50728071": {
+      "summary": "Drives development of content pipelines and backends using Unreal and procedural content generation, creating automated pipelines for customer data ingestion and final package delivery.",
+      "key_skills": [
+        "pipeline",
+        "unreal",
+        "python",
+        "houdini",
+        "c++",
+        "real-time engines",
+        "machine learning",
+        "computer science"
+      ],
+      "core_skills": [
+        "pipeline development",
+        "automated content pipelines",
+        "3d dcc tools",
+        "python standards"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "planning---technical-appliedintuitio-50728071": {
+      "summary": "Technical Lead for Motion Planning guides development of motion planning modules for autonomous vehicles, leading engineering teams to design and deploy high-performance algorithms under strict timing constraints.",
+      "key_skills": [
+        "motion planning",
+        "autonomous vehicles",
+        "planning algorithms",
+        "c++",
+        "perception systems",
+        "map data",
+        "real-world testing",
+        "performance optimization"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "software engineering",
+        "algorithm development",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "lead",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "process-engineer-appliedintuitio-50728071": {
+      "summary": "Process Engineer analyzes workflow and throughput across vehicle operations to identify bottlenecks and implement cross-program process improvements.",
+      "key_skills": [
+        "process engineering",
+        "workflow analysis",
+        "root cause analysis",
+        "measurement framework",
+        "process templates",
+        "continuous improvement",
+        "lean six sigma",
+        "cross-vertical pattern recognition"
+      ],
+      "core_skills": [
+        "process engineering",
+        "root cause analysis",
+        "measurement framework",
+        "continuous improvement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "product-manager---dr-appliedintuitio-50728071": {
+      "summary": "Owns product strategy for DroneStack, transitioning from program-driven solutions to scalable products through user research, technical translation, and market analysis.",
+      "key_skills": [
+        "product management",
+        "user research",
+        "strategy",
+        "roadmap",
+        "autonomous systems",
+        "defense industry",
+        "military operations",
+        "mission planning"
+      ],
+      "core_skills": [
+        "product strategy",
+        "user research",
+        "technical translation",
+        "market analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "product-security-eng-appliedintuitio-50728071": {
+      "summary": "Product Security Engineer embeds security into product design and development lifecycle through proactive vulnerability identification, security assessments, and secure coding practices.",
+      "key_skills": [
+        "product security",
+        "threat modeling",
+        "vulnerability management",
+        "sast",
+        "dast",
+        "ci/cd security",
+        "ai security",
+        "cloud security"
+      ],
+      "core_skills": [
+        "security engineering",
+        "threat modeling",
+        "vulnerability management",
+        "cloud security"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "recruiter--gtm-appliedintuitio-50728071": {
+      "summary": "Partners with marketing leadership to design and execute hiring strategies for marketing talent across brand, growth, product marketing, and communications functions",
+      "key_skills": [
+        "recruiting",
+        "marketing",
+        "talent",
+        "strategic",
+        "data",
+        "analysis",
+        "leadership",
+        "stakeholder"
+      ],
+      "core_skills": [
+        "recruiting",
+        "marketing",
+        "talent",
+        "strategic"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "research-scientist---appliedintuitio-50728071": {
+      "summary": "Research Scientist conducts research on pretraining world-action foundation models for autonomous driving and robotics applications, collaborating with engineers to deploy algorithms.",
+      "key_skills": [
+        "python",
+        "pytorch",
+        "computer vision",
+        "robotics systems",
+        "distributed machine learning"
+      ],
+      "core_skills": [
+        "research",
+        "autonomy",
+        "robotics"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "risk-and-compliance--appliedintuitio-50728071": {
+      "summary": "Owns and matures security GRC programs, conducts enterprise risk assessments, leads compliance efforts for SOC2, ISO 27001, and TISAX, and manages third-party risk programs across the organization.",
+      "key_skills": [
+        "risk_management",
+        "compliance_program",
+        "security_grc",
+        "risk_assessment",
+        "third_party_risk",
+        "audit_management",
+        "policy_management",
+        "regulatory_compliance"
+      ],
+      "core_skills": [
+        "risk_register_management",
+        "security_maturity_assessments",
+        "soc2_audit",
+        "iso_27001"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "security-architect-appliedintuitio-50728071": {
+      "summary": "Security Architect designs and implements cybersecurity architectures for next-generation automotive systems, ensuring compliance with ISO/SAE 21434 and UN Regulations 155/156 requirements.",
+      "key_skills": [
+        "automotive cybersecurity",
+        "iso21434",
+        "unr155",
+        "unr156",
+        "secure over-the-air updates",
+        "hardware-rooted security",
+        "threat modeling",
+        "cryptographic engineering"
+      ],
+      "core_skills": [
+        "automotive security",
+        "embedded systems security",
+        "cybersecurity architecture",
+        "threat analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-counsel--priv-appliedintuitio-50728071": {
+      "summary": "Owns and operationalizes global privacy program, leads AI governance strategy, advises cross-functional teams on privacy and AI compliance, and ensures adherence to GDPR, CCPA/CPRA, EU AI Act, and cross-border data transfer regulations.",
+      "key_skills": [
+        "privacy",
+        "ai_governance",
+        "gdpr",
+        "ccpa",
+        "eu_ai_act",
+        "data_governance",
+        "regulatory_compliance",
+        "cross_border_data_transfers"
+      ],
+      "core_skills": [
+        "privacy_program",
+        "ai_policy_development",
+        "regulatory_advise",
+        "cross_border_data_transfers"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-software-engi-appliedintuitio-50728071": {
+      "summary": "Owns the fallback stack architecture for L4 trucking programs, defining how vehicles detect uncertainty, execute minimal risk maneuvers, and transition to remote assistance while ensuring safety and scalability across autonomous systems.",
+      "key_skills": [
+        "c++",
+        "autonomy",
+        "software_architect",
+        "l4_trucking",
+        "fallback_stack",
+        "degraded_driving",
+        "minimal_risk_maneuvers",
+        "remote_assistance"
+      ],
+      "core_skills": [
+        "autonomy_software",
+        "system_architecture",
+        "safety_logic"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-technical-rec-appliedintuitio-50728071": {
+      "summary": "Partners with engineering leadership to design and execute hiring strategies for software and ML engineers in a competitive talent market.",
+      "key_skills": [
+        "technical recruiting",
+        "software engineering",
+        "ml engineering",
+        "ai",
+        "agentic coding",
+        "recruiting automation",
+        "talent strategy",
+        "data-driven insights"
+      ],
+      "core_skills": [
+        "technical recruiting",
+        "software engineering",
+        "ml engineering",
+        "ai"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "software-architect---appliedintuitio-50728071": {
+      "summary": "Owns the fallback stack architecture for L4 trucking programs, defining how vehicles detect uncertainty, execute minimal risk maneuvers, and transition to remote assistance while ensuring safety and scalability across autonomous systems.",
+      "key_skills": [
+        "c++",
+        "autonomy",
+        "software_architect",
+        "l4_trucking",
+        "fallback_stack",
+        "degraded_driving",
+        "minimal_risk_maneuvers",
+        "remote_assistance"
+      ],
+      "core_skills": [
+        "autonomy_software",
+        "system_architecture",
+        "safety_logic"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "software-engineer----appliedintuitio-50728071": {
+      "summary": "Software Engineer - Telematics develops scalable backend systems for real-time telemetry data processing across millions of connected devices.",
+      "key_skills": [
+        "go",
+        "c++",
+        "python",
+        "kubernetes",
+        "apache spark",
+        "apache kafka",
+        "mqtt",
+        "nats"
+      ],
+      "core_skills": [
+        "cloud-native",
+        "microservices",
+        "real-time data processing",
+        "telematics"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "software-engineer--c-appliedintuitio-50728071": {
+      "summary": "Software engineer designs and implements high-performance C++ software for Axion, Applied Intuition's defense tooling platform, building simulation environments and infrastructure for autonomous systems testing and validation.",
+      "key_skills": [
+        "c++",
+        "simulation",
+        "autonomy",
+        "infrastructure",
+        "defense",
+        "software_engineering"
+      ],
+      "core_skills": [
+        "c++",
+        "simulation",
+        "autonomy"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "software-quality-ass-appliedintuitio-50728071": {
+      "summary": "Software Quality Assurance Engineer leads the development and implementation of Quality Assurance processes for the Self-Driving System organization, ensuring compliance with Automotive SPICE and ISO 9001:2015 standards through audits, process improvements, and quality issue resolution.",
+      "key_skills": [
+        "automotive",
+        "spice",
+        "iso",
+        "quality assurance",
+        "software",
+        "engineering",
+        "process compliance",
+        "auditing"
+      ],
+      "core_skills": [
+        "automotive spice",
+        "iso 9001",
+        "process documentation",
+        "root cause analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "solution-engineer-appliedintuitio-50728071": {
+      "summary": "Solution Engineers act as the technical bridge between automotive customers and Applied Intuition engineering teams to ensure platform solutions provide maximum impact for SDV and AD/ADAS initiatives.",
+      "key_skills": [
+        "software",
+        "engineering",
+        "automotive",
+        "vehicle",
+        "os",
+        "embedded"
+      ],
+      "core_skills": [
+        "customer",
+        "technical",
+        "execution"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "systems-administrato-appliedintuitio-50728071": {
+      "summary": "IT Operations Engineer provides first line technical support to end users and ensures technology productivity while handling user onboarding and offboarding.",
+      "key_skills": [
+        "it operations",
+        "system administration",
+        "server support",
+        "project implementation",
+        "desktop support",
+        "networking protocols",
+        "saaS applications",
+        "comp-tia security+"
+      ],
+      "core_skills": [
+        "system administration",
+        "server support",
+        "networking protocols",
+        "saaS applications"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "system-safety-engine-appliedintuitio-50728071": {
+      "summary": "Develops and owns vehicle-level safety cases for driving functions and platform integration, translating safety analysis into implementable requirements while applying ISO 26262 standards across vehicle features.",
+      "key_skills": [
+        "systems safety engineering",
+        "vehicle-level safety analysis",
+        "safety case development",
+        "iso 26262",
+        "fmea",
+        "hazard analysis",
+        "ad-as",
+        "braking systems"
+      ],
+      "core_skills": [
+        "iso 26262",
+        "fmea",
+        "hazard analysis",
+        "vehicle safety engineering"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "systems-architect----appliedintuitio-50728071": {
+      "summary": "Orchestrates development of universal software foundation for vehicle intelligence and software at scale by collaborating across real-time operating systems, middleware, and hardware layers.",
+      "key_skills": [
+        "real-time operating systems",
+        "embedded software",
+        "middleware",
+        "safety-critical systems",
+        "deterministic solutions",
+        "multi-core scheduling",
+        "process isolation",
+        "resource management"
+      ],
+      "core_skills": [
+        "RTOS middleware development",
+        "embedded software systems",
+        "real-time performance",
+        "safety-critical systems"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "technical-lead--iden-appliedintuitio-50728071": {
+      "summary": "Owns end-to-end identity infrastructure from architecture to access governance for AI agents, implementing zero trust principles and secure access management across cloud environments.",
+      "key_skills": [
+        "identity engineering",
+        "security engineering",
+        "cloud environments",
+        "zero trust",
+        "rbac",
+        "secrets management",
+        "pam",
+        "ai agents"
+      ],
+      "core_skills": [
+        "identity architecture",
+        "iam strategy",
+        "zero trust implementation",
+        "secrets management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "technical-lead-manag-appliedintuitio-50728071": {
+      "summary": "Owns the end-to-end perception model architecture, training, evaluation, and deployment for autonomous vehicles across diverse geographies and environments.",
+      "key_skills": [
+        "python",
+        "machine_learning",
+        "computer_vision",
+        "deep_learning",
+        "autonomous_vehicles",
+        "perception_modeling",
+        "model_architecture",
+        "data_engineering"
+      ],
+      "core_skills": [
+        "perception_modeling",
+        "model_architecture",
+        "data_engineering",
+        "autonomous_vehicles"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "technical-recruiter--appliedintuitio-50728071": {
+      "summary": "Technical Recruiter (Defense) partners with engineering and program leadership to design and execute hiring strategies for defense-related software engineering talent.",
+      "key_skills": [
+        "technical recruiting",
+        "defense",
+        "software engineering",
+        "ml engineering",
+        "sourcing",
+        "ai tools",
+        "interview processes",
+        "talent pipelines"
+      ],
+      "core_skills": [
+        "technical recruiting",
+        "defense",
+        "sourcing",
+        "talent pipelines"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "training-and-develop-appliedintuitio-50728071": {
+      "summary": "Builds and owns end-to-end training and development for global operations teams across automotive, trucking, construction, mining, agriculture, and defense verticals, designing learning journeys from onboarding to advanced mastery while ensuring safety-critical standards.",
+      "key_skills": [
+        "instructional_design",
+        "curriculum_development",
+        "learning_journeys",
+        "competency_analysis",
+        "safety_critical_training",
+        "lms_management",
+        "program_management",
+        "stakeholder_management"
+      ],
+      "core_skills": [
+        "instructional_design",
+        "curriculum_development",
+        "competency_analysis",
+        "safety_critical_training"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "validation-engineer-appliedintuitio-50728071": {
+      "summary": "Validation Engineer designs, develops, and executes test cases using HIL test benches and vehicle testing to ensure automotive system safety and quality.",
+      "key_skills": [
+        "python",
+        "hilt",
+        "test automation",
+        "system validation",
+        "embedded systems",
+        "automotive",
+        "sensors",
+        "networking"
+      ],
+      "core_skills": [
+        "python",
+        "hilt",
+        "test automation",
+        "system validation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "v-v-test-engineer-appliedintuitio-50728071": {
+      "summary": "Develops and executes system validation strategies for autonomy modules in L4 trucking, builds datasets from simulations and real-world data, and develops statistical models for safety performance evaluation.",
+      "key_skills": [
+        "autonomy",
+        "ad-as",
+        "simulation",
+        "machine_learning",
+        "data_analysis",
+        "safety_evaluation",
+        "system_validation",
+        "regulations"
+      ],
+      "core_skills": [
+        "ad-as",
+        "autonomy",
+        "simulation",
+        "machine_learning"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "graphic-designer--mi-booz-allen-hami-50728071": {
+      "summary": "Performs graphic design tasks to create visual materials that support client missions and enhance brand identity while ensuring accessibility compliance and consistency across deliverables.",
+      "key_skills": [
+        "graphic design",
+        "section 508 compliance",
+        "adobe creative cloud",
+        "typography",
+        "visual balance",
+        "accessibility standards",
+        "multimedia products",
+        "client collaboration"
+      ],
+      "core_skills": [
+        "graphic design principles",
+        "design tools",
+        "client communication",
+        "project management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "cyber--national-secu-booz-allen-hami-50728071": {
+      "summary": "This senior government relations professional leads lobbying activities and develops strategies to advance cybersecurity, intelligence, and emerging technology business priorities across federal policy spaces.",
+      "key_skills": [
+        "cybersecurity",
+        "national security",
+        "emerging technologies",
+        "government relations",
+        "policy",
+        "intelligence",
+        "critical infrastructure"
+      ],
+      "core_skills": [
+        "government relations strategy",
+        "lobbying",
+        "policy development",
+        "stakeholder engagement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "digital-forensics-cy-booz-allen-hami-50728071": {
+      "summary": "Provides strategic technical advice on digital forensics and cybersecurity incident investigations, leveraging expertise to assess risks and propose solutions for government-funded health research programs.",
+      "key_skills": [
+        "digital forensics",
+        "cybersecurity",
+        "incident investigation",
+        "windows",
+        "macos",
+        "ios",
+        "microsoft defender",
+        "crowdstrike"
+      ],
+      "core_skills": [
+        "digital forensics investigations",
+        "risk assessment",
+        "forensic imaging",
+        "chain of custody"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "all-source-intellige-booz-allen-hami-50728071": {
+      "summary": "All-Source Analyst reviews classified and unclassified intelligence data daily to build actionable assessments for regional or topical portfolios, develops products by request and proposes new ones, coordinates with analysts across the intelligence community, and briefs warfighters and policymakers.",
+      "key_skills": [
+        "intelligence analysis",
+        "data analysis",
+        "intelligence tradecraft",
+        "analytic tools",
+        "classified data",
+        "unclassified data",
+        "strategic analysis",
+        "problem-solving"
+      ],
+      "core_skills": [
+        "analytical skills",
+        "problem-solving mindset",
+        "intelligence tradecraft standards",
+        "IC collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "account-director--fe-openai-50728071": {
+      "summary": "Drives federal AI sales opportunities through account management, strategic partnership, and revenue forecasting while collaborating with engineering and solutions teams to deploy AI solutions for government customers.",
+      "key_skills": [
+        "federal sales",
+        "ai deployment",
+        "government contracts",
+        "revenue forecasting",
+        "market intelligence",
+        "customer strategy",
+        "technical sales",
+        "federal account management"
+      ],
+      "core_skills": [
+        "federal government sales",
+        "revenue target ownership",
+        "complex deal strategy",
+        "government contracting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-director--st-openai-50728071": {
+      "summary": "Drives state and local government AI sales through the full customer lifecycle, managing revenue targets and partnerships with government agencies.",
+      "key_skills": [
+        "government",
+        "sales",
+        "ai",
+        "strategy",
+        "revenue",
+        "customer",
+        "partnership",
+        "management"
+      ],
+      "core_skills": [
+        "government",
+        "sales",
+        "ai",
+        "strategy"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "ai-deployment-engine-openai-50728071": {
+      "summary": "AI Deployment Engineer partners with government agencies to ideate, build, and deploy GenAI applications through technical guidance and strategic collaboration.",
+      "key_skills": [
+        "python",
+        "javascript",
+        "generative ai",
+        "ai deployment",
+        "api integration",
+        "machine learning",
+        "public sector",
+        "government"
+      ],
+      "core_skills": [
+        "technical consulting",
+        "genai implementation",
+        "strategic guidance",
+        "public sector collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ai-success-engineer--openai-50728071": {
+      "summary": "AI Success Engineer drives post-sales technical adoption and deployment for enterprise customers, ensuring seamless integration and value realization through hands-on technical enablement and strategic use case guidance.",
+      "key_skills": [
+        "ai",
+        "technical",
+        "customer",
+        "adoption",
+        "deployment",
+        "program",
+        "management",
+        "consulting"
+      ],
+      "core_skills": [
+        "technical",
+        "program",
+        "management",
+        "customer"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "ai-support-engineer--openai-50728071": {
+      "summary": "Resolves complex customer issues, provides technical guidance, and scales support operations through automation and cross-functional collaboration in OpenAI's post-AGI support team.",
+      "key_skills": [
+        "user operations",
+        "technical support",
+        "troubleshooting",
+        "complex problem solving",
+        "agentic improvements",
+        "process automation",
+        "cross-functional collaboration",
+        "customer experience"
+      ],
+      "core_skills": [
+        "technical troubleshooting",
+        "complex problem solving",
+        "process automation",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "grc-program-manager--openai-50728071": {
+      "summary": "GRC Program Manager drives FedRAMP and agency-specific ATO processes, collaborates with engineering teams to implement security controls, and creates technical documentation for compliance.",
+      "key_skills": [
+        "fedramp",
+        "nist",
+        "rmf",
+        "cloud",
+        "kubernetes",
+        "terraform",
+        "vulnerability_management",
+        "audit_logging"
+      ],
+      "core_skills": [
+        "ato",
+        "compliance",
+        "program_management",
+        "security_frameworks"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "industrial-security--openai-50728071": {
+      "summary": "Industrial Security Lead supports tactical operations of OpenAI’s industrial security program, ensuring compliance with U.S. government regulations and managing secure facilities for government partners.",
+      "key_skills": [
+        "industrial security",
+        "government security",
+        "nispom",
+        "ic regulations",
+        "federal compliance",
+        "classified facilities",
+        "personnel security",
+        "ts/sci clearance"
+      ],
+      "core_skills": [
+        "government security",
+        "federal compliance",
+        "nispom",
+        "ic regulations"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "partner-manager--ope-openai-50728071": {
+      "summary": "Owns day-to-day management of strategic partner portfolios including AWS and other high-priority AI ecosystem relationships while coordinating cross-functional execution across business, technical, legal, and delivery stakeholders.",
+      "key_skills": [
+        "partner management",
+        "program management",
+        "strategic partnerships",
+        "cloud partnerships",
+        "aws",
+        "governance",
+        "cross-functional coordination",
+        "stakeholder management"
+      ],
+      "core_skills": [
+        "program management",
+        "strategic partnerships",
+        "cross-functional coordination",
+        "stakeholder management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-counsel--publ-openai-50728071": {
+      "summary": "Supports legal issues for OpenAI's government business line including federal, state, and local government contracts, compliance, and AI-related legal matters",
+      "key_skills": [
+        "federal acquisition regulation",
+        "contract review",
+        "bid protests",
+        "claims management",
+        "ethics compliance",
+        "data privacy compliance",
+        "security compliance",
+        "nist 800-171"
+      ],
+      "core_skills": [
+        "government contracting",
+        "federal procurement",
+        "ai legal compliance",
+        "contract automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-staff-softwar-openai-50728071": {
+      "summary": "Software Engineer who develops and optimizes customer-facing ChatGPT and OpenAI API features for public sector customers, working cross-functionally with security, compliance, and research teams to ensure safe and scalable AI deployment.",
+      "key_skills": [
+        "javascript",
+        "react",
+        "python",
+        "kubernetes",
+        "terraform",
+        "ai/ml"
+      ],
+      "core_skills": [
+        "problem_solving",
+        "cross_functional_collaboration",
+        "customer_engagement",
+        "technical_leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate-director---axios-36990867": {
+      "summary": "Oversees complex client relationships and ensures exceptional client delivery from kickoff to wrap, driving renewals and retention while collaborating with cross-functional teams.",
+      "key_skills": [
+        "client success",
+        "account management",
+        "revenue delivery",
+        "campaign management",
+        "cross-functional collaboration",
+        "strategic thinking",
+        "problem-solving",
+        "people leadership"
+      ],
+      "core_skills": [
+        "account management",
+        "revenue delivery",
+        "campaign management",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "manager--national----axios-36990867": {
+      "summary": "Manages subscriber acquisition and audience growth for Axios's national newsletters and SME audience initiatives through data-driven strategies and channel diversification.",
+      "key_skills": [
+        "growth marketing",
+        "audience acquisition",
+        "subscription growth",
+        "lifecycle marketing",
+        "paid media",
+        "analytical skills",
+        "martech",
+        "experimentation"
+      ],
+      "core_skills": [
+        "paid media expertise",
+        "analytical skills",
+        "experimentation",
+        "audience growth"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "robotics-engineer-appliedintuitio-36990867": {
+      "summary": "Robotics Engineer designs, implements, and tunes core robotics software for bi-dexterous robot platforms, working across the full stack from low-level controls to fleet deployment while collaborating with cross-functional teams.",
+      "key_skills": [
+        "robotics",
+        "c++",
+        "real-time systems",
+        "embedded systems",
+        "simulation",
+        "physics-based simulation",
+        "robot control",
+        "firmware"
+      ],
+      "core_skills": [
+        "c++",
+        "real-time systems",
+        "embedded systems",
+        "robotics"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "robotics-engineer--t-appliedintuitio-36990867": {
+      "summary": "Defines and owns technical architecture for humanoid robotics software, writes production code in Python and C++, and builds functional demos on physical hardware.",
+      "key_skills": [
+        "robotics",
+        "python",
+        "c++",
+        "machine_learning",
+        "deep_learning",
+        "perception",
+        "control_theory",
+        "state_estimation"
+      ],
+      "core_skills": [
+        "robotics_software",
+        "production_code",
+        "learning_based_policies",
+        "simulation_infrastructure"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "principal-post-sales-socure-36990867": {
+      "summary": "Ensures customers derive maximum value from Socure's identity verification and fraud prevention platform through technical assistance, implementation support, and proactive customer success strategies.",
+      "key_skills": [
+        "identity verification",
+        "fraud prevention",
+        "post-sales",
+        "solution consulting",
+        "customer success",
+        "technical assistance",
+        "implementation",
+        "advisory"
+      ],
+      "core_skills": [
+        "technical aptitude",
+        "client-facing experience",
+        "collaborative environment"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-solution-cons-socure-36990867": {
+      "summary": "Serves as a trusted technical and strategic advisor to large financial institutions, fintechs, and gaming platforms to help them fight fraud and unlock access using Socure's identity verification and fraud prevention solutions.",
+      "key_skills": [
+        "identity verification",
+        "fraud prevention",
+        "fraud analytics",
+        "risk management",
+        "compliance",
+        "regulatory frameworks"
+      ],
+      "core_skills": [
+        "technical consulting",
+        "solutioning",
+        "technical workshops",
+        "proof-of-concept design"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     }
   }
 }
