@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-31T12:13:46.208168+00:00",
-    "total_jobs": 695,
-    "enriched": 574
+    "built_at": "2026-06-01T11:07:20.720821+00:00",
+    "total_jobs": 691,
+    "enriched": 568
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -530,29 +530,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "software-engineer----modern-treasury-69996119": {
-      "summary": "Designs, deploys, and operates high-scale payment infrastructure using AWS, container orchestration, and automation to support multi-rail money movement and real-time payment systems.",
-      "key_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd",
-        "infrastructure_as_code",
-        "distributed_systems",
-        "observability",
-        "performance_tuning"
-      ],
-      "core_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "backend-senior-softw-vanta-69996119": {
       "summary": "Senior Software Engineer leads and mentors engineers, delivering high-value products for customers and infrastructure to scale security monitoring capabilities.",
@@ -2475,98 +2452,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "customer-marketing-l-socure-69996119": {
-      "summary": "The Customer Marketing Lead builds and executes customer marketing programs using ABM, events, and email campaigns to drive up-sell/cross-sell and renewal pipeline goals.",
-      "key_skills": [
-        "customer marketing",
-        "abm",
-        "email campaigns",
-        "virtual events",
-        "content marketing",
-        "renewal pipeline",
-        "upsell",
-        "cross-sell"
-      ],
-      "core_skills": [
-        "collaboration",
-        "strategic thinking",
-        "analytical skills",
-        "prioritization"
-      ],
-      "seniority_signal": "lead",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "data-scientist-ii----socure-69996119": {
-      "summary": "Develops and maintains graph-based algorithms and data pipelines for identity verification and fraud detection using large-scale datasets.",
-      "key_skills": [
-        "big data",
-        "machine learning",
-        "data pipelines",
-        "graph algorithms",
-        "entity resolution",
-        "fraud detection",
-        "feature engineering",
-        "sql"
-      ],
-      "core_skills": [
-        "spark",
-        "pyspark",
-        "aws",
-        "sql"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "data-scientist-ii----socure-69996120": {
-      "summary": "Data Scientist II at Socure bridges R&D and operations by building automated analysis frameworks, monitoring systems, and pipelines to accelerate model deployment and customer success.",
-      "key_skills": [
-        "python",
-        "sql",
-        "spark",
-        "airflow",
-        "databricks",
-        "machine_learning",
-        "data_engineering",
-        "aws"
-      ],
-      "core_skills": [
-        "data_pipeline_development",
-        "model_monitoring",
-        "closed_loop_improvement",
-        "cross_functional_collaboration"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "developer-marketing--socure-69996120": {
-      "summary": "Owns developer-facing go-to-market efforts, translating complex AI-driven identity capabilities into technical narratives and driving API adoption through cross-functional collaboration.",
-      "key_skills": [
-        "developer marketing",
-        "api strategy",
-        "technical content",
-        "product marketing",
-        "developer enablement",
-        "api integration",
-        "technical storytelling",
-        "developer community"
-      ],
-      "core_skills": [
-        "technical marketing",
-        "cross-functional partnership",
-        "pipeline generation",
-        "developer funnel optimization"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "director-of-governme-socure-69996120": {
       "summary": "Directs federal advocacy and policy engagement for Socure, shaping regulations on digital identity and fraud prevention while advising leadership on political dynamics and regulatory impacts.",
       "key_skills": [
@@ -2590,282 +2475,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "field-marketing-mana-socure-69996120": {
-      "summary": "Field Marketing Manager leads planning, execution, and optimization of corporate events, trade shows, and conferences to enhance brand presence and drive engagement with customers, partners, and industry leaders in B2B technology, fintech, and cybersecurity.",
-      "key_skills": [
-        "event_planning",
-        "marketing_events",
-        "trade_show_management",
-        "b2b_events",
-        "fintech",
-        "cybersecurity",
-        "fraud_prevention",
-        "event_marketing"
-      ],
-      "core_skills": [
-        "project_management",
-        "budgeting",
-        "vendor_management",
-        "cross_functional_collaboration"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "front-end-web-develo-socure-69996120": {
-      "summary": "Translates high-fidelity design concepts into pixel-precise, performant web experiences while owning front-end quality bar for Socure.com launch and scaling.",
-      "key_skills": [
-        "html",
-        "css",
-        "javascript",
-        "typescript",
-        "react",
-        "headless-cms",
-        "contentful",
-        "design-system"
-      ],
-      "core_skills": [
-        "front-end-development",
-        "performance-optimization",
-        "accessibility",
-        "component-based-frameworks"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "gtm-operations-analy-socure-69996120": {
-      "summary": "The GTM Operations Analyst partners with Sales, Customer Success, and Marketing teams to improve opportunity management, pipeline hygiene, and sales funnel effectiveness through cross-functional collaboration and process optimization.",
-      "key_skills": [
-        "gtm operations",
-        "revenue operations",
-        "sales operations",
-        "pipeline hygiene",
-        "forecasting",
-        "clari platform",
-        "sales enablement",
-        "sales compensation"
-      ],
-      "core_skills": [
-        "pipeline management",
-        "sales forecasting",
-        "stakeholder management",
-        "cross-functional collaboration"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "head-of-engineering--socure-69996120": {
-      "summary": "Head of Engineering for Agentic Workflows & Internal Tools defines strategy, architecture, and execution for building scalable workflow orchestration systems and ai-native internal tools to enable cross-departmental automation and operational excellence.",
-      "key_skills": [
-        "agentic workflows",
-        "workflow orchestration",
-        "ai-native",
-        "internal tools",
-        "distributed systems",
-        "cloud-native",
-        "genai",
-        "orchestration engines"
-      ],
-      "core_skills": [
-        "distributed systems",
-        "cloud-native",
-        "ai-native",
-        "genai"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "head-of-solution-con-socure-69996120": {
-      "summary": "Manages a team of Solution Consultants to support sales and product implementation for Workforce vertical, acting as the primary technical point-of-contact for clients and ensuring successful adoption of Socure's identity verification solutions.",
-      "key_skills": [
-        "solution consulting",
-        "workforce",
-        "risk management",
-        "compliance",
-        "data analytics",
-        "client relationship management",
-        "technical acumen",
-        "consultative selling"
-      ],
-      "core_skills": [
-        "leadership",
-        "strategic planning",
-        "problem-solving",
-        "cross-functional collaboration"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "principal-solution-c-socure-69996120": {
-      "summary": "Drives successful platform implementation, optimization, and adoption for enterprise clients through end-to-end technical consulting and cross-functional collaboration.",
-      "key_skills": [
-        "fraud_detection",
-        "risk_mitigation",
-        "api_integrations",
-        "enterprise_it",
-        "technical_troubleshooting",
-        "client_onboarding",
-        "solution_architecture",
-        "implementation"
-      ],
-      "core_skills": [
-        "technical_consulting",
-        "client_success",
-        "cross_functional_collaboration",
-        "strategic_impact"
-      ],
-      "seniority_signal": "principal",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "program-lead--market-socure-69996120": {
-      "summary": "Owns and elevates Socure’s Executive Bridge program by partnering with executive stakeholders, coordinating cross-functional teams, and ensuring high-quality executive communications and event support.",
-      "key_skills": [
-        "program management",
-        "executive communications",
-        "cross-functional coordination",
-        "stakeholder management",
-        "event planning",
-        "strategic planning",
-        "attention to detail",
-        "executive writing"
-      ],
-      "core_skills": [
-        "program management",
-        "executive communications",
-        "cross-functional coordination",
-        "stakeholder management"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-backend-engin-socure-69996120": {
-      "summary": "Senior Software Engineer designs, develops, and deploys distributed systems to combat identity fraud while mentoring junior engineers and ensuring high-quality, scalable solutions.",
-      "key_skills": [
-        "golang",
-        "distributed systems",
-        "microservices",
-        "restful apis",
-        "cloud computing",
-        "noSQL databases",
-        "big data analytics",
-        "machine learning"
-      ],
-      "core_skills": [
-        "design",
-        "problem-solving",
-        "analytical reasoning",
-        "concurrency"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-data-engineer-socure-69996120": {
-      "summary": "Designs and builds scalable data platforms and pipelines to power identity verification products and analytics, while owning end-to-end delivery of complex data initiatives.",
-      "key_skills": [
-        "data engineering",
-        "data pipelines",
-        "cloud computing",
-        "sql",
-        "python",
-        "apache spark",
-        "data warehousing",
-        "data modeling"
-      ],
-      "core_skills": [
-        "data platform design",
-        "end-to-end delivery",
-        "cloud-native technologies",
-        "data operations automation"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-data-scientis-socure-69996120": {
-      "summary": "Senior Data Scientist leads international eKYC modeling, entity resolution, and global identity graph development to deploy scalable identity verification solutions across diverse international markets.",
-      "key_skills": [
-        "big data",
-        "ml",
-        "graph-based",
-        "entity resolution",
-        "eKYC",
-        "international",
-        "data quality",
-        "model governance"
-      ],
-      "core_skills": [
-        "international eKYC modeling",
-        "global identity graph",
-        "data quality frameworks",
-        "regulatory compliance"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-frontend-engi-socure-69996120": {
-      "summary": "Senior Frontend Engineer builds intuitive, high-performance web applications that empower users to detect and prevent risk while owning end-to-end feature delivery from design to production.",
-      "key_skills": [
-        "typescript",
-        "react",
-        "design_systems",
-        "frontend",
-        "performance_optimization",
-        "accessibility",
-        "security",
-        "testing"
-      ],
-      "core_skills": [
-        "frontend_engineering",
-        "collaboration",
-        "mentorship",
-        "agile_delivery"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-manager--solu-socure-69996120": {
-      "summary": "Senior Manager leads DocV Solution Engineering team to accelerate customer adoption, enable field teams, and improve system reliability through short-term technical initiatives and close collaboration with Customer Success and Engineering teams.",
-      "key_skills": [
-        "api",
-        "sdk",
-        "enterprise_integration",
-        "customer_success",
-        "solution_engineering",
-        "technical_consulting",
-        "integration_debt",
-        "reliability"
-      ],
-      "core_skills": [
-        "leadership",
-        "cross_functional_collaboration",
-        "customer_engagement",
-        "technical_ownership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
     "senior-pre-sales-sol-socure-69996120": {
       "summary": "Serves as a trusted technical and strategic advisor to financial institutions, fintechs, and gaming platforms to help them fight fraud and unlock access using Socure's identity verification and fraud prevention solutions.",
       "key_skills": [
@@ -2883,52 +2492,6 @@
         "solutioning",
         "workshops",
         "data_driven"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-product-manag-socure-69996120": {
-      "summary": "Owns critical components of Socure's Document Verification platform, focusing on forensic engine, decisioning logic, and computer vision models to detect fraud vectors like injection attacks, deepfakes, and document manipulation while collaborating with Data Science and Engineering.",
-      "key_skills": [
-        "product_management",
-        "fraud_detection",
-        "computer_vision",
-        "machine_learning",
-        "identity_verification",
-        "decisioning",
-        "data_analysis",
-        "sql"
-      ],
-      "core_skills": [
-        "fraud_detection",
-        "computer_vision",
-        "machine_learning",
-        "identity_verification"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-software-engi-socure-69996120": {
-      "summary": "Builds and maintains scalable backend services for identity verification, integrates machine learning models for fraud detection, and ensures high performance and security for millions of users.",
-      "key_skills": [
-        "go",
-        "java",
-        "scalable",
-        "microservices",
-        "api",
-        "security",
-        "performance",
-        "cloud"
-      ],
-      "core_skills": [
-        "backend",
-        "microservices",
-        "api",
-        "security"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -2958,98 +2521,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "social-media-brand-m-socure-69996120": {
-      "summary": "Owns end-to-end management of executive and corporate social media accounts to drive brand awareness, support pipeline generation, and elevate leadership visibility through content strategy, campaign execution, and cross-functional collaboration.",
-      "key_skills": [
-        "social media marketing",
-        "content strategy",
-        "linkedin management",
-        "brand management",
-        "demand generation",
-        "executive communications",
-        "thought leadership",
-        "community building"
-      ],
-      "core_skills": [
-        "content strategy",
-        "linkedin management",
-        "demand generation",
-        "executive communications"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "software-development-socure-69996120": {
-      "summary": "Senior SDET designs and implements automated quality systems to ensure production and disaster recovery environments are fully functional and continuously validated through synthetic transactions and AI-driven failure analysis.",
-      "key_skills": [
-        "selenium",
-        "automated testing",
-        "api testing",
-        "playwright",
-        "typescript",
-        "python",
-        "java",
-        "cloud"
-      ],
-      "core_skills": [
-        "selenium",
-        "automated testing",
-        "api testing",
-        "playwright"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "software-engineer----socure-69996120": {
-      "summary": "Develops and maintains scalable backend services for document verification, integrates machine learning models to ensure ID authenticity and detect fraud, collaborates with cross-functional teams to deliver features and optimize system performance.",
-      "key_skills": [
-        "golang",
-        "microservices",
-        "api",
-        "cloud",
-        "machine_learning",
-        "computer_vision",
-        "scalable_systems",
-        "performance_optimization"
-      ],
-      "core_skills": [
-        "backend",
-        "api_design",
-        "microservice_architecture",
-        "security"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "staff-backend-engine-socure-69996120": {
-      "summary": "Staff Backend Engineer provides technical leadership by designing and implementing complex core components and distributed systems to eliminate identity fraud, while mentoring junior engineers and ensuring high-quality, scalable, secure products.",
-      "key_skills": [
-        "backend",
-        "distributed_systems",
-        "scalable_systems",
-        "security",
-        "system_design",
-        "performance_optimization",
-        "reliability",
-        "architecture"
-      ],
-      "core_skills": [
-        "system_design",
-        "distributed_systems",
-        "scalable_systems",
-        "security"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
     "staff-data-scientist-socure-69996120": {
       "summary": "Owns end-to-end development of data-driven solutions on the RiskOS platform, including data exploration, modeling, GenAI agent design, and production deployment.",
       "key_skills": [
@@ -3067,97 +2538,6 @@
         "risk management",
         "generative ai",
         "machine learning"
-      ],
-      "seniority_signal": "staff",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "strategic-operations-socure-69996120": {
-      "summary": "Strategic Operations Lead for Fintech segment, driving operational rigor, enabling customer-facing deliverables, and identifying growth opportunities for top fintech clients.",
-      "key_skills": [
-        "financial_modeling",
-        "stakeholder_management",
-        "operational_excellence",
-        "ai_tooling",
-        "revenue_execution",
-        "pipeline_hygiene",
-        "cross_functional_leadership",
-        "customer_focus"
-      ],
-      "core_skills": [
-        "financial_modeling",
-        "stakeholder_management",
-        "operational_excellence"
-      ],
-      "seniority_signal": "lead",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "technical-product-ma-socure-69996120": {
-      "summary": "Technical Product Marketing Manager develops technical understanding of Socure's products, translates complex technical details into compelling narratives, and enables stakeholders with clear technical messaging to drive product marketing strategy.",
-      "key_skills": [
-        "technical product marketing",
-        "ai-driven fraud prevention",
-        "identity verification",
-        "machine learning",
-        "cloud architectures",
-        "competitive intelligence",
-        "technical storytelling",
-        "cross-functional collaboration"
-      ],
-      "core_skills": [
-        "technical storytelling",
-        "competitive intelligence",
-        "analytical skills",
-        "cross-functional collaboration"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "vertical-marketing-l-socure-69996120": {
-      "summary": "The Vertical Marketing Lead owns vertical positioning, solution packaging, and partner go-to-market strategy for a defined GTM Pod, driving pipeline, revenue growth, and competitive differentiation in the identity and fraud infrastructure space.",
-      "key_skills": [
-        "vertical marketing",
-        "gto",
-        "product marketing",
-        "ai-driven",
-        "fraud prevention",
-        "identity verification",
-        "marketplace",
-        "b2b marketing"
-      ],
-      "core_skills": [
-        "vertical marketing strategy",
-        "ai-driven solutions",
-        "b2b marketing",
-        "cross-functional partnership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "ai-engineer-socure-86617442": {
-      "summary": "Designs and ships agentic systems to automate high-impact workflows across internal teams, enabling faster and more precise AI-driven identity solutions.",
-      "key_skills": [
-        "python",
-        "ai",
-        "llm",
-        "agentic",
-        "workflow",
-        "automation",
-        "systems",
-        "engineering"
-      ],
-      "core_skills": [
-        "python",
-        "ai",
-        "llm",
-        "agentic"
       ],
       "seniority_signal": "staff",
       "role_type": "ic",
@@ -7839,52 +7219,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "head-of-customer-ai--asana-64602313": {
-      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving post-sales organization into an AI-activation model by redesigning customer success, renewal, and services teams to drive AI product adoption and revenue growth.",
-      "key_skills": [
-        "ai",
-        "customer",
-        "transformation",
-        "product",
-        "engineering",
-        "revenue",
-        "customer_success",
-        "renewal"
-      ],
-      "core_skills": [
-        "strategic",
-        "operational",
-        "cross_functional",
-        "leadership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "principal-security-e-asana-64602313": {
-      "summary": "Provides technical leadership and execution across a complex global SaaS security environment, defining security architecture, setting technical direction, and driving cross-company alignment between Security, Engineering, Product, and Executive leadership.",
-      "key_skills": [
-        "cloud-security",
-        "security-architecture",
-        "threat-detection",
-        "access-control",
-        "identity-management",
-        "incident-response",
-        "risk-assessment",
-        "compliance"
-      ],
-      "core_skills": [
-        "security-architecture",
-        "threat-detection",
-        "access-control",
-        "identity-management"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "public-sector-channe-asana-64602313": {
       "summary": "Owns the Public Sector vertical for the AMER channel team, identifying and mitigating risks while developing programs that scale.",
       "key_skills": [
@@ -7930,29 +7264,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
-    },
-    "senior-engineering-m-asana-64602313": {
-      "summary": "Senior Engineering Manager, Security leads and mentors a multi-disciplinary engineering team to ensure infrastructure resilience and security compliance while collaborating with cross-functional teams.",
-      "key_skills": [
-        "security",
-        "engineering",
-        "management",
-        "leadership",
-        "cloud",
-        "architecture",
-        "threat",
-        "risk"
-      ],
-      "core_skills": [
-        "security",
-        "engineering",
-        "management",
-        "leadership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
     },
     "inside-account-execu-toast-64602313": {
       "summary": "Generates list of prospective restaurants, manages sales cycle from initial call to close, conducts demos, develops customized solutions, and partners with cross-functional teams to ensure delivery.",
@@ -8555,72 +7866,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "customer-support-ass-betterment-64602313": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "cx-automation-perfor-betterment-64602313": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "strategic-sales-mana-betterment-64602313": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "account-executive-netlify-64602313": {
       "summary": "Owns full sales cycle from prospecting to close for North American mid-market and enterprise accounts, driving revenue through AI-native development workflows and technical buyer engagement.",
       "key_skills": [
@@ -9213,52 +8458,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "head-of-data-science-socure-64602313": {
-      "summary": "Owns and drives the data science vision for Identity & Compliance, delivering measurable improvements in accuracy, coverage, latency, and customer impact across all products.",
-      "key_skills": [
-        "machine_learning",
-        "graph_neural_networks",
-        "fraud_detection",
-        "identity_verification",
-        "kyc",
-        "aml",
-        "risk_modeling",
-        "compliance"
-      ],
-      "core_skills": [
-        "machine_learning",
-        "graph_neural_networks",
-        "fraud_detection",
-        "identity_verification"
-      ],
-      "seniority_signal": "lead",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-ai-engineer-socure-64602313": {
-      "summary": "Designs and ships agentic systems to automate high-impact workflows across internal teams, enabling faster and more precise AI-driven identity solutions",
-      "key_skills": [
-        "ai",
-        "agentic",
-        "automation",
-        "python",
-        "llm",
-        "production",
-        "systems",
-        "engineering"
-      ],
-      "core_skills": [
-        "python",
-        "llm",
-        "agentic",
-        "automation"
-      ],
-      "seniority_signal": "staff",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
     "administrative-assis-cape-64602313": {
       "summary": "Owns operational details for leadership to ensure focus on strategic priorities, manages complex travel itineraries, and acts as a liaison for internal and external stakeholders.",
       "key_skills": [
@@ -9455,97 +8654,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
-    },
-    "jr--web-developer-dailypay-64602313": {
-      "summary": "Junior Front-End Developer supports DailyPay’s B2B and B2C marketing web ecosystem across WordPress (Elementor) and Contentful, building and maintaining high-performing marketing experiences with technical execution and QA practices.",
-      "key_skills": [
-        "html5",
-        "css3",
-        "javascript",
-        "wordpress",
-        "elementor",
-        "contentful",
-        "ab testing",
-        "a/b testing"
-      ],
-      "core_skills": [
-        "wordpress",
-        "elementor",
-        "contentful",
-        "ab testing"
-      ],
-      "seniority_signal": "junior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "large-enterprise-acc-dailypay-64602313": {
-      "summary": "The Large Enterprise Account Executive drives revenue from high-value accounts by partnering with C-suite executives to solve complex business challenges using DailyPay's technology platform.",
-      "key_skills": [
-        "sales",
-        "dealmaker",
-        "strategic",
-        "c-suite",
-        "product",
-        "tech",
-        "financial",
-        "analytical"
-      ],
-      "core_skills": [
-        "strategic_dealmaking",
-        "c-suite_partnership",
-        "process_tech_mastery",
-        "superior_business_acumen"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "senior-associate--ac-dailypay-64602313": {
-      "summary": "The Sr. Associate, Account Based Marketing (ABM) will drive upmarket motion in Large Enterprise and Strategic segments by scaling reach through intent data to identify, engage, and convert in-market buyers while acting as air traffic control for the intent engine.",
-      "key_skills": [
-        "account based marketing",
-        "project management",
-        "content marketing",
-        "account research",
-        "sales collaboration",
-        "data analysis",
-        "marketing automation",
-        "crm"
-      ],
-      "core_skills": [
-        "account based marketing",
-        "project management",
-        "data analysis"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "solutions-engineer-dailypay-64602313": {
-      "summary": "Solutions Engineer collaborates with Account Executives to secure partnerships with employers by understanding partner needs, demonstrating product capabilities, and building trusted advisor relationships with customer stakeholders.",
-      "key_skills": [
-        "solutions engineering",
-        "sales engineering",
-        "technical sales",
-        "product knowledge",
-        "saaS",
-        "sales consulting",
-        "partner engagement",
-        "sales process"
-      ],
-      "core_skills": [
-        "technical communication",
-        "client stakeholder engagement",
-        "enterprise solution delivery",
-        "sales objection handling"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
     },
     "project-manager-notable-64602313": {
       "summary": "Project Manager leads end-to-end execution of client projects in healthcare IT, managing timelines, resources, and stakeholder alignment to improve patient outcomes through automation and workflow optimization.",
@@ -10254,29 +9362,6 @@
         "cross_functional",
         "data_analysis",
         "learning_strategy"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "enterprise-account-e-zip-64602313": {
-      "summary": "You work with prospects to deliver ROI through Zip's AI procurement platform, using sales intelligence to close enterprise deals while building product expertise and adapting to rapid company growth.",
-      "key_skills": [
-        "sales",
-        "prospecting",
-        "product_consultant",
-        "procurement",
-        "sales_intelligence",
-        "sales_cycle",
-        "demo_ready",
-        "adaptable"
-      ],
-      "core_skills": [
-        "sales",
-        "prospecting",
-        "product_consultant",
-        "procurement"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -11879,52 +10964,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "ai-copywriter-socure-50728071": {
-      "summary": "AI Copywriter refines AI-generated content for blogs, case studies, product pages, email campaigns, and social posts while maintaining brand voice and compliance.",
-      "key_skills": [
-        "ai copywriting",
-        "content editing",
-        "brand storytelling",
-        "ai tools",
-        "content calendar",
-        "cms",
-        "content strategy",
-        "content production"
-      ],
-      "core_skills": [
-        "ai content generation",
-        "editing precision",
-        "brand voice consistency",
-        "content deadlines"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "unknown"
-    },
-    "head-of-data-science-socure-50728071": {
-      "summary": "Owns research agenda for fraud patterns using Socure's identity graph to predict fraud evolution and influence product strategy through rigorous economic analysis and regulatory intelligence.",
-      "key_skills": [
-        "research",
-        "econometrics",
-        "fraud",
-        "data_analysis",
-        "causal_inference",
-        "regulatory_intelligence",
-        "behavioral_telemetry",
-        "identity_graph"
-      ],
-      "core_skills": [
-        "econometrics",
-        "fraud_analysis",
-        "regulatory_intelligence",
-        "data_analysis"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "account-director--fe-openai-50728071": {
       "summary": "Drives federal AI sales opportunities through account management, strategic partnership, and revenue forecasting while collaborating with engineering and solutions teams to deploy AI solutions for government customers.",
       "key_skills": [
@@ -12314,17 +11353,337 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "principal-post-sales-socure-36990867": {
-      "summary": "Ensures customers derive maximum value from Socure's identity verification and fraud prevention platform through technical assistance, implementation support, and proactive customer success strategies.",
+    "principal-security-e-asana-09617801": {
+      "summary": "Provides technical leadership and execution across a complex, global, high-growth SaaS environment, defining security architecture and setting technical direction while driving cross-company alignment between Security, Engineering, Product, and Executive leadership.",
+      "key_skills": [
+        "security engineering",
+        "security architecture",
+        "least-privilege access",
+        "scalable detection",
+        "automation",
+        "risk management",
+        "incident response",
+        "security policy"
+      ],
+      "core_skills": [
+        "security engineering",
+        "security architecture",
+        "least-privilege access",
+        "scalable detection"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-asana-09617801": {
+      "summary": "This role leads and mentors a security engineering team, owns the security engineering roadmap, and drives high-impact security initiatives in a high-growth SaaS environment.",
+      "key_skills": [
+        "security",
+        "engineering",
+        "management",
+        "leadership",
+        "infrastructure",
+        "resilience",
+        "tooling",
+        "high-growth"
+      ],
+      "core_skills": [
+        "security engineering",
+        "technical mentorship",
+        "people management",
+        "high-impact security initiatives"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director-of-defense--appliedintuitio-09617801": {
+      "summary": "Directs security and IT strategy for defense business unit across classified and unclassified environments, leading teams of 10+ security and IT professionals to ensure secure operations for government programs.",
+      "key_skills": [
+        "security",
+        "compliance",
+        "it",
+        "defense",
+        "cui",
+        "classified"
+      ],
+      "core_skills": [
+        "security_architecture",
+        "compliance",
+        "it_operations",
+        "defense"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ai-copywriter-socure-09617801": {
+      "summary": "AI Copywriter refines AI-generated content for blogs, case studies, product pages, email campaigns, and social posts while maintaining brand voice and compliance.",
+      "key_skills": [
+        "ai copywriting",
+        "content editing",
+        "brand storytelling",
+        "ai tools",
+        "content calendar",
+        "cms",
+        "content strategy",
+        "content production"
+      ],
+      "core_skills": [
+        "ai content generation",
+        "editing precision",
+        "brand voice consistency",
+        "content deadlines"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "ai-engineer-socure-09617801": {
+      "summary": "Designs and ships agentic systems to automate high-impact workflows across internal teams like sales, marketing, and finance, using LLMs and AI frameworks to improve efficiency and decision-making.",
+      "key_skills": [
+        "python",
+        "llm",
+        "agentic",
+        "ai",
+        "ml",
+        "production",
+        "automation",
+        "systems"
+      ],
+      "core_skills": [
+        "python",
+        "llm",
+        "agentic",
+        "ai"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "customer-marketing-l-socure-09617801": {
+      "summary": "The Customer Marketing Lead builds and executes customer marketing programs using ABM, events, and email campaigns to drive up-sell/cross-sell and renewal pipeline goals.",
+      "key_skills": [
+        "abm",
+        "customer_marketing",
+        "email_campaigns",
+        "virtual_events",
+        "content_marketing",
+        "renewal_pipeline",
+        "upsell_crosssell",
+        "strategic_thinking"
+      ],
+      "core_skills": [
+        "collaboration",
+        "analytical_skills",
+        "prioritization",
+        "strategic_thinking"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "data-scientist-ii----socure-09617801": {
+      "summary": "Builds automated analysis frameworks and monitoring systems to bridge data science R&D and customer applications, enabling faster client onboarding and model improvements through real-time feedback loops.",
+      "key_skills": [
+        "python",
+        "sql",
+        "spark",
+        "airflow",
+        "databricks",
+        "machine_learning",
+        "data_engineering",
+        "aws"
+      ],
+      "core_skills": [
+        "data_pipeline_development",
+        "model_monitoring",
+        "closed_loop_improvement",
+        "cross_functional_collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "developer-marketing--socure-09617801": {
+      "summary": "Owns developer-facing go-to-market efforts for Socure's API and platform products, acting as the connective tissue between Product, Engineering, and field teams to drive technical adoption and integration.",
+      "key_skills": [
+        "developer marketing",
+        "api strategy",
+        "technical content",
+        "product marketing",
+        "developer enablement",
+        "api integration",
+        "technical storytelling",
+        "governance"
+      ],
+      "core_skills": [
+        "technical marketing",
+        "cross-functional partnership",
+        "pipeline metrics",
+        "developer funnel"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "field-marketing-mana-socure-09617801": {
+      "summary": "Field Marketing Manager leads planning, execution, and optimization of corporate events, trade shows, and conferences to enhance brand presence and drive engagement with customers, partners, and industry leaders.",
+      "key_skills": [
+        "event planning",
+        "marketing events",
+        "trade shows",
+        "corporate events",
+        "b2b events",
+        "fintech",
+        "cybersecurity",
+        "fraud prevention"
+      ],
+      "core_skills": [
+        "event strategy",
+        "cross-functional collaboration",
+        "budget management",
+        "vendor negotiation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "front-end-web-develo-socure-09617801": {
+      "summary": "Front-end web developer who translates high-fidelity design concepts into pixel-precise, performant web experiences while owning front-end quality bar for brand sites and marketing campaigns.",
+      "key_skills": [
+        "html",
+        "css",
+        "javascript",
+        "typescript",
+        "react",
+        "headless_cms",
+        "contentful",
+        "component_based_frameworks"
+      ],
+      "core_skills": [
+        "front_end_development",
+        "design_systems",
+        "performance_optimization",
+        "accessibility"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "gtm-operations-analy-socure-09617801": {
+      "summary": "The GTM Operations Analyst partners with Sales, Customer Success, and Marketing teams to improve opportunity management, pipeline hygiene, and sales funnel effectiveness through cross-functional collaboration and process optimization.",
+      "key_skills": [
+        "gtm operations",
+        "revenue operations",
+        "sales operations",
+        "pipeline hygiene",
+        "forecasting",
+        "clari platform",
+        "sales enablement",
+        "sales compensation"
+      ],
+      "core_skills": [
+        "pipeline hygiene",
+        "forecasting",
+        "clari platform",
+        "sales enablement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "head-of-data-science-socure-09617801": {
+      "summary": "Owns and drives the data science vision for Identity & Compliance, delivering measurable improvements in accuracy, coverage, latency, and customer impact across all products.",
+      "key_skills": [
+        "machine_learning",
+        "graph_neural_networks",
+        "fraud_detection",
+        "identity_verification",
+        "kyc",
+        "aml",
+        "risk_modeling",
+        "compliance"
+      ],
+      "core_skills": [
+        "machine_learning",
+        "graph_neural_networks",
+        "fraud_detection",
+        "identity_verification"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "head-of-engineering--socure-09617801": {
+      "summary": "Head of Engineering for Agentic Workflows & Internal Tools defines strategy, architecture, and execution for building scalable agentic workflows and internal tools to enable AI-native operations across Socure's departments.",
+      "key_skills": [
+        "agentic workflows",
+        "workflow orchestration",
+        "ai-native",
+        "internal tools",
+        "genai",
+        "distributed systems",
+        "cloud-native",
+        "ai/llm"
+      ],
+      "core_skills": [
+        "workflow systems",
+        "orchestration frameworks",
+        "ai transformation",
+        "cross-org enablement"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "head-of-solution-con-socure-09617801": {
+      "summary": "Manages a team of Solution Consultants to support sales and product implementation for Socure's Workforce vertical, acting as the technical expert for all products and client accounts.",
+      "key_skills": [
+        "solution_consulting",
+        "workforce",
+        "risk_management",
+        "compliance",
+        "data_analytics",
+        "client_relationships",
+        "technical_acumen",
+        "consultative_selling"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic_planning",
+        "cross_functional_collaboration",
+        "problem_solving"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "principal-post-sales-socure-09617801": {
+      "summary": "Ensures customers derive maximum value from Socure's identity verification and fraud prevention platform through technical assistance, relationship building, and proactive value delivery.",
       "key_skills": [
         "identity verification",
         "fraud prevention",
         "post-sales",
         "solution consulting",
-        "customer success",
         "technical assistance",
-        "implementation",
-        "advisory"
+        "customer success",
+        "net dollar retention",
+        "upsell"
       ],
       "core_skills": [
         "technical aptitude",
@@ -12336,26 +11695,532 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "senior-solution-cons-socure-36990867": {
-      "summary": "Serves as a trusted technical and strategic advisor to large financial institutions, fintechs, and gaming platforms to help them fight fraud and unlock access using Socure's identity verification and fraud prevention solutions.",
+    "principal-solution-c-socure-09617801": {
+      "summary": "Drives end-to-end platform implementation, optimization, and adoption for enterprise clients through technical consulting, hyper-care support, and solution customization.",
       "key_skills": [
-        "identity verification",
-        "fraud prevention",
-        "fraud analytics",
-        "risk management",
-        "compliance",
-        "regulatory frameworks"
+        "fraud_detection",
+        "risk_mitigation",
+        "api_integration",
+        "enterprise_it",
+        "technical_troubleshooting",
+        "client_onboarding",
+        "solution_architecture",
+        "post_sales_consulting"
       ],
       "core_skills": [
-        "technical consulting",
-        "solutioning",
-        "technical workshops",
-        "proof-of-concept design"
+        "technical_consulting",
+        "client_success",
+        "cross_functional_collaboration",
+        "fraud_analysis"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "program-lead--market-socure-09617801": {
+      "summary": "Owns and elevates Socure’s Executive Bridge program by partnering with executive stakeholders, coordinating cross-functional teams, and ensuring high-quality executive communications and event support.",
+      "key_skills": [
+        "program management",
+        "executive communications",
+        "cross-functional leadership",
+        "stakeholder coordination",
+        "event planning",
+        "strategic planning",
+        "attention to detail",
+        "executive operations"
+      ],
+      "core_skills": [
+        "program management",
+        "executive communications",
+        "cross-functional leadership",
+        "stakeholder coordination"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-ai-engineer-socure-09617801": {
+      "summary": "Designs and ships agentic systems to automate high-impact workflows across internal teams like sales, marketing, and finance, using LLMs and AI tools to improve efficiency and decision-making.",
+      "key_skills": [
+        "python",
+        "llm",
+        "agentic",
+        "ai",
+        "ml",
+        "production",
+        "automation",
+        "systems"
+      ],
+      "core_skills": [
+        "python",
+        "llm",
+        "agentic",
+        "ai"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-backend-engin-socure-09617801": {
+      "summary": "Senior Software Engineer designs, develops, and deploys distributed systems to combat identity fraud while mentoring junior engineers and ensuring high-quality, scalable solutions.",
+      "key_skills": [
+        "golang",
+        "distributed systems",
+        "microservices",
+        "restful apis",
+        "cloud computing",
+        "noSQL databases",
+        "big data analytics",
+        "machine learning"
+      ],
+      "core_skills": [
+        "design",
+        "problem-solving",
+        "analytical skills",
+        "concurrency"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "senior-data-engineer-socure-09617801": {
+      "summary": "Designs and builds scalable data platforms and pipelines to power identity verification products and analytics, while owning end-to-end delivery of complex data initiatives.",
+      "key_skills": [
+        "data engineering",
+        "data pipelines",
+        "cloud computing",
+        "sql",
+        "python",
+        "apache spark",
+        "data warehousing",
+        "data modeling"
+      ],
+      "core_skills": [
+        "data platform design",
+        "end-to-end delivery",
+        "cloud-native technologies",
+        "data operations automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-data-scientis-socure-09617801": {
+      "summary": "Senior Data Scientist leads the design and deployment of ML and graph-based systems for international eKYC, focusing on entity resolution, identity graph evolution, and regulatory compliance across diverse global markets.",
+      "key_skills": [
+        "data_science",
+        "machine_learning",
+        "graph_algorithms",
+        "international_e_kyc",
+        "entity_resolution",
+        "anomaly_detection",
+        "data_quality",
+        "model_governance"
+      ],
+      "core_skills": [
+        "machine_learning",
+        "graph_algorithms",
+        "data_quality",
+        "model_governance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-frontend-engi-socure-09617801": {
+      "summary": "Senior Frontend Engineer builds intuitive, high-performance web applications that empower users to detect and prevent risk while collaborating with cross-functional teams to deliver customer-centric products.",
+      "key_skills": [
+        "typescript",
+        "react",
+        "design_systems",
+        "frontend",
+        "performance_optimization",
+        "accessibility",
+        "security",
+        "node_graph_libraries"
+      ],
+      "core_skills": [
+        "frontend_engineering",
+        "cross_functional_collaboration",
+        "end_to_end_feature_ownership",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--solu-socure-09617801": {
+      "summary": "Senior Manager leads DocV Solution Engineering team to accelerate customer adoption, enable field teams, and improve system reliability through short-term technical initiatives and close collaboration with Customer Success and Engineering teams.",
+      "key_skills": [
+        "api",
+        "sdk",
+        "enterprise_integration",
+        "customer_success",
+        "solution_engineering",
+        "technical_consulting",
+        "integration_patterns",
+        "reliability"
+      ],
+      "core_skills": [
+        "api",
+        "sdk",
+        "enterprise_integration",
+        "customer_success"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-product-manag-socure-09617801": {
+      "summary": "Owns critical components of Socure's Document Verification platform, focusing on forensic engine, decisioning logic, and computer vision models to detect fraud vectors like injection attacks and deepfakes while shaping scalable decisioning frameworks.",
+      "key_skills": [
+        "product_management",
+        "fraud_detection",
+        "machine_learning",
+        "computer_vision",
+        "decisioning",
+        "identity_verification",
+        "fraud_prevention",
+        "document_verification"
+      ],
+      "core_skills": [
+        "product_management",
+        "fra:fraud_detection",
+        "machine_learning",
+        "computer_vision"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-software-engi-socure-09617801": {
+      "summary": "Builds and maintains scalable backend services for identity verification, collaborating with cross-functional teams to integrate machine learning models and ensure high-performance, secure systems.",
+      "key_skills": [
+        "go",
+        "java",
+        "scalable",
+        "microservices",
+        "api",
+        "security",
+        "performance",
+        "cloud"
+      ],
+      "core_skills": [
+        "backend",
+        "microservices",
+        "api",
+        "security"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-solution-cons-socure-09617801": {
+      "summary": "Senior Solution Consultant serves as a technical and strategic advisor to large financial institutions, fintechs, and gaming platforms to help them combat fraud and unlock access using Socure's identity verification and fraud prevention solutions.",
+      "key_skills": [
+        "identity verification",
+        "fraud prevention",
+        "technical consulting",
+        "solutions engineering",
+        "pre-sales",
+        "cloud platforms",
+        "ml/ds",
+        "fraud analytics"
+      ],
+      "core_skills": [
+        "technical acumen",
+        "domain expertise",
+        "cross-functional collaboration",
+        "consultative selling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "social-media-brand-m-socure-09617801": {
+      "summary": "Owns end-to-end management of executive and corporate social media accounts to drive brand awareness, support pipeline generation, and elevate leadership visibility through content strategy, campaign execution, and cross-functional collaboration.",
+      "key_skills": [
+        "social media marketing",
+        "content strategy",
+        "linkedin management",
+        "brand management",
+        "demand generation",
+        "executive communications",
+        "thought leadership",
+        "community building"
+      ],
+      "core_skills": [
+        "content strategy",
+        "linkedin management",
+        "demand generation",
+        "executive communications"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "software-development-socure-09617801": {
+      "summary": "Senior SDET designs and implements automated quality systems to ensure disaster recovery and production environments are continuously validated and self-diagnosing.",
+      "key_skills": [
+        "selenium",
+        "automated testing",
+        "functional validation",
+        "disaster recovery",
+        "production health monitoring",
+        "ai-driven failure analysis",
+        "observability",
+        "system diagnostics"
+      ],
+      "core_skills": [
+        "automated testing",
+        "system diagnostics",
+        "observability",
+        "ai-driven failure analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "software-engineer----socure-09617801": {
+      "summary": "Builds and enhances core server-side components for document verification, integrating machine learning models to ensure ID authenticity and detect fraud while collaborating with cross-functional teams.",
+      "key_skills": [
+        "golang",
+        "microservices",
+        "api",
+        "machine_learning",
+        "computer_vision",
+        "scalable_systems",
+        "performance_optimization",
+        "security"
+      ],
+      "core_skills": [
+        "backend",
+        "distributed_systems",
+        "api_design",
+        "cloud"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "staff-backend-engine-socure-09617801": {
+      "summary": "Provides technical leadership by designing and implementing complex core components and distributed systems to eliminate identity fraud while mentoring junior engineers and ensuring high-quality, scalable, secure products.",
+      "key_skills": [
+        "backend",
+        "distributed_systems",
+        "scalable_systems",
+        "security",
+        "system_design",
+        "performance_optimization",
+        "reliability"
+      ],
+      "core_skills": [
+        "technical_leadership",
+        "complex_systems_architecture",
+        "code_reviews",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "strategic-operations-socure-09617801": {
+      "summary": "Strategic Operations Lead for Fintech segment, driving operational rigor and enabling customer-facing deliverables for top fintechs while supporting GTM execution and strategy.",
+      "key_skills": [
+        "financial_modeling",
+        "stakeholder_management",
+        "project_management",
+        "operational_excellence",
+        "ai_tooling",
+        "revenue_execution",
+        "pipeline_hygiene",
+        "cross_functional_leadership"
+      ],
+      "core_skills": [
+        "financial_modeling",
+        "stakeholder_management",
+        "project_management"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "technical-product-ma-socure-09617801": {
+      "summary": "Technical Product Marketing Manager crafts compelling narratives from complex technical details to drive product strategy and market positioning for AI-driven identity verification solutions.",
+      "key_skills": [
+        "technical product marketing",
+        "ai-driven fraud prevention",
+        "identity verification",
+        "machine learning",
+        "cloud architectures",
+        "competitive intelligence",
+        "technical storytelling",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "technical storytelling",
+        "competitive intelligence",
+        "machine learning",
+        "cloud architectures"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "vertical-marketing-l-socure-09617801": {
+      "summary": "The Vertical Marketing Lead owns vertical positioning, solution packaging, and partner go-to-market strategy for a defined GTM Pod, driving pipeline, revenue growth, and competitive differentiation in a high-growth SaaS identity and fraud technology company.",
+      "key_skills": [
+        "ai",
+        "identity",
+        "fraud",
+        "verification",
+        "marketplace",
+        "vertical",
+        "marketing",
+        "strategy"
+      ],
+      "core_skills": [
+        "vertical_marketing",
+        "gaming",
+        "product_marketing",
+        "sales"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "jr--web-developer-dailypay-09617801": {
+      "summary": "Junior Front-End Developer supports DailyPay’s B2B and B2C marketing web ecosystem across WordPress (Elementor) and Contentful, building and maintaining high-performing marketing experiences with technical execution and QA practices.",
+      "key_skills": [
+        "wordpress",
+        "elementor",
+        "contentful",
+        "html5",
+        "css3",
+        "javascript",
+        "php",
+        "a/b testing"
+      ],
+      "core_skills": [
+        "wordpress",
+        "elementor",
+        "contentful",
+        "a/b testing"
+      ],
+      "seniority_signal": "junior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "large-enterprise-acc-dailypay-09617801": {
+      "summary": "Drives revenue from high-value enterprise accounts by partnering with C-suite executives to solve complex business challenges using DailyPay's technology platform.",
+      "key_skills": [
+        "sales",
+        "dealmaker",
+        "strategic",
+        "c-suite",
+        "product",
+        "tech",
+        "financial",
+        "analytical"
+      ],
+      "core_skills": [
+        "strategic_dealmaker",
+        "c-suite_partner",
+        "process_tech_mastery",
+        "superior_business_acumen"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-associate--ac-dailypay-09617801": {
+      "summary": "The Sr. Associate, Account Based Marketing (ABM) will drive upmarket motion into Large Enterprise and Strategic segments by scaling reach through intent data to identify, engage, and convert in-market buyers.",
+      "key_skills": [
+        "account based marketing",
+        "project management",
+        "content marketing",
+        "account research",
+        "sales collaboration",
+        "data analysis",
+        "marketing automation",
+        "crm"
+      ],
+      "core_skills": [
+        "account based marketing",
+        "project management",
+        "data analysis",
+        "sales collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "solutions-engineer-dailypay-09617801": {
+      "summary": "Solutions engineer who partners with account executives to secure partnerships with employers by understanding partner needs, demonstrating product capabilities, and building trusted advisor relationships with customer stakeholders.",
+      "key_skills": [
+        "solutions engineering",
+        "sales engineering",
+        "technical communication",
+        "product knowledge",
+        "sales process",
+        "customer engagement",
+        "demo development",
+        "sales objections handling"
+      ],
+      "core_skills": [
+        "technical communication",
+        "product knowledge",
+        "sales process",
+        "customer engagement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "enterprise-account-e-zip-09617801": {
+      "summary": "You work with prospects to deliver ROI through Zip's AI procurement platform, using sales intelligence to close enterprise deals while building product expertise and adapting to rapid company growth.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "product_consultant",
+        "procurement",
+        "sales_intelligence",
+        "sales_cycle",
+        "demo_ready",
+        "adaptable"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "product_consultant",
+        "procurement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
