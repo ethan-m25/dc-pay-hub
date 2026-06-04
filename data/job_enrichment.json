@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T10:53:19.458062+00:00",
-    "total_jobs": 675,
-    "enriched": 532
+    "built_at": "2026-06-04T09:57:22.674867+00:00",
+    "total_jobs": 683,
+    "enriched": 547
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -11396,6 +11396,346 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "director--accounting-axios-81433498": {
+      "summary": "Directs accounting operations, monthly close, treasury, tax, audit, compliance, and finance systems for a scaling business.",
+      "key_skills": [
+        "accounting",
+        "close",
+        "treasury",
+        "tax",
+        "audit",
+        "compliance",
+        "finance",
+        "systems"
+      ],
+      "core_skills": [
+        "execution",
+        "process_improvement",
+        "automation",
+        "ai"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "principal-security-e-asana-81433498": {
+      "summary": "Provides technical leadership and execution across a complex, global, high-growth SaaS environment, defining security architecture and setting technical direction while driving cross-company alignment between Security, Engineering, Product, and Executive leadership.",
+      "key_skills": [
+        "security engineering",
+        "security architecture",
+        "least-privilege access",
+        "scalable detection",
+        "automation",
+        "risk management",
+        "incident response",
+        "security policy"
+      ],
+      "core_skills": [
+        "security engineering",
+        "security architecture",
+        "least-privilege access",
+        "scalable detection"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-asana-81433498": {
+      "summary": "This role leads and mentors a security engineering team, owns the security engineering roadmap, and drives high-impact security initiatives in a high-growth SaaS environment.",
+      "key_skills": [
+        "security",
+        "engineering",
+        "management",
+        "leadership",
+        "infrastructure",
+        "resilience",
+        "tooling",
+        "high-growth"
+      ],
+      "core_skills": [
+        "security engineering",
+        "technical mentorship",
+        "people management",
+        "high-impact security initiatives"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-account-execu-cloudflare-81433498": {
+      "summary": "Digital Native Account Executives at Cloudflare sell into high-growth tech companies in North America, driving product discussions and technical solutions while expanding customer accounts through acquisition, expansion, and renewal.",
+      "key_skills": [
+        "sales",
+        "b2b",
+        "saaS",
+        "technical",
+        "consultative",
+        "acquisition",
+        "expansion",
+        "renewal"
+      ],
+      "core_skills": [
+        "sales",
+        "b2b",
+        "saaS",
+        "technical"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-majors-accoun-cloudflare-81433498": {
+      "summary": "Senior Majors Account Executive leads strategic customer engagements and digital transformation for enterprise clients, focusing on high-value platform sales and C-suite relationships.",
+      "key_skills": [
+        "sales",
+        "strategy",
+        "enterprise_architecture",
+        "c-suite_engagement",
+        "digital_transformation",
+        "forecasting",
+        "pipeline_management",
+        "executive_sponsorship"
+      ],
+      "core_skills": [
+        "enterprise_architecture",
+        "c-suite_engagement",
+        "digital_transformation",
+        "forecasting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-majors-accoun-cloudflare-81433499": {
+      "summary": "Majors Account Executive leads strategic customer engagements for IBM and other accounts, driving platform sales and digital transformation while managing complex cross-functional teams.",
+      "key_skills": [
+        "sales",
+        "enterprise",
+        "architecture",
+        "strategy",
+        "forecasting",
+        "pipeline",
+        "c-suite",
+        "executive"
+      ],
+      "core_skills": [
+        "sales",
+        "strategy"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-named-account-cloudflare-81433499": {
+      "summary": "Sales professional focused on federal government market with technical background to drive engagement and revenue targets through account management and strategic relationships.",
+      "key_skills": [
+        "sales",
+        "federal",
+        "government",
+        "technical",
+        "networking",
+        "customer",
+        "relationship"
+      ],
+      "core_skills": [
+        "sales",
+        "federal",
+        "government",
+        "technical"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-territory-acc-cloudflare-81433499": {
+      "summary": "This role focuses on acquiring new mid-market accounts and expanding existing customer accounts through sales and technical engagement across multiple teams.",
+      "key_skills": [
+        "sales",
+        "b2b",
+        "customer",
+        "acquisition",
+        "upsell",
+        "cross_sell",
+        "renewal",
+        "territory"
+      ],
+      "core_skills": [
+        "sales",
+        "communication",
+        "organization",
+        "self-motivated"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-solution-arch-contentful-81433499": {
+      "summary": "Senior Personalization Solution Architect designs and implements advanced personalization and experimentation solutions using Contentful Personalization, working with customer engineering and product teams to reduce implementation risk and accelerate time to value.",
+      "key_skills": [
+        "personalization",
+        "experimentation",
+        "audience strategy",
+        "decisioning",
+        "experimentation frameworks",
+        "data segmentation",
+        "content delivery",
+        "personalization architecture"
+      ],
+      "core_skills": [
+        "personalization",
+        "experimentation",
+        "audience strategy",
+        "decisioning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "sr--principal-custom-pagerduty-81433499": {
+      "summary": "Senior Principal Customer Success Manager builds executive-level trusted advisor relationships with customers' IT, Engineering, and Support organizations to accelerate their digital journey through real-time operations.",
+      "key_skills": [
+        "customer success",
+        "digital operations",
+        "devops",
+        "it monitoring",
+        "saaS",
+        "public sector"
+      ],
+      "core_skills": [
+        "trusted advisor",
+        "risk mitigation",
+        "business value",
+        "adoption path"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "large-enterprise-acc-dailypay-81433499": {
+      "summary": "Drives revenue from high-value enterprise accounts by partnering with C-suite executives to solve complex business challenges using DailyPay's technology platform.",
+      "key_skills": [
+        "sales",
+        "dealmaker",
+        "strategic",
+        "c-suite",
+        "product",
+        "tech",
+        "financial",
+        "analytical"
+      ],
+      "core_skills": [
+        "strategic_dealmaker",
+        "c-suite_partner",
+        "process_tech_mastery",
+        "superior_business_acumen"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-associate--ac-dailypay-81433499": {
+      "summary": "The Sr. Associate, Account Based Marketing (ABM) will drive upmarket motion into Large Enterprise and Strategic segments by scaling reach through intent data to identify, engage, and convert in-market buyers.",
+      "key_skills": [
+        "account based marketing",
+        "project management",
+        "content marketing",
+        "account research",
+        "sales collaboration",
+        "data analysis",
+        "marketing automation",
+        "crm"
+      ],
+      "core_skills": [
+        "account based marketing",
+        "project management",
+        "data analysis",
+        "sales collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "solutions-engineer-dailypay-81433499": {
+      "summary": "Solutions engineer who partners with account executives to secure partnerships with employers by understanding partner needs, demonstrating product capabilities, and building trusted advisor relationships with customer stakeholders.",
+      "key_skills": [
+        "solutions engineering",
+        "sales engineering",
+        "technical communication",
+        "product knowledge",
+        "sales process",
+        "customer engagement",
+        "demo development",
+        "sales objections handling"
+      ],
+      "core_skills": [
+        "technical communication",
+        "product knowledge",
+        "sales process",
+        "customer engagement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "reporter--axios-loca-axios-66344605": {
+      "summary": "A reporter covers Dallas news and writes newsletters for Axios Local, focusing on local events and issues while leveraging AI tools to enhance reporting.",
+      "key_skills": [
+        "reporting",
+        "news",
+        "dallas",
+        "ai",
+        "scoop",
+        "conceptual_scoops",
+        "break_news",
+        "omnivorous_curiosity"
+      ],
+      "core_skills": [
+        "dallas_coverage",
+        "news_reporting",
+        "ai_integration",
+        "smart_brevity"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "gtm-engineer-cloudflare-66344605": {
+      "summary": "Designs and maintains AI-powered workflows to improve sales, marketing, and support functions through data infrastructure and automation.",
+      "key_skills": [
+        "gtm engineering",
+        "workflow automation",
+        "ai coding assistants",
+        "salesforce",
+        "api integration",
+        "systems thinking",
+        "data quality",
+        "technical revops"
+      ],
+      "core_skills": [
+        "systems thinking",
+        "api integration",
+        "salesforce",
+        "ai coding assistants"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
