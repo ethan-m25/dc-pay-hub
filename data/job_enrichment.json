@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T09:57:22.674867+00:00",
-    "total_jobs": 683,
-    "enriched": 547
+    "built_at": "2026-06-05T09:51:09.945112+00:00",
+    "total_jobs": 684,
+    "enriched": 548
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -7596,6 +7596,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-risk-manageme-grafanalabs-64602313": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-solutions-eng-grafanalabs-64602313": {
       "summary": "Enterprise Solutions Engineers partner with sales teams to educate customers on Grafana's value proposition, deliver technical presentations, and close high-velocity opportunities through advanced competitive knowledge and technical credibility.",
       "key_skills": [
@@ -7638,6 +7661,29 @@
         "observability"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategic-cloud-part-grafanalabs-64602313": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -9201,6 +9247,29 @@
         "backend",
         "api development",
         "scalable systems"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer--r-oneapp-64602313": {
+      "summary": "Builds resilient backend services for fraud detection, identity verification, and transaction monitoring at scale while collaborating with product managers and engineers to ensure secure and reliable financial systems.",
+      "key_skills": [
+        "node",
+        "typescript",
+        "kubernetes",
+        "aws",
+        "microservices",
+        "api",
+        "distributed systems",
+        "cloud infrastructure"
+      ],
+      "core_skills": [
+        "backend engineering",
+        "fintech",
+        "risk management",
+        "fraud detection"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -11420,52 +11489,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "principal-security-e-asana-81433498": {
-      "summary": "Provides technical leadership and execution across a complex, global, high-growth SaaS environment, defining security architecture and setting technical direction while driving cross-company alignment between Security, Engineering, Product, and Executive leadership.",
-      "key_skills": [
-        "security engineering",
-        "security architecture",
-        "least-privilege access",
-        "scalable detection",
-        "automation",
-        "risk management",
-        "incident response",
-        "security policy"
-      ],
-      "core_skills": [
-        "security engineering",
-        "security architecture",
-        "least-privilege access",
-        "scalable detection"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-engineering-m-asana-81433498": {
-      "summary": "This role leads and mentors a security engineering team, owns the security engineering roadmap, and drives high-impact security initiatives in a high-growth SaaS environment.",
-      "key_skills": [
-        "security",
-        "engineering",
-        "management",
-        "leadership",
-        "infrastructure",
-        "resilience",
-        "tooling",
-        "high-growth"
-      ],
-      "core_skills": [
-        "security engineering",
-        "technical mentorship",
-        "people management",
-        "high-impact security initiatives"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "senior-account-execu-cloudflare-81433498": {
       "summary": "Digital Native Account Executives at Cloudflare sell into high-growth tech companies in North America, driving product discussions and technical solutions while expanding customer accounts through acquisition, expansion, and renewal.",
       "key_skills": [
@@ -11622,75 +11645,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "large-enterprise-acc-dailypay-81433499": {
-      "summary": "Drives revenue from high-value enterprise accounts by partnering with C-suite executives to solve complex business challenges using DailyPay's technology platform.",
-      "key_skills": [
-        "sales",
-        "dealmaker",
-        "strategic",
-        "c-suite",
-        "product",
-        "tech",
-        "financial",
-        "analytical"
-      ],
-      "core_skills": [
-        "strategic_dealmaker",
-        "c-suite_partner",
-        "process_tech_mastery",
-        "superior_business_acumen"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "senior-associate--ac-dailypay-81433499": {
-      "summary": "The Sr. Associate, Account Based Marketing (ABM) will drive upmarket motion into Large Enterprise and Strategic segments by scaling reach through intent data to identify, engage, and convert in-market buyers.",
-      "key_skills": [
-        "account based marketing",
-        "project management",
-        "content marketing",
-        "account research",
-        "sales collaboration",
-        "data analysis",
-        "marketing automation",
-        "crm"
-      ],
-      "core_skills": [
-        "account based marketing",
-        "project management",
-        "data analysis",
-        "sales collaboration"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "solutions-engineer-dailypay-81433499": {
-      "summary": "Solutions engineer who partners with account executives to secure partnerships with employers by understanding partner needs, demonstrating product capabilities, and building trusted advisor relationships with customer stakeholders.",
-      "key_skills": [
-        "solutions engineering",
-        "sales engineering",
-        "technical communication",
-        "product knowledge",
-        "sales process",
-        "customer engagement",
-        "demo development",
-        "sales objections handling"
-      ],
-      "core_skills": [
-        "technical communication",
-        "product knowledge",
-        "sales process",
-        "customer engagement"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "reporter--axios-loca-axios-66344605": {
       "summary": "A reporter covers Dallas news and writes newsletters for Axios Local, focusing on local events and issues while leveraging AI tools to enhance reporting.",
       "key_skills": [
@@ -11734,6 +11688,74 @@
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "growth-account-execu-webflow-52753980": {
+      "summary": "Owns and closes complex SaaS deals for companies with 50-300 employees, building sales pipelines through proactive prospecting and stakeholder engagement.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "outbound",
+        "pipeline",
+        "account_management",
+        "stakeholder_management",
+        "negotiation",
+        "contract_management"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "outbound",
+        "pipeline"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal-security-e-asana-52753980": {
+      "summary": "Provides technical leadership and execution across a complex global SaaS security environment, defining security architecture and driving cross-company alignment between Security, Engineering, Product, and Executive leadership.",
+      "key_skills": [
+        "security engineering",
+        "security architecture",
+        "least-privilege access",
+        "scalable detection",
+        "automation",
+        "risk management",
+        "incident response",
+        "security frameworks"
+      ],
+      "core_skills": [
+        "security engineering",
+        "security architecture",
+        "least-privilege access",
+        "scalable detection"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-asana-52753980": {
+      "summary": "This role leads and mentors a security engineering team, owns the security engineering roadmap, and drives recruiting to ensure high-quality delivery of security initiatives in a fast-growing SaaS environment.",
+      "key_skills": [
+        "security",
+        "engineering",
+        "management",
+        "leadership",
+        "product",
+        "ai",
+        "agentic"
+      ],
+      "core_skills": [
+        "security engineering",
+        "technical leadership",
+        "risk management",
+        "high-growth sas"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     }
