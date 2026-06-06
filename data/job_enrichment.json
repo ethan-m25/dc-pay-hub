@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-05T09:51:09.945112+00:00",
-    "total_jobs": 684,
-    "enriched": 548
+    "built_at": "2026-06-06T09:47:53.019485+00:00",
+    "total_jobs": 690,
+    "enriched": 550
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -11714,7 +11714,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "principal-security-e-asana-52753980": {
+    "principal-security-e-asana-39178972": {
       "summary": "Provides technical leadership and execution across a complex global SaaS security environment, defining security architecture and driving cross-company alignment between Security, Engineering, Product, and Executive leadership.",
       "key_skills": [
         "security engineering",
@@ -11737,7 +11737,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "senior-engineering-m-asana-52753980": {
+    "senior-engineering-m-asana-39178972": {
       "summary": "This role leads and mentors a security engineering team, owns the security engineering roadmap, and drives recruiting to ensure high-quality delivery of security initiatives in a fast-growing SaaS environment.",
       "key_skills": [
         "security",
@@ -11757,6 +11757,56 @@
       "seniority_signal": "senior",
       "role_type": "manager",
       "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "sr--director--total--2u-39178972": {
+      "summary": "Sr. Director drives the implementation and modernization of total rewards and HR technology strategies to ensure competitive compensation, benefits, and scalable HR systems across global operations.",
+      "key_skills": [
+        "hr technology",
+        "compensation strategy",
+        "benefits management",
+        "workday",
+        "ai in hr",
+        "operational excellence",
+        "talent acquisition",
+        "workforce planning"
+      ],
+      "core_skills": [
+        "hr technology",
+        "compensation strategy",
+        "benefits management",
+        "workforce planning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-all-source-in-trm-labs-39178972": {
+      "summary": "An All-Source Intelligence Analyst leads targeting-driven investigative work by executing legal process, fusing on-chain and off-chain data to build operational pictures for scam disruption, and delivering actionable intelligence to law enforcement partners.",
+      "key_skills": [
+        "all-source intelligence",
+        "investigative analysis",
+        "legal process",
+        "targeting",
+        "on-chain attribution",
+        "off-chain telemetry",
+        "osint",
+        "crypto tradecraft"
+      ],
+      "core_skills": [
+        "legal process",
+        "targeting",
+        "on-chain attribution",
+        "osint"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [
+        "us citizenship required",
+        "active ts/sci clearance required",
+        "must be located in washington, d/c/md/va area"
+      ],
       "work_mode_derived": "hybrid"
     }
   }
