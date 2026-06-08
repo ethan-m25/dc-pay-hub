@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-07T09:48:01.498990+00:00",
-    "total_jobs": 690,
-    "enriched": 550
+    "built_at": "2026-06-08T09:53:54.963236+00:00",
+    "total_jobs": 700,
+    "enriched": 548
   },
   "jobs": {
     "associate-director---democracy-forwa-28696060": {
@@ -11762,51 +11762,6 @@
         "active ts/sci clearance required",
         "must be located in washington, d/c/md/va area"
       ],
-      "work_mode_derived": "hybrid"
-    },
-    "principal-security-e-asana-25558428": {
-      "summary": "Provides technical leadership and execution across a complex global SaaS security environment, defining security architecture and driving cross-company alignment between Security, Engineering, Product, and Executive leadership.",
-      "key_skills": [
-        "security engineering",
-        "security architecture",
-        "least-privilege access",
-        "scalable detection",
-        "automation",
-        "risk management",
-        "incident response",
-        "security frameworks"
-      ],
-      "core_skills": [
-        "security engineering",
-        "security architecture",
-        "least-privilege access",
-        "scalable detection"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-engineering-m-asana-25558428": {
-      "summary": "This role leads and mentors a security engineering team, owns the security engineering roadmap, and drives recruiting to ensure high-quality delivery of security initiatives in a fast-growing SaaS environment.",
-      "key_skills": [
-        "security",
-        "engineering",
-        "management",
-        "leadership",
-        "product",
-        "ai",
-        "agentic"
-      ],
-      "core_skills": [
-        "security engineering",
-        "technical leadership",
-        "risk management",
-        "high-growth sas"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
       "work_mode_derived": "hybrid"
     }
   }
