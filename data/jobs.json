@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 913,
-    "active": 711,
-    "new_today": 2,
+    "count": 908,
+    "active": 706,
+    "new_today": 3,
     "links_newly_archived": 0,
-    "updated": "2026-06-22T00:27:20Z",
+    "updated": "2026-06-22T17:33:52Z",
     "state": "Washington DC",
     "law": "⚖️ DC Law 25-194 (2024)",
     "currency": "USD",
@@ -29656,6 +29656,33 @@
       "last_seen": "2026-06-19",
       "location_display": "Washington, DC",
       "location_city": "Washington"
+    },
+    {
+      "role": "VP, General Manager",
+      "company": "2U",
+      "min": 164000,
+      "max": 192600,
+      "location": "Remote (DC)",
+      "source_url": "https://job-boards.greenhouse.io/2u/jobs/8566361002",
+      "posted": "2026-06-22",
+      "source_platform": "greenhouse",
+      "currency": "USD",
+      "region": "DC",
+      "_width": 28600,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "vp--general-manager-2u-49632748",
+      "status": "active",
+      "date_added": "2026-06-22",
+      "scraped": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location_display": "Remote (DC)",
+      "location_city": ""
     }
   ]
 }
