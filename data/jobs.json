@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 2403,
-    "active": 1075,
-    "new_today": 41,
-    "links_newly_archived": 2,
-    "updated": "2026-10-17T06:05:43Z",
+    "count": 2404,
+    "active": 1076,
+    "new_today": 38,
+    "links_newly_archived": 0,
+    "updated": "2026-10-18T07:03:29Z",
     "state": "Washington DC",
     "law": "⚖️ DC Law 25-194 (2024)",
     "currency": "USD",
@@ -71740,6 +71740,33 @@
       "last_seen": "2026-10-17",
       "location_display": "Washington, DC",
       "location_city": "Washington"
+    },
+    {
+      "role": "Staff Engineer, Software (R6331)",
+      "company": "Shieldai",
+      "min": 140000,
+      "max": 210000,
+      "location": "Remote (DC)",
+      "source_url": "https://jobs.lever.co/shieldai/dd7070fb-bc02-4ab0-930f-c3c2e933353e",
+      "posted": "2026-10-18",
+      "source_platform": "lever",
+      "currency": "USD",
+      "region": "DC",
+      "_width": 70000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Engineering",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "staff-engineer--soft-shieldai-07009113",
+      "status": "active",
+      "date_added": "2026-10-18",
+      "scraped": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "location_display": "Remote (DC)",
+      "location_city": ""
     }
   ]
 }
