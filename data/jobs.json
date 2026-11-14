@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 2662,
-    "active": 1164,
-    "new_today": 39,
-    "links_newly_archived": 0,
-    "updated": "2026-11-13T06:09:11Z",
+    "count": 2664,
+    "active": 1151,
+    "new_today": 35,
+    "links_newly_archived": 15,
+    "updated": "2026-11-14T04:57:52Z",
     "state": "Washington DC",
     "law": "⚖️ DC Law 25-194 (2024)",
     "currency": "USD",
@@ -5665,7 +5665,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "acquisition-analyst-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5678,7 +5678,8 @@
       "category_provisional": false,
       "category_title": "Finance",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Real World Data Engineer, Lead",
@@ -5699,7 +5700,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "real-world-data-engi-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5712,7 +5713,8 @@
       "category_provisional": false,
       "category_title": "Data & Analytics",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Contractor Program Security Officer",
@@ -5733,7 +5735,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "contractor-program-s-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5746,7 +5748,8 @@
       "category_provisional": false,
       "category_title": "IT & Infra",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Security"
+      "category_legacy": "Security",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Real-World Data Program Manager",
@@ -5767,7 +5770,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "real-world-data-prog-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5780,7 +5783,8 @@
       "category_provisional": false,
       "category_title": "Product & Project",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Ship Modernization Specialist, Senior",
@@ -5801,7 +5805,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "ship-modernization-s-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5813,7 +5817,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Industrial-Organizational Subject Matter Expert",
@@ -5868,7 +5873,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "modeling-and-simulat-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5881,7 +5886,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Talent Acquisition Strategist",
@@ -5936,7 +5942,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "information-systems--booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5949,7 +5955,8 @@
       "category_provisional": false,
       "category_title": "IT & Infra",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Security"
+      "category_legacy": "Security",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "All-Source Cyber Intelligence Analyst",
@@ -5970,7 +5977,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "all-source-cyber-int-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -5982,7 +5989,8 @@
       "category_provisional": false,
       "category_title": "IT & Infra",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "AWS Network Architect, Senior",
@@ -6003,7 +6011,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "aws-network-architec-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -6015,7 +6023,8 @@
       "category_provisional": false,
       "category_title": "IT & Infra",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Product Support Analyst, Senior",
@@ -6036,7 +6045,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "product-support-anal-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -6049,7 +6058,8 @@
       "category_provisional": false,
       "category_title": "Customer Service & Hospitality",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "All-Source Analyst",
@@ -6070,7 +6080,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "all-source-analyst-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -6083,7 +6093,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Data Engineer, Lead",
@@ -6104,7 +6115,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "data-engineer--lead-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -6117,7 +6128,8 @@
       "category_provisional": false,
       "category_title": "Data & Analytics",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Data Scientist, Lead",
@@ -6138,7 +6150,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "data-scientist--lead-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -6151,7 +6163,8 @@
       "category_provisional": false,
       "category_title": "Data & Analytics",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Military Deception Planner SME",
@@ -6172,7 +6185,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "military-deception-p-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -6184,7 +6197,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "AI/ML Engineer",
@@ -6205,7 +6219,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "ai-ml-engineer-booz-allen-hami-07554937",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-08",
@@ -6217,7 +6231,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-11-13"
     },
     {
       "role": "Remote and Autonomous Systems Product Support Analyst, Senior",
@@ -78923,6 +78938,87 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "director-policy-solu-merck-sharp---d-50151417",
+      "status": "active",
+      "date_added": "2026-11-13",
+      "scraped": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "location_display": "Washington, DC",
+      "location_city": "Washington"
+    },
+    {
+      "role": "Manager, Solutions Engineering | West Coast | Remote",
+      "company": "Grafanalabs",
+      "min": 234000,
+      "max": 278000,
+      "location": "Remote (DC)",
+      "source_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6238286004",
+      "posted": "2026-11-13",
+      "source_platform": "greenhouse",
+      "currency": "USD",
+      "region": "DC",
+      "_width": 44000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Engineering",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "manager--solutions-e-grafanalabs-32272714",
+      "status": "active",
+      "date_added": "2026-11-13",
+      "scraped": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "location_display": "Remote (DC)",
+      "location_city": ""
+    },
+    {
+      "role": "Contracts Manager",
+      "company": "Hadrian Automation",
+      "min": 112000,
+      "max": 165000,
+      "location": "Washington, DC",
+      "source_url": "https://jobs.ashbyhq.com/hadrian-automation/d98ff7e9-166c-44d3-addb-e4ea5f19c060",
+      "posted": "2026-11-13",
+      "source_platform": "ashby",
+      "currency": "USD",
+      "region": "DC",
+      "_width": 53000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "contracts-manager-hadrian-automat-32272714",
+      "status": "active",
+      "date_added": "2026-11-13",
+      "scraped": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "location_display": "Washington, DC",
+      "location_city": "Washington"
+    },
+    {
+      "role": "Director, Government Contracts",
+      "company": "Hadrian Automation",
+      "min": 208000,
+      "max": 245000,
+      "location": "Washington, DC",
+      "source_url": "https://jobs.ashbyhq.com/hadrian-automation/8121c209-5ffe-406c-bf36-dbfc9ca9dd37",
+      "posted": "2026-11-13",
+      "source_platform": "ashby",
+      "currency": "USD",
+      "region": "DC",
+      "_width": 37000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "director--government-hadrian-automat-32272714",
       "status": "active",
       "date_added": "2026-11-13",
       "scraped": "2026-11-13",
